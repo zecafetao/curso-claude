@@ -1,0 +1,12 @@
+Linhas lidas: 120
+Linhas para importar: 87
+Linhas rejeitadas: 33
+  descadastrado: 8
+  e-mail inválido: 6
+  e-mail repetido: 12
+  nome ausente: 3
+  origem não reconhecida: 4
+Avisos: 22
+  cnpj descartado: 4
+  consentimento rebaixado: 9
+  telefone descartado: 9

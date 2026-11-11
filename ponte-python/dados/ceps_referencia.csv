@@ -1,0 +1,16 @@
+cep;cidade;uf;situacao
+00000000;;;não encontrado
+01310100;São Paulo;SP;encontrado
+04538132;São Paulo;SP;encontrado
+13010000;Campinas;SP;encontrado
+20040020;Rio de Janeiro;RJ;encontrado
+30130010;Belo Horizonte;MG;encontrado
+40020000;Salvador;BA;encontrado
+50010000;Recife;PE;encontrado
+60060170;Fortaleza;CE;encontrado
+69005010;Manaus;AM;encontrado
+70040010;Brasília;DF;encontrado
+74003010;Goiânia;GO;encontrado
+80010000;Curitiba;PR;encontrado
+88010000;Florianópolis;SC;encontrado
+90010150;Porto Alegre;RS;encontrado

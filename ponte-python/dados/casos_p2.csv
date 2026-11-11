@@ -1,0 +1,26 @@
+funcao;entrada;esperado
+padronizar_email; Ana.Souza@Alfa.Example ;ana.souza@alfa.example
+padronizar_email;JOAO@BETA.EXAMPLE;joao@beta.example
+email_valido;ana.souza@alfa.example;True
+email_valido;maria+feira@gama.example;True
+email_valido;ana.souza.alfa.example;False
+email_valido;ana souza@alfa.example;False
+email_valido;joao@alfa;False
+email_valido;joao@@alfa.example;False
+email_valido;pedro@alfa.example,;False
+email_valido;;False
+email_valido;@alfa.example;False
+email_valido;joao@.example;False
+padronizar_telefone;(11) 99990-0001;+5511999900001
+padronizar_telefone;11999900001;+5511999900001
+padronizar_telefone;+55 11 99990-0001;+5511999900001
+padronizar_telefone;5511999900001;+5511999900001
+padronizar_telefone;011999900001;+5511999900001
+padronizar_telefone;(21) 3333-0002;+552133330002
+padronizar_telefone;55 51 3333-0007;+555133330007
+padronizar_telefone;(31) 9999-0003;+5531999990003
+padronizar_telefone;9999-0004;
+padronizar_telefone;123;
+padronizar_telefone;;
+padronizar_telefone;(10) 99990-0005;
+padronizar_telefone;(11) 89990-0006;

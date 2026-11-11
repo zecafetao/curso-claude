@@ -1,0 +1,88 @@
+email;nome;sobrenome;telefone;empresa;cnpj;cargo;area;cidade;uf;origem;consentimento;data_consentimento
+xenia.farias@delta.example;Xênia;Farias;+5548999900023;Laboratório Delta;12321023000100;Representante de Vendas;Comercial;;;Expositor;S;2025-12-24
+carla.oliveira@gama.example;Carla;Oliveira da Silva;+5531999900002;Cosméticos Gama;12321002000100;Supervisor de Qualidade;Produção;Belo Horizonte;MG;Evento;N;
+wagner.werneck@delta.example;Wagner;Werneck;;Laboratório Delta;12321010000100;Engenheira de Embalagens;Produção;;;Expositor;S;2025-08-23
+nelson.lacerda@omicron.example;Nelson;Lacerda de Souza;;Conservas Ômicron;12321094000100;Gerente de Marketing;Marketing;;;Compra de base;N;
+fabio.henriques@eta.example;Fábio;Henriques dos Santos;+5531999990086;Laticínios Eta;12321086000100;Analista Financeiro;Outros;Belo Horizonte;MG;Site;S;2025-03-06
+tiago.duarte@ipsilon.example;Tiago;Duarte;;Vitaminas Ípsilon;12321019000100;Brand Manager;Outros;;;Compra de base;S;2025-08-20
+olivia.siqueira@pi.example;Olívia;Siqueira;+5585999900095;Limpeza Pi;12321095000100;Representante de Vendas;Comercial;Fortaleza;CE;Credenciamento;S;2025-12-15
+xenia.duarte@epsilon.example;Xênia;Duarte de Souza;+5561999900104;Higiene Épsilon;;Gerente de Produto;Marketing;;;Compra de base;S;2025-09-24
+elaine.cardoso@epsilon.example;Elaine;Cardoso de Souza;;Higiene Épsilon;12321004000100;Key Account Manager;Comercial;;;Compra de base;S;2025-05-05
+marta.queiroz@alfa.example;Marta;Queiroz;+556233330080;Alimentos Alfa;12321080000100;Gerente de Produto;Marketing;Goiânia;GO;Credenciamento;S;2025-09-27
+marta.almeida@eta.example;Marta;Almeida dos Santos;+5592999990026;Laticínios Eta;12321026000100;Supervisor de Qualidade;Produção;Manaus;AM;Site;S;2025-03-27
+hugo.farias@omicron.example;Hugo;Farias de Souza;+5561999900034;Conservas Ômicron;12321034000100;Analista de Suprimentos;Compras;;;Compra de base;S;2025-11-08
+paulo.ramos@capa.example;Paulo;Ramos;+5511999900069;Doces Capa;04321069000100;Gerente de Produção;Produção;;;Compra de base;S;2025-10-16
+yara.macedo@epsilon.example;Yara;Macedo de Souza;+556233330024;Higiene Épsilon;04321024000100;Gerente de Compras;Compras;;;Compra de base;S;2025-01-25
+joao.jardim@lambda.example;João;Jardim;+5561999900090;Massas Lambda;04321090000100;Gerente Comercial;Comercial;Brasília;DF;Credenciamento;S;2025-07-10
+zeca.barros@ni.example;Zeca;Barros da Silva;+556233330052;Perfumaria Ni;12321052000100;Key Account Manager;Comercial;Goiânia;GO;Evento;N;
+queila.yamada@lambda.example;Queila;Yamada;+5511999900070;Massas Lambda;12321070000100;Gerente de Marketing;Marketing;São Paulo;SP;Credenciamento;S;2025-11-17
+paulo.jardim@gama.example;Paulo;Jardim da Silva;+5511999900042;Cosméticos Gama;04321042000100;Gerente Comercial;Comercial;São Paulo;SP;Evento;N;
+carla.macedo@delta.example;Carla;Macedo;+5511999900083;Laboratório Delta;12321083000100;CEO;Diretoria;;;Expositor;N;
+wagner.yamada@gama.example;Wagner;Yamada da Silva;;Cosméticos Gama;12321022000100;Gerente de Marketing;Marketing;Campinas;;Evento;N;
+ursula.klein@alfa.example;Úrsula;Klein;+5561999900020;Alimentos Alfa;12321020000100;Head of Procurement;Compras;Brasília;DF;Credenciamento;S;2025-09-21
+zeca.ramos@eta.example;Zeca;Ramos dos Santos;+5519999990106;Laticínios Eta;12321010000100;Analista de Suprimentos;Compras;Campinas;SP;Site;S;2025-11-26
+yara.klein@zeta.example;Yara;Klein;+5581999900105;Pet Zeta;;Assistente Administrativo;Outros;Recife;PE;Credenciamento;N;
+queila.gomes@sigma.example;Queila;Gomes;+5511999900097;Grãos Sigma;;Diretor Industrial;Diretoria;Sao Paulo;SP;Evento;S;2025-02-17
+tiago.barros@alfa.example;Tiago;Barros;+5531999900100;Alimentos Alfa;12321010000100;Key Account Manager;Comercial;Belo Horizonte;MG;Credenciamento;S;2025-05-20
+mariana.gomes@ni.example;Mariana;Gomes da Silva;+5592999900012;Perfumaria Ni;04321012000100;Analista de P&D;Produção;Manaus;AM;Evento;N;
+joao.barros@delta.example;João;Barros;+5581999900063;Laboratório Delta;04321063000100;Coordenadora de Supply Chain;Compras;;;Expositor;S;2025-04-10
+gabriela.queiroz@eta.example;Gabriela;Queiroz dos Santos;+5561999990006;Laticínios Eta;04321006000100;Sócio-proprietário;Diretoria;Brasília;DF;Site;N;
+nelson.duarte@teta.example;Nelson;Duarte;;Cervejaria Teta;12321067000100;Brand Manager;Outros;Fortaleza;CE;Evento;S;2025-08-14
+isabela.esteves@iota.example;Isabela;Esteves e Castro;+5519999900008;Farmacêutica Iota;12321008000100;Gerente de Produto;Marketing;;;Expositor;N;
+leonardo.xavier@ni.example;Leonardo;Xavier da Silva;+5519999900092;Perfumaria Ni;12321092000100;Head of Procurement;Compras;Campinas;SP;Evento;N;
+ana.yamada@beta.example;Ana;Yamada;+5585999900081;Bebidas Beta;;Assistente Administrativo;Outros;Fortaleza;CE;Site;S;2025-10-01
+hugo.vasconcelos@iota.example;Hugo;Vasconcelos e Castro;+5551999900088;Farmacêutica Iota;12321088000100;Diretora de Marketing;Diretoria;;;Expositor;N;
+mariana.werneck@eta.example;Mariana;Werneck dos Santos;+556233330066;Laticínios Eta;04321066000100;Gerente Comercial;Comercial;Goiânia;GO;Site;S;2025-07-13
+ana.almeida@alfa.example;Ana;Almeida;+5511999900000;Alimentos Alfa;04321000000100;Gerente de Compras;Compras;São Paulo;SP;Credenciamento;S;2025-01-01
+marta.yamada@teta.example;Marta;Yamada;+5548999900107;Cervejaria Teta;12321010000100;CEO;Diretoria;Florianópolis;SC;Evento;S;2025-12-27
+ursula.almeida@omicron.example;Úrsula;Almeida de Souza;+5551999900074;Conservas Ômicron;;Supervisor de Qualidade;Produção;;;Compra de base;S;2025-03-21
+daniel.teixeira@epsilon.example;Daniel;Teixeira de Souza;+5511999900084;Higiene Épsilon;04321084000100;Analista de P&D;Produção;;;Compra de base;S;2025-01-04
+queila.ibarra@ro.example;Queila;Ibarra dos Santos;+5531999990016;Rações Rô;12321016000100;Diretora de Marketing;Diretoria;Belo Horizonte;MG;Site;S;2025-05-17
+gabriela.gomes@alfa.example;Gabriela;Gomes;+5551999900060;Alimentos Alfa;04321060000100;Analista de P&D;Produção;Porto Alegre;RS;Credenciamento;N;
+leonardo.henriques@tau.example;Leonardo;Henriques e Castro;+556233330038;Chás Tau;12321038000100;Analista Financeiro;Outros;;;Expositor;N;
+nelson.vasconcelos@alfa.example;Nelson;Vasconcelos;;Alimentos Alfa;12321040000100;Diretora de Marketing;Diretoria;Manaus;AM;Credenciamento;S;2025-05-14
+yara.uchoa@mi.example;Yara;Uchoa;;Sucos Mi;04321051000100;Analista de Trade Marketing;Marketing;Florianópolis;SC;Site;S;2025-04-25
+ana.ibarra@teta.example;Ana;Ibarra;+5511999900027;Cervejaria Teta;04321027000100;Analista de Trade Marketing;Marketing;São Paulo;SP;Evento;S;2025-04-01
+hugo.xavier@teta.example;Hugo;Xavier;;Cervejaria Teta;12321007000100;Engenheira de Embalagens;Produção;Recife;PE;Evento;S;2025-08-08
+bruno.xavier@pi.example;Bruno;Xavier;;Limpeza Pi;12321055000100;Engenheira de Embalagens;Produção;São Paulo;SP;Credenciamento;S;2025-08-02
+elaine.klein@mi.example;Elaine;Klein;;Sucos Mi;12321031000100;Engenheira de Embalagens;Produção;Curitiba;PR;Site;S;2025-08-05
+isabela.macedo@pi.example;Isabela;Macedo;+5581999900035;Limpeza Pi;12321035000100;CEO;Diretoria;Recife;PE;Credenciamento;N;
+sandra.macedo@ni.example;Sandra;Macedo da Silva;+5531999900072;Perfumaria Ni;04321072000100;Gerente de Compras;Compras;Belo Horizonte;MG;Evento;N;
+isabela.cardoso@capa.example;Isabela;Cardoso;+5571999900089;Doces Capa;;Coordenador de Desenvolvimento de Embalagens;Produção;;;Compra de base;S;2025-06-09
+zeca.teixeira@zeta.example;Zeca;Teixeira;+5585999900025;Pet Zeta;;Diretor Industrial;Diretoria;Fortaleza;CE;Credenciamento;S;2025-02-26
+ana.queiroz@omicron.example;Ana;Queiroz de Souza;+5592999900054;Conservas Ômicron;04321054000100;Sócio-proprietário;Diretoria;;;Compra de base;S;2025-07-01
+fabio.zanetti@ipsilon.example;Fábio;Zanetti;+554133330059;Vitaminas Ípsilon;12321059000100;CEO;Diretoria;;;Compra de base;S;2025-12-06
+tiago.lacerda@eta.example;Tiago;Lacerda dos Santos;+5551999990046;Laticínios Eta;12321046000100;Gerente de Marketing;Marketing;Porto Alegre;RS;Site;S;2025-11-20
+ursula.siqueira@teta.example;Úrsula;Siqueira;+5571999900047;Cervejaria Teta;12321047000100;Representante de Vendas;Comercial;Salvador;BA;Evento;S;2025-12-21
+mariana.oliveira@ipsilon.example;Mariana;Oliveira;+5585999900039;Vitaminas Ípsilon;04321039000100;Coordenadora de Supply Chain;Compras;;;Compra de base;N;
+sandra.werneck@tau.example;Sandra;Werneck e Castro;+5551999900018;Chás Tau;04321018000100;Gerente Comercial;Comercial;;;Expositor;N;
+elaine.siqueira@tau.example;Elaine;Siqueira e Castro;;Chás Tau;12321058000100;Analista de Suprimentos;Compras;;;Expositor;N;
+karina.queiroz@mi.example;Karina;Queiroz;;Sucos Mi;12321091000100;Brand Manager;Outros;Recife;PE;Site;S;2025-08-11
+olivia.klein@iota.example;Olívia;Klein e Castro;+5592999900068;Farmacêutica Iota;12321068000100;Head of Procurement;Compras;;;Expositor;N;
+leonardo.zanetti@mi.example;Leonardo;Zanetti;;Sucos Mi;12321011000100;CEO;Diretoria;Fortaleza;CE;Site;S;2025-12-12
+queila.queiroz@delta.example;Queila;Queiroz;;Laboratório Delta;12321043000100;Brand Manager;Outros;;;Expositor;S;2025-08-17
+vinicius.zanetti@iota.example;Vinícius;Zanetti e Castro;+5561999900048;Farmacêutica Iota;04321048000100;Gerente de Compras;Compras;;;Expositor;N;
+rafael.xavier@epsilon.example;Rafael;Xavier de Souza;+5531999900044;Higiene Épsilon;;Head of Procurement;Compras;;;Compra de base;S;2025-09-18
+fabio.ramos@ni.example;Fábio;Ramos da Silva;+5551999900032;Perfumaria Ni;12321032000100;Gerente de Produto;Marketing;Porto Alegre;RS;Evento;N;
+xenia.nogueira@lambda.example;Xênia;Nogueira;+5519999900050;Massas Lambda;12321050000100;Supervisor de Qualidade;Produção;Campinas;SP;Credenciamento;N;
+gabriela.oliveira@teta.example;Gabriela;Oliveira;+554133330087;Cervejaria Teta;04321087000100;Coordenadora de Supply Chain;Compras;Curitiba;PR;Evento;S;2025-04-07
+bruno.henriques@beta.example;Bruno;Henriques;+5521999900001;Bebidas Beta;;Diretor Industrial;Diretoria;Rio de Janeiro;RJ;Site;S;2025-02-02
+joao.teixeira@ro.example;João;Teixeira dos Santos;+5519999990036;Rações Rô;04321036000100;Analista de P&D;Produção;Campinas;SP;Site;S;2025-01-10
+olivia.uchoa@omicron.example;Olívia;Uchoa de Souza;+5511999900014;Conservas Ômicron;;Analista Financeiro;Outros;;;Compra de base;S;2025-03-15
+karina.siqueira@lambda.example;Karina;Siqueira;+556233330010;Massas Lambda;12321010000100;Analista de Suprimentos;Compras;Goiânia;GO;Credenciamento;N;
+yara.cardoso@tau.example;Yara;Cardoso e Castro;+5519999900078;Chás Tau;04321078000100;Sócio-proprietário;Diretoria;;;Expositor;N;
+daniel.duarte@lambda.example;Daniel;Duarte;+5531999900030;Massas Lambda;04321030000100;Sócio-proprietário;Diretoria;Belo Horizonte;MG;Credenciamento;S;2025-07-04
+carla.esteves@ro.example;Carla;Esteves dos Santos;+5511999990056;Rações Rô;12321056000100;Gerente de Produto;Marketing;São Paulo;SP;Site;S;2025-09-03
+vinicius.henriques@pi.example;Vinícius;Henriques;+5571999900075;Limpeza Pi;04321075000100;Analista de Trade Marketing;Marketing;Salvador;BA;Credenciamento;S;2025-04-22
+vinicius.pacheco@gama.example;Vinícius;Pacheco da Silva;+5551999900102;Cosméticos Gama;04321010000100;Sócio-proprietário;Diretoria;Porto Alegre;;Evento;N;
+paulo.zanetti@ro.example;Paulo;Zanetti dos Santos;+5592999990096;Rações Rô;04321096000100;Gerente de Compras;Compras;Manaus;AM;Site;S;2025-01-16
+isabela.uchoa@gama.example;Isabela;Uchoa da Silva;+5561999900062;Cosméticos Gama;12321062000100;Analista Financeiro;Outros;Brasília;;Evento;N;
+rafael.nogueira@tau.example;Rafael;Nogueira e Castro;+5511999900098;Chás Tau;12321098000100;Supervisor de Qualidade;Produção;;;Expositor;N;
+sandra.uchoa@ipsilon.example;Sandra;Uchoa;+5521999900099;Vitaminas Ípsilon;04321099000100;Analista de Trade Marketing;Marketing;;;Compra de base;S;2025-04-19
+rafael.farias@mi.example;Rafael;Farias;;Sucos Mi;12321071000100;Representante de Vendas;Comercial;Rio de Janeiro;RJ;Site;S;2025-12-18
+zeca.jardim@ipsilon.example;Zeca;Jardim;;Vitaminas Ípsilon;12321079000100;Engenheira de Embalagens;Produção;;;Compra de base;S;2025-08-26
+wagner.oliveira@ro.example;Wagner;Oliveira dos Santos;;Rações Rô;12321076000100;Key Account Manager;Comercial;Brasília;DF;Site;S;2025-05-23
+bruno.pacheco@iota.example;Bruno;Pacheco e Castro;+5511999900028;Farmacêutica Iota;12321028000100;Key Account Manager;Comercial;;;Expositor;N;
+bruno.farias@gama.example;Bruno;Farias da Silva;+5592999900082;Cosméticos Gama;12321082000100;Analista de Suprimentos;Compras;Manaus;AM;Evento;N;
+karina.ibarra@epsilon.example;Karina;Ibarra de Souza;+5519999900064;Higiene Épsilon;12321064000100;Diretora de Marketing;Diretoria;;;Compra de base;S;2025-05-11
+paulo.barros@pi.example;Paulo;Barros;+5521999900015;Limpeza Pi;04321015000100;Coordenadora de Supply Chain;Compras;Rio de Janeiro;RJ;Credenciamento;S;2025-04-16

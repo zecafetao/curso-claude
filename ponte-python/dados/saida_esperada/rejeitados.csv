@@ -1,0 +1,34 @@
+linha;email_bruto;motivo
+2;carla.werneck@capa;e-mail inválido
+8;ELAINE.ALMEIDA@ZETA.EXAMPLE;descadastrado
+18;WAGNER.GOMES@CAPA.EXAMPLE;descadastrado
+22;rafael pacheco@sigma.example;e-mail inválido
+24;VINICIUS.RAMOS@BETA.EXAMPLE;descadastrado
+31;  ursula.klein@alfa.example;e-mail repetido
+33;XENIA.VASCONCELOS@SIGMA.EXAMPLE;nome ausente
+37;olivia.cardoso@@beta.example;e-mail inválido
+49;GABRIELA.YAMADA@CSI.EXAMPLE;descadastrado
+50;HUGO.NOGUEIRA@BETA.EXAMPLE;origem não reconhecida
+55;  zeca.barros@ni.example;e-mail repetido
+64;fabio.jardim.zeta.example;e-mail inválido
+69;Daniel.Vasconcelos@Delta.Example;descadastrado
+74;KARINA.ALMEIDA@SIGMA.EXAMPLE;nome ausente
+76;  carla.oliveira@gama.example;e-mail repetido
+79;JOAO.LACERDA@CAPA.EXAMPLE;nome ausente
+80;Gabriela.gomes@alfa.example;e-mail repetido
+82;SANDRA.ESTEVES@ZETA.EXAMPLE;origem não reconhecida
+86; marta.almeida@eta.example ;e-mail repetido
+87;  hugo.vasconcelos@iota.example;e-mail repetido
+88;URSULA.IBARRA@BETA.EXAMPLE;descadastrado
+91;DANIEL.LACERDA@SIGMA.EXAMPLE;descadastrado
+92;mariana.gomes@ni.example;e-mail repetido
+97;ana.almeida@alfa.example;e-mail repetido
+106;MARIANA.ESTEVES@CSI.EXAMPLE;origem não reconhecida
+107; queila.yamada@lambda.example ;e-mail repetido
+108;TIAGO.TEIXEIRA@CSI.EXAMPLE;descadastrado
+109;tiago.barros@alfa.example;e-mail repetido
+110;marta.ibarra@csi.example,;e-mail inválido
+115;NELSON.NOGUEIRA@CSI.EXAMPLE;origem não reconhecida
+116;Isabela.esteves@iota.example;e-mail repetido
+118;;e-mail inválido
+120;nelson.vasconcelos@alfa.example;e-mail repetido
