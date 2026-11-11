@@ -1,0 +1,21 @@
+id,cargo,setor
+T01,Comprador Júnior,Alimentos
+T02,Diretora de Compras,Bebidas
+T03,Analista de Compras,Consultoria empresarial
+T04,Gerente de Supply Chain,Higiene e limpeza
+T05,Head of Procurement,Cosméticos
+T06,Coordenadora de Desenvolvimento de Embalagens,Alimentos
+T07,Designer de Embalagens,Cosméticos
+T08,Brand Manager,Bebidas
+T09,Sócio-proprietário,Pet
+T10,Estagiário de Recursos Humanos,Alimentos
+T11,Gerente Industrial,Farmacêutico
+T12,CEO,Indústria de embalagens plásticas
+T13,Gerente de Produto,Pet
+T14,Analista de Qualidade,Bebidas
+T15,Assistente Administrativo,Farmacêutico
+T16,Supervisor de Produção,Alimentos
+T17,Coordenador de Trade Marketing,Higiene e limpeza
+T18,Presidente,Cosméticos
+T19,Professora,Educação
+T20,Gerente de Suprimentos e Logística,Farmacêutico
