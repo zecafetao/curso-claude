@@ -34,9 +34,9 @@ Cubra as seis áreas do seu trabalho. A lista abaixo é a sugestão; você pode 
 | 4 | Segmentação | Classificação de contatos em segmentos, por regra | 2.2 |
 | 5 | E-mail | Convite a partir de briefing, para um segmento informado | 2.1 |
 | 6 | E-mail | Variações de assunto para teste | 1.4 |
-| 7 | Landing page | Página em HTML a partir de briefing | 1.3 |
-| 8 | Relatório | Leitura de um quadro de desempenho | 1.4, projeto do Nível 1 |
-| 9 | Relatório | Análise de um teste de duas versões | Projeto do Nível 1 |
+| 7 | Landing page | Página em HTML a partir de briefing | 2.7 |
+| 8 | Relatório | Leitura de um quadro de desempenho | 1.4, 2.1 e 2.6 |
+| 9 | Relatório | Análise de um teste de duas versões | 2.6 |
 | 10 | Estudo de público ou de mercado | Extração de fatos de fontes, com escopo e origem | 2.3 |
 
 ## Os três casos de teste

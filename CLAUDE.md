@@ -23,11 +23,12 @@ Este repositório guarda um curso de Claude em português do Brasil, escrito por
 - Cada módulo segue as seções descritas no `README.md` da raiz, na mesma ordem.
 - Todo exercício tem passos numerados, entregável e critério de conclusão.
 - Todo projeto traz gabarito ou critérios de aprovação que o aluno consegue conferir sozinho.
+- Etapas com código têm uma pasta `gabarito/` com as soluções de referência. Os geradores dos dados fictícios ficam fora do repositório.
 
 ## Regras
 
 - Dados de exercício são sempre fictícios. Nunca copiar para o repositório nomes de clientes, feiras, pessoas ou números de documentos reais enviados pelo aluno; usar só a estrutura deles.
 - Código e números de gabarito devem ser executados e conferidos antes de entrar no repositório.
-- Fatos sujeitos a mudança (modelos, preços, planos, políticas) devem ser conferidos na documentação oficial e trazer a data de referência.
+- Fatos sujeitos a mudança (modelos, preços, planos, políticas, menus do app) devem ser conferidos na documentação oficial e trazer a data de referência. Recursos que não puderam ser testados no ambiente de escrita devem ser descritos a partir da documentação, com esse aviso ao aluno.
 - Escrever uma etapa por vez e esperar a revisão do aluno antes da seguinte.
 - Ao concluir uma etapa, atualizar a coluna "Situação" no `README.md` da raiz.
