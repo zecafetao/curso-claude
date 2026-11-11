@@ -13,7 +13,8 @@ Ao final deste nível, você obtém resultados consistentes em tarefas complexas
 | [2.3 Encadeamento e documentos longos](2.3-encadeamento-e-documentos-longos.md) | 3 h | Dividir uma tarefa grande em etapas e trabalhar com várias fontes |
 | [2.4 Raciocínio do modelo](2.4-raciocinio-do-modelo.md) | 2 h | Decidir quando mais esforço de raciocínio compensa |
 | [2.5 Extensões do app](2.5-extensoes-do-app.md) | 2 h | Usar conectores, Skills e pesquisa aprofundada |
-| [2.6 Fluxos de dados e marketing](2.6-fluxos-de-dados-e-marketing.md) | 2 h | Desenhar um fluxo de trabalho completo com pontos de conferência |
+| [2.6 Análise de dados no app](2.6-analise-de-dados-no-app.md) | 3 h | Analisar planilhas com tabelas, gráficos e teste de duas versões, conferindo o cálculo |
+| [2.9 Fluxos de dados e marketing](2.9-fluxos-de-dados-e-marketing.md) | 2 h | Desenhar um fluxo de trabalho completo com pontos de conferência |
 | [Projeto do nível](projeto.md) | 4 h | Montar uma biblioteca de 10 prompts testados |
 
 ## O que você precisa
@@ -28,6 +29,7 @@ Ao final deste nível, você obtém resultados consistentes em tarefas complexas
 | `regras_segmentos.md`, `contatos_exemplos.csv`, `contatos_teste.csv`, `contatos_teste_gabarito.csv` | 2.2 | Regras, exemplos e casos de teste de classificação de contatos |
 | `fontes/` | 2.3 | Três fontes sobre o mercado de embalagens |
 | `segmentos_universo.csv` | 2.4 | Tabela de segmentos de empresas para problemas de segmentação |
+| `desempenho_email_setembro.csv` | 2.6 | Exportação de desempenho por disparo de setembro |
 | `relatorio-mensal-email/` | 2.5 | Uma Skill pronta para instalar e melhorar |
 
 Os arquivos do Nível 1 continuam em uso: `briefing_campanha.md`, `layout_importacao_crm.md`, `resumo_estudo_publico.md` e `desempenho_email_outubro.csv`.
@@ -39,5 +41,6 @@ Os arquivos do Nível 1 continuam em uso: `briefing_campanha.md`, `layout_import
 3. Um estudo de mercado produzido em três etapas, com as fontes citadas (2.3).
 4. Uma tabela de acerto e tempo em dois níveis de esforço (2.4).
 5. A Skill do relatório mensal instalada, testada e melhorada (2.5).
-6. Um fluxo de campanha documentado (2.6).
-7. A biblioteca de 10 prompts testados (projeto).
+6. Uma análise de dois meses de e-mail conferida contra o gabarito, com gráficos (2.6).
+7. Um fluxo de campanha documentado (2.9).
+8. A biblioteca de 10 prompts testados (projeto).
