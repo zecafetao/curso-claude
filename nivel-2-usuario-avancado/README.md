@@ -14,6 +14,7 @@ Ao final deste nível, você obtém resultados consistentes em tarefas complexas
 | [2.4 Raciocínio do modelo](2.4-raciocinio-do-modelo.md) | 2 h | Decidir quando mais esforço de raciocínio compensa |
 | [2.5 Extensões do app](2.5-extensoes-do-app.md) | 2 h | Usar conectores, Skills e pesquisa aprofundada |
 | [2.6 Análise de dados no app](2.6-analise-de-dados-no-app.md) | 3 h | Analisar planilhas com tabelas, gráficos e teste de duas versões, conferindo o cálculo |
+| [2.7 E-mail e landing page em HTML](2.7-email-e-landing-page-em-html.md) | 3 h | Produzir o HTML de um e-mail e uma landing page, e corrigir a aparência a partir de prints |
 | [2.9 Fluxos de dados e marketing](2.9-fluxos-de-dados-e-marketing.md) | 2 h | Desenhar um fluxo de trabalho completo com pontos de conferência |
 | [Projeto do nível](projeto.md) | 4 h | Montar uma biblioteca de 10 prompts testados |
 
@@ -30,6 +31,7 @@ Ao final deste nível, você obtém resultados consistentes em tarefas complexas
 | `fontes/` | 2.3 | Três fontes sobre o mercado de embalagens |
 | `segmentos_universo.csv` | 2.4 | Tabela de segmentos de empresas para problemas de segmentação |
 | `desempenho_email_setembro.csv` | 2.6 | Exportação de desempenho por disparo de setembro |
+| `email_referencia.html` e `email_referencia.txt` | 2.7 | E-mail de referência, em HTML e em texto, que cumpre todas as regras do guia |
 | `relatorio-mensal-email/` | 2.5 | Uma Skill pronta para instalar e melhorar |
 
 Os arquivos do Nível 1 continuam em uso: `briefing_campanha.md`, `layout_importacao_crm.md`, `resumo_estudo_publico.md` e `desempenho_email_outubro.csv`.
@@ -42,5 +44,6 @@ Os arquivos do Nível 1 continuam em uso: `briefing_campanha.md`, `layout_import
 4. Uma tabela de acerto e tempo em dois níveis de esforço (2.4).
 5. A Skill do relatório mensal instalada, testada e melhorada (2.5).
 6. Uma análise de dois meses de e-mail conferida contra o gabarito, com gráficos (2.6).
-7. Um fluxo de campanha documentado (2.9).
-8. A biblioteca de 10 prompts testados (projeto).
+7. O HTML de um e-mail aprovado em 15 itens e uma landing page com formulário e consentimento (2.7).
+8. Um fluxo de campanha documentado (2.9).
+9. A biblioteca de 10 prompts testados (projeto).
