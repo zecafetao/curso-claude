@@ -1,6 +1,6 @@
 # Nível 1 — Fundamentos
 
-**Carga:** 12 h (10 h de módulos + 2 h de projeto) · **Pré-requisito:** nenhum
+**Carga:** 13 h (11 h de módulos + 2 h de projeto) · **Pré-requisito:** nenhum
 
 Ao final deste nível, você usa o app Claude com segurança no dia a dia e sabe quando confiar ou desconfiar de uma resposta.
 
@@ -9,8 +9,8 @@ Ao final deste nível, você usa o app Claude com segurança no dia a dia e sabe
 | Módulo | Carga | O que você passa a fazer |
 | --- | --- | --- |
 | [1.1 Como um modelo de linguagem funciona](1.1-como-um-modelo-funciona.md) | 2 h | Prever quando uma resposta precisa de checagem |
-| [1.2 Família de modelos](1.2-familia-de-modelos.md) | 1 h | Escolher o modelo certo para cada tarefa |
-| [1.3 O app Claude na prática](1.3-app-claude-na-pratica.md) | 3 h | Usar conversas, anexos, Projects, Artifacts, busca e memória |
+| [1.2 Família de modelos](1.2-familia-de-modelos.md) | 1 h 30 | Escolher o modelo certo para cada tarefa e administrar o limite de uso |
+| [1.3 O app Claude na prática](1.3-app-claude-na-pratica.md) | 3 h 30 | Usar conversas, anexos, imagens, Projects, Artifacts, busca e memória |
 | [1.4 Prompting básico](1.4-prompting-basico.md) | 3 h | Escrever pedidos claros e consertar uma resposta ruim |
 | [1.5 Uso responsável](1.5-uso-responsavel.md) | 1 h | Proteger dados pessoais e validar o que vai para o cliente |
 | [Projeto do nível](projeto.md) | 2 h | Montar um assistente para o relatório mensal de e-mail |
