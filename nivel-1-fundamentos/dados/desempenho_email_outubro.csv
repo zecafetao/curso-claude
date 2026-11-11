@@ -1,0 +1,16 @@
+disparo,data_envio,hora_envio,enviadas,entregues,aberturas_unicas,cliques_unicos,descadastros
+2026_10_EXPOMODELO_Prospeccao_Faltam15Dias,2026-10-01,14:00,8200,8110,4380,115,9
+2026_10_EXPOMODELO_Confirmacao_RespostaAutomatica,2026-10-01,,6,6,5,1,0
+2026_10_EXPOMODELO_Credenciamento_ConviteDireto,2026-10-02,10:00,4000,3968,2460,119,4
+2026_10_EXPOMODELO_Credenciamento_ConviteCompleto,2026-10-02,10:00,4000,3960,2290,79,5
+2026_09_EXPOMODELO_Credenciamento_Acao2oEnvio,2026-10-03,14:00,310,304,130,61,1
+2026_10_EXPOMODELO_Expositor_PrazosDeMontagem,2026-10-05,08:00,82,82,54,5,0
+2026_10_EXPOMODELO_Prospeccao_ProgramacaoCompleta,2026-10-06,10:00,8150,8065,4520,142,7
+2026_10_EXPOMODELO_PreCredenciado_ConvitePessoal,2026-10-07,10:00,2100,2048,925,110,2
+2026_10_EXPOMODELO_Prospeccao_Faltam10Dias,2026-10-08,14:00,8090,8010,4710,136,11
+2026_10_EXPOMODELO_PreCredenciado_Faltam10Dias,2026-10-08,15:00,2250,2200,800,49,4
+2026_10_EXPOMODELO_Credenciamento_CredencialPendente,2026-10-09,08:00,4300,4257,2500,174,6
+2026_10_EXPOMODELO_Expositor_UltimaChamadaCredenciais,2026-10-12,08:00,80,80,51,6,0
+2026_10_EXPOMODELO_Prospeccao_RodadaDeNegocios,2026-10-13,14:00,2100,2040,730,34,3
+2026_10_EXPOMODELO_Credenciamento_Reforco,2026-10-14,14:00,4250,4212,2485,160,5
+2026_10_EXPOMODELO_Reativacao_SentimosSuaFalta,2026-10-15,14:00,2900,2780,350,28,12
