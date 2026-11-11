@@ -1,0 +1,121 @@
+cnpj;empresa;setor;porte;uf;faturamento_estimado;funcionarios;data_abertura
+30005000000100;Papéis Modelo 001;Indústria de embalagens de papel e papelão;Média;SC;7.531.425,98;137;24/08/2008
+30015037000100;Plásticos Modelo 002;Indústria de embalagens plásticas;Grande;SP;832.042.099,47;1763;13/02/2003
+30025074000100;Rótulos Modelo 003;Rótulos e impressão;Pequena;SP;1.429.600,08;43;11/04/1980
+30035111000100;Plásticos Modelo 004;Indústria de embalagens plásticas;Pequena;PE;4.192.838,55;29;25/05/2015
+30045148000100;Plásticos Modelo 005;Indústria de embalagens plásticas;Média;SP;24.596.267,01;317;19/01/1985
+30055185000100;Papéis Modelo 006;Indústria de embalagens de papel e papelão;Média;SP;12.465.575,44;334;18/10/2016
+30065222000100;Plásticos Modelo 007;Indústria de embalagens plásticas;Grande;MG;1.078.430.899,70;4196;01/10/2013
+30075259000100;Plásticos Modelo 008;Indústria de embalagens plásticas;Grande;GO;420.946.982,03;1633;12/05/1997
+30085296000100;Papéis Modelo 009;Indústria de embalagens de papel e papelão;Média;SP;17.543.374,70;341;10/09/2002
+30095333000100;Plásticos Modelo 010;Indústria de embalagens plásticas;Grande;ES;680.126.955,27;1321;22/11/1996
+30105370000100;Papéis Modelo 011;Indústria de embalagens de papel e papelão;Pequena;RS;2.495.804,68;14;03/10/2001
+30115407000100;Máquinas Modelo 012;Máquinas e equipamentos;Média;MG;276.372.050,66;103;16/05/1994
+30125444000100;Rótulos Modelo 013;Rótulos e impressão;Média;SP;23.312.357,61;283;06/10/2010
+30135481000100;Distribuidora Modelo 014;Serviços e distribuição;Média;SP;19.802.890,87;142;04/12/1978
+30145518000100;Plásticos Modelo 015;Indústria de embalagens plásticas;Grande;RS;1.189.679.399,56;1928;08/03/1999
+30155555000100;Papéis Modelo 016;Indústria de embalagens de papel e papelão;Média;RJ;263.656.650,20;332;23/04/1981
+30165592000100;Papéis Modelo 017;Indústria de embalagens de papel e papelão;Média;SC;23.151.562,46;195;15/10/2007
+30175629000100;Máquinas Modelo 018;Máquinas e equipamentos;Pequena;SC;501.891,74;46;22/05/2004
+30185666000100;Distribuidora Modelo 019;Serviços e distribuição;Média;SP;14.919.705,32;335;03/08/2009
+30195703000100;Papéis Modelo 020;Indústria de embalagens de papel e papelão;Grande;SP;900.870.511,91;736;03/12/1994
+30205740000100;Plásticos Modelo 021;Indústria de embalagens plásticas;Grande;RS;1.206.720.385,57;2547;19/09/1998
+30215777000100;Máquinas Modelo 022;Máquinas e equipamentos;Pequena;CE;566.236,67;43;03/09/2005
+30225814000100;Rótulos Modelo 023;Rótulos e impressão;Média;SC;281.413.199,47;184;18/03/2001
+30235851000100;Rótulos Modelo 024;Rótulos e impressão;Média;PR;11.005.527,32;246;28/07/2022
+30245888000100;Plásticos Modelo 025;Indústria de embalagens plásticas;Grande;RJ;807.591.527,89;1162;12/04/1997
+30255925000100;Plásticos Modelo 026;Indústria de embalagens plásticas;Pequena;SC;1.789.647,81;8;17/12/2013
+30265962000100;Plásticos Modelo 027;Indústria de embalagens plásticas;Pequena;SP;2.056.744,87;21;18/12/2022
+30275999000100;Plásticos Modelo 028;Indústria de embalagens plásticas;Grande;SP;799.933.753,47;920;27/08/2017
+30285036000100;Papéis Modelo 029;Indústria de embalagens de papel e papelão;Média;RS;11.229.131,85;428;26/09/1981
+30295073000100;Rótulos Modelo 030;Rótulos e impressão;Média;RS;26.849.337,03;79;01/03/2019
+30305110000100;Papéis Modelo 031;Indústria de embalagens de papel e papelão;Média;SP;24.559.650,73;139;01/10/2018
+30315147000100;Rótulos Modelo 032;Rótulos e impressão;Grande;SP;810.582.337,07;540;03/04/2021
+30325184000100;Máquinas Modelo 033;Máquinas e equipamentos;Grande;SP;962.156.259,08;2609;04/12/2021
+30335221000100;Máquinas Modelo 034;Máquinas e equipamentos;Média;PR;207.733.843,43;61;07/12/2018
+30345258000100;Plásticos Modelo 035;Indústria de embalagens plásticas;Pequena;RS;1.739.522,09;37;02/07/2000
+30355295000100;Papéis Modelo 036;Indústria de embalagens de papel e papelão;Pequena;SP;436.990,27;12;11/02/2006
+30365332000100;Plásticos Modelo 037;Indústria de embalagens plásticas;Média;SP;106.343.995,92;433;04/06/2003
+30375369000100;Papéis Modelo 038;Indústria de embalagens de papel e papelão;Média;PR;13.609.360,35;118;02/05/1995
+30385406000100;Distribuidora Modelo 039;Serviços e distribuição;Média;SP;9.651.870,09;144;11/06/2021
+30395443000100;Distribuidora Modelo 040;Serviços e distribuição;Média;ES;13.148.061,53;350;26/01/2020
+30405480000100;Papéis Modelo 041;Indústria de embalagens de papel e papelão;Pequena;SP;735.851,13;16;27/04/1977
+30415517000100;Papéis Modelo 042;Indústria de embalagens de papel e papelão;Média;SP;27.155.741,73;407;03/02/1988
+30425554000100;Rótulos Modelo 043;Rótulos e impressão;Grande;RJ;898.402.361,46;2235;05/01/1993
+30435591000100;Plásticos Modelo 044;Indústria de embalagens plásticas;Média;SP;54.372.452,31;338;26/06/1997
+30445628000100;Distribuidora Modelo 045;Serviços e distribuição;Média;RS;6.645.793,42;67;14/09/1987
+30455665000100;Papéis Modelo 046;Indústria de embalagens de papel e papelão;Média;SP;14.528.480,67;419;04/02/2010
+30465702000100;Máquinas Modelo 047;Máquinas e equipamentos;Média;SP;61.937.471,35;73;06/08/1996
+30475739000100;Máquinas Modelo 048;Máquinas e equipamentos;Média;SC;85.321.574,55;273;06/03/1983
+30485776000100;Plásticos Modelo 049;Indústria de embalagens plásticas;Grande;SP;611.859.620,27;3686;25/03/2016
+30495813000100;Plásticos Modelo 050;Indústria de embalagens plásticas;Média;SP;21.130.942,27;212;27/07/2010
+30505850000100;Plásticos Modelo 051;Indústria de embalagens plásticas;Grande;SP;573.205.546,14;592;17/04/2012
+30515887000100;Máquinas Modelo 052;Máquinas e equipamentos;Média;MG;9.424.539,29;104;17/02/2012
+30525924000100;Máquinas Modelo 053;Máquinas e equipamentos;Média;SP;15.093.635,93;281;03/03/1988
+30535961000100;Papéis Modelo 054;Indústria de embalagens de papel e papelão;Grande;RJ;455.384.517,51;1179;25/08/1990
+30545998000100;Plásticos Modelo 055;Indústria de embalagens plásticas;Média;PR;20.593.774,33;367;21/10/1985
+30555035000100;Máquinas Modelo 056;Máquinas e equipamentos;Média;BA;21.964.847,75;273;22/09/1996
+30565072000100;Máquinas Modelo 057;Máquinas e equipamentos;Média;MG;189.526.964,06;376;28/11/1999
+30575109000100;Papéis Modelo 058;Indústria de embalagens de papel e papelão;Grande;RS;377.288.663,20;1245;02/01/2008
+30585146000100;Máquinas Modelo 059;Máquinas e equipamentos;Grande;SP;760.181.630,99;517;01/07/1982
+30595183000100;Plásticos Modelo 060;Indústria de embalagens plásticas;Média;SP;7.713.943,25;488;16/08/1981
+30605220000100;Rótulos Modelo 061;Rótulos e impressão;Grande;SP;400.274.128,21;4018;27/05/2003
+30615257000100;Máquinas Modelo 062;Máquinas e equipamentos;Grande;SP;688.366.951,62;2714;25/09/1976
+30625294000100;Plásticos Modelo 063;Indústria de embalagens plásticas;Média;SP;121.499.854,84;265;20/12/1978
+30635331000100;Máquinas Modelo 064;Máquinas e equipamentos;Média;SP;101.536.020,39;123;15/09/1980
+30645368000100;Plásticos Modelo 065;Indústria de embalagens plásticas;Grande;PR;903.781.084,27;3957;09/09/2012
+30655405000100;Papéis Modelo 066;Indústria de embalagens de papel e papelão;Pequena;SP;3.303.740,38;24;22/09/1995
+30665442000100;Papéis Modelo 067;Indústria de embalagens de papel e papelão;Grande;SP;979.521.709,06;683;07/06/2016
+30675479000100;Plásticos Modelo 068;Indústria de embalagens plásticas;Grande;SP;487.037.864,32;868;10/03/1983
+30685516000100;Plásticos Modelo 069;Indústria de embalagens plásticas;Média;SP;23.301.505,18;223;22/04/2012
+30695553000100;Rótulos Modelo 070;Rótulos e impressão;Média;RJ;21.914.874,36;454;12/06/1991
+30705590000100;Máquinas Modelo 071;Máquinas e equipamentos;Média;SP;26.373.055,11;301;02/12/2007
+30715627000100;Rótulos Modelo 072;Rótulos e impressão;Média;SP;17.784.736,18;461;21/09/2014
+30725664000100;Máquinas Modelo 073;Máquinas e equipamentos;Grande;SP;1.016.288.624,79;663;06/05/2021
+30735701000100;Papéis Modelo 074;Indústria de embalagens de papel e papelão;Média;SP;25.501.313,45;65;03/10/1983
+30745738000100;Plásticos Modelo 075;Indústria de embalagens plásticas;Média;PR;145.002.412,32;283;21/04/1989
+30755775000100;Distribuidora Modelo 076;Serviços e distribuição;Média;MG;27.767.275,65;384;11/01/1988
+30765812000100;Plásticos Modelo 077;Indústria de embalagens plásticas;Média;SP;16.867.729,14;137;14/08/1991
+30775849000100;Máquinas Modelo 078;Máquinas e equipamentos;Média;RJ;9.887.846,39;382;16/01/1991
+30785886000100;Plásticos Modelo 079;Indústria de embalagens plásticas;Média;SP;87.193.979,51;308;01/12/1976
+30795923000100;Plásticos Modelo 080;Indústria de embalagens plásticas;Média;SP;93.439.412,52;470;22/11/2010
+30805960000100;Plásticos Modelo 081;Indústria de embalagens plásticas;Pequena;SC;3.434.441,39;8;05/02/2010
+30815997000100;Plásticos Modelo 082;Indústria de embalagens plásticas;Pequena;SP;1.597.197,76;30;01/09/1990
+30825034000100;Papéis Modelo 083;Indústria de embalagens de papel e papelão;Pequena;SP;1.309.790,81;16;20/11/1991
+30835071000100;Máquinas Modelo 084;Máquinas e equipamentos;Média;PE;6.184.775,77;305;11/05/2008
+30845108000100;Plásticos Modelo 085;Indústria de embalagens plásticas;Média;RJ;9.522.188,11;101;08/01/2013
+30855145000100;Papéis Modelo 086;Indústria de embalagens de papel e papelão;Média;RS;24.225.567,96;200;26/09/2007
+30865182000100;Plásticos Modelo 087;Indústria de embalagens plásticas;Pequena;RS;2.559.467,38;22;09/08/2016
+30875219000100;Papéis Modelo 088;Indústria de embalagens de papel e papelão;Grande;MG;992.835.300,92;880;20/06/1984
+30885256000100;Rótulos Modelo 089;Rótulos e impressão;Média;SP;9.907.379,01;138;05/08/2021
+30895293000100;Rótulos Modelo 090;Rótulos e impressão;Grande;DF;1.305.028.016,73;2878;21/07/2017
+30905330000100;Papéis Modelo 091;Indústria de embalagens de papel e papelão;Grande;CE;475.579.707,08;4194;28/03/1994
+30915367000100;Plásticos Modelo 092;Indústria de embalagens plásticas;Média;MG;16.905.534,07;263;11/01/2022
+30925404000100;Plásticos Modelo 093;Indústria de embalagens plásticas;Grande;DF;664.004.433,83;2595;02/07/1992
+30935441000100;Papéis Modelo 094;Indústria de embalagens de papel e papelão;Média;SP;8.451.348,23;377;22/08/2006
+30945478000100;Plásticos Modelo 095;Indústria de embalagens plásticas;Pequena;SP;1.538.369,53;29;07/08/2018
+30955515000100;Máquinas Modelo 096;Máquinas e equipamentos;Média;PR;28.462.843,41;261;01/01/1993
+30965552000100;Distribuidora Modelo 097;Serviços e distribuição;Grande;PR;570.584.012,76;860;06/01/2001
+30975589000100;Máquinas Modelo 098;Máquinas e equipamentos;Grande;SC;932.672.261,28;3981;04/07/1994
+30985626000100;Papéis Modelo 099;Indústria de embalagens de papel e papelão;Grande;SP;787.054.521,62;1766;11/11/1993
+30995663000100;Plásticos Modelo 100;Indústria de embalagens plásticas;Pequena;SP;3.533.736,86;39;02/01/1995
+31005700000100;Distribuidora Modelo 101;Serviços e distribuição;Média;SP;49.295.389,86;246;07/03/1997
+31015737000100;Rótulos Modelo 102;Rótulos e impressão;Grande;BA;352.152.593,12;836;08/02/1983
+31025774000100;Papéis Modelo 103;Indústria de embalagens de papel e papelão;Média;PR;8.140.135,65;476;13/08/2003
+31035811000100;Plásticos Modelo 104;Indústria de embalagens plásticas;Média;SP;29.334.880,58;197;27/11/2017
+31045848000100;Rótulos Modelo 105;Rótulos e impressão;Grande;SP;703.591.067,77;2255;12/03/1989
+31055885000100;Plásticos Modelo 106;Indústria de embalagens plásticas;Média;SP;17.426.598,43;353;27/06/1994
+31065922000100;Máquinas Modelo 107;Máquinas e equipamentos;Média;ES;16.331.696,33;437;10/01/1983
+31075959000100;Máquinas Modelo 108;Máquinas e equipamentos;Média;SP;50.178.054,89;234;20/07/1981
+31085996000100;Rótulos Modelo 109;Rótulos e impressão;Grande;GO;876.839.047,47;3599;03/10/2012
+31095033000100;Papéis Modelo 110;Indústria de embalagens de papel e papelão;Média;SC;19.146.945,00;160;10/04/1978
+31105070000100;Plásticos Modelo 111;Indústria de embalagens plásticas;Pequena;SP;2.421.866,02;30;25/03/1996
+31115107000100;Plásticos Modelo 112;Indústria de embalagens plásticas;Média;SP;9.861.833,92;409;25/10/1989
+31125144000100;Papéis Modelo 113;Indústria de embalagens de papel e papelão;Grande;SP;1.177.432.745,36;839;23/01/2005
+31135181000100;Plásticos Modelo 114;Indústria de embalagens plásticas;Média;SP;24.618.311,80;416;12/06/2015
+31145218000100;Papéis Modelo 115;Indústria de embalagens de papel e papelão;Grande;SP;387.497.273,88;1675;23/01/2007
+31155255000100;Plásticos Modelo 116;Indústria de embalagens plásticas;Média;BA;29.228.365,83;316;17/08/2012
+31165292000100;Máquinas Modelo 117;Máquinas e equipamentos;Grande;PR;1.381.278.072,89;833;08/10/2009
+31175329000100;Papéis Modelo 118;Indústria de embalagens de papel e papelão;Média;SC;19.699.034,41;446;28/07/1980
+31185366000100;Máquinas Modelo 119;Máquinas e equipamentos;Média;PE;227.439.308,98;474;06/06/1993
+31195403000100;Distribuidora Modelo 120;Serviços e distribuição;Média;MG;143.055.016,45;251;22/06/1996
