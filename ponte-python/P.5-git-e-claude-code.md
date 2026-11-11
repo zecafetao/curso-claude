@@ -75,11 +75,11 @@ A regra mais segura para dados de clientes é mais forte que o `.gitignore`: **m
 
 Pelo VS Code:
 
-1. Abra o painel de Controle do Código-Fonte (ícone de ramificação na barra lateral).
-2. Clique em **Inicializar Repositório**.
+1. Abra o painel de Controle do Código-Fonte (ícone de ramificação na barra lateral; em inglês, Source Control).
+2. Clique em **Inicializar Repositório** (Initialize Repository).
 3. Confira a lista de arquivos alterados. A pasta `.venv` não deve aparecer.
 4. Escreva a mensagem "Primeira versão dos scripts de tratamento" e clique em **Commit**. Se o VS Code perguntar, aceite incluir todas as alterações.
-5. Clique em **Publicar Branch**, escolha publicar em um repositório **privado** do GitHub e autorize o acesso quando o navegador abrir.
+5. Clique em **Publicar Branch** (Publish Branch), escolha publicar em um repositório **privado** do GitHub e autorize o acesso quando o navegador abrir.
 
 Os comandos equivalentes no terminal, para um repositório vazio já criado no GitHub:
 
@@ -198,6 +198,8 @@ Três camadas de proteção, da mais forte para a mais fraca:
 Dentro do projeto ficam só os dados fictícios do curso.
 
 ### 10. Como trabalhar com o Claude Code
+
+A documentação oficial resume o trabalho em quatro passos: explorar, planejar, codar e salvar em um commit. As práticas abaixo seguem essa ordem.
 
 **Comece pedindo entendimento.** "Explique o que este projeto faz e como os arquivos se relacionam." Você confere se ele entendeu antes de pedir mudanças.
 

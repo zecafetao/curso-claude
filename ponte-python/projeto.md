@@ -171,6 +171,7 @@ Erros frequentes:
 | 4 linhas com `nome ausente` | A ordem das regras: uma linha sem nome também tem e-mail inválido e deve ficar no primeiro motivo |
 | 6 descadastrados em vez de 8 | A lista de descadastrados não foi padronizada: dois e-mails estão em maiúsculas |
 | Menos de 12 repetidos | E-mails comparados antes de padronizar: as repetições diferem em maiúsculas e espaços |
+| 86 linhas para importar e 13 repetidos | Repetidos procurados na base inteira, e não só entre as linhas válidas. A linha 35 repete o e-mail da linha 33, que já foi rejeitada por nome ausente, e deve ser importada |
 | `Da Silva` no sobrenome | Uso de `.str.title()` em vez da regra das partículas |
 | `Alimentos Alfa LTDA` e `Alimentos Alfa` como empresas diferentes | Sufixo não removido |
 | CNPJ com 13 dígitos | Faltou completar com zero à esquerda |

@@ -35,6 +35,8 @@ O código deste curso foi testado com Python 3.13 (referência: novembro de 2026
 1. Baixe em [code.visualstudio.com](https://code.visualstudio.com/) e instale.
 2. Abra o VS Code, vá em Extensões (ícone de blocos na barra lateral), procure por **Python** e instale a extensão publicada pela Microsoft.
 
+Se o seu VS Code estiver em inglês, os menus citados nesta etapa aparecem como **Extensions**, **File > Open Folder**, **Terminal > New Terminal** e **Source Control**.
+
 ### 4. Criar a pasta de trabalho
 
 1. Crie uma pasta chamada `tratamento-bases` em um local fácil de achar, como Documentos.

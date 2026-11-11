@@ -301,7 +301,7 @@ A leitura do resultado já orienta o tratamento:
 
 - `Cidade` e `UF` têm 36,7% de vazios. Vale enriquecer pelo CEP, o que você fará no módulo P.4.
 - `Nome Completo` tem 4 vazios. Sem a remoção de espaços do início do trecho, o diagnóstico mostraria zero, porque esses campos contêm só espaços.
-- `E-mail` tem 116 valores distintos em 120 linhas, o que sugere 4 repetições. A última linha do trecho mostra que são mais: em minúsculas, restam 108 valores distintos. A maior parte das repetições estava escondida pela diferença entre maiúsculas e minúsculas.
+- `E-mail` tem 115 valores distintos em 120 linhas, o que sugere 5 repetições. A última linha do trecho mostra que são mais: em minúsculas, restam 107 valores distintos. A maior parte das repetições estava escondida pela diferença entre maiúsculas e minúsculas.
 - `Origem` tem 18 valores distintos, e o layout aceita 5. A coluna precisa de regra de padronização.
 
 Esse diagnóstico usa só dados agregados. O resultado pode ser levado ao Claude para discutir a estratégia de tratamento, sem enviar nenhum contato.
@@ -340,10 +340,11 @@ Depois do script, releia o arquivo gravado e responda:
 3. Quantos domínios de e-mail distintos existem? Dica: `.str.split("@").str[1]`.
 4. Quantos valores distintos tem a coluna `origem`? O que isso indica sobre o tratamento que ainda falta?
 5. Procure nomes com `Da`, `De` ou `Dos`. O que o `.str.title()` fez de errado?
+6. Quantas linhas ficaram com o nome vazio? O que isso indica?
 
-**Entregável:** o script `tratamento_inicial.py`, a saída da execução e as cinco respostas.
+**Entregável:** o script `tratamento_inicial.py`, a saída da execução e as seis respostas.
 
-**Critério de conclusão:** os números batem com o gabarito e a conta fecha: 120 = 94 + 6 + 8 + 12.
+**Critério de conclusão:** os números batem com o gabarito e a conta fecha: 120 = 93 + 6 + 8 + 13.
 
 ### Gabarito
 
@@ -354,20 +355,23 @@ Calculado pela solução de referência.
 | Linhas lidas | 120 |
 | E-mails inválidos removidos | 6 |
 | Descadastrados removidos | 8 |
-| Duplicados removidos | 12 |
-| Linhas gravadas | 94 |
+| Duplicados removidos | 13 |
+| Linhas gravadas | 93 |
 
 | Pergunta | Resposta |
 | --- | --- |
-| 1 | 75 contatos com telefone |
-| 2 | SP, com 11 contatos. 36 linhas sem UF |
+| 1 | 74 contatos com telefone |
+| 2 | SP, com 11 contatos. 35 linhas sem UF |
 | 3 | 20 domínios distintos |
 | 4 | 17 valores distintos, para 5 opções aceitas pelo layout. A origem precisa de uma regra de padronização, como `credenciamento`, `CREDENCIAMENTO 2025` e `Credenciamento` virando `Credenciamento` |
 | 5 | `Carla Oliveira Da Silva` em vez de `Carla Oliveira da Silva`. O `title()` põe maiúscula em todas as palavras, inclusive nas partículas |
+| 6 | 3 linhas. O tratamento ainda não valida o nome; contatos sem nome estão passando. A regra entra no projeto |
 
 Se o número de descadastrados der 6 em vez de 8, a lista não foi padronizada: dois e-mails dela estão em maiúsculas.
 
-Se o número de duplicados for diferente de 12, confira a ordem. Os duplicados são contados depois de remover os inválidos e os descadastrados.
+Se o número de duplicados for diferente de 13, confira a ordem. Os duplicados são contados depois de remover os inválidos e os descadastrados.
+
+Um dos 13 duplicados merece atenção. A linha 35 do arquivo repete o e-mail da linha 33, que não tem nome. Neste exercício, a linha 33 fica e a 35 sai, porque o nome ainda não é validado: o tratamento manteve o registro pior. No projeto, a ordem das regras inverte o resultado: a linha 33 é rejeitada por nome ausente antes da busca por repetidos, e a linha 35 é importada.
 
 A solução de referência está em [`gabarito/p3_tratamento_inicial.py`](gabarito/p3_tratamento_inicial.py).
 
