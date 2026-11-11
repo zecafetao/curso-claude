@@ -10,7 +10,7 @@ Os exemplos e exercícios usam o trabalho de um analista de dados de CRM e marke
 | --- | --- | --- | --- |
 | [Nível 1 — Fundamentos](nivel-1-fundamentos/README.md) | 12 | Assistente em um Project para o relatório mensal de e-mail | Pronto |
 | [Nível 2 — Usuário avançado](nivel-2-usuario-avancado/README.md) | 18 | Biblioteca de 10 prompts testados para dados e marketing | Pronto |
-| Ponte — Python para dados | 20 | Script que transforma uma base bruta em arquivo pronto para importação | A produzir |
+| [Ponte — Python para dados](ponte-python/README.md) | 20 | Script que transforma uma base bruta em arquivo pronto para importação | Pronto |
 | Nível 3 — Desenvolvedor (API) | 26 | Serviço que padroniza bases com o Claude e relata rejeições e custo | A produzir |
 | Nível 4 — Agentes | 32 | Agente de campanha: da base bruta ao e-mail e à landing page | A produzir |
 | Nível 5 — Produção | 32 | Projeto final: o agente de campanha em produção | A produzir |
