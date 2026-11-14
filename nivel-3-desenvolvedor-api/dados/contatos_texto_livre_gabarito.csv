@@ -1,0 +1,51 @@
+id;nome;sobrenome;email;telefone;empresa;cargo
+C01;Xênia;Uchoa;xenia.uchoa@alfa.example;+5511999900001;Alimentos Alfa;Gerente de Compras
+C02;Karina;Vasconcelos;karina.vasconcelos@beta.example;+5521999900002;Bebidas Beta;Diretor Industrial
+C03;Ana;Ibarra;ana.ibarra@gama.example;+5531999900003;Cosméticos Gama;Engenheira de Embalagens
+C04;Isabela;Cardoso;isabela.cardoso@delta.example;+5541999900004;Laboratório Delta;Sócio-proprietário
+C05;Leonardo;Macedo;;+5551999900005;Higiene Épsilon;Coordenador de Suprimentos
+C06;João;Oliveira;joao.oliveira@zeta.example;;Pet Zeta;
+C07;Karina;Uchoa;karina.uchoa@eta.example;+5561999900007;Laticínios Eta;Analista de Trade Marketing
+C08;Isabela;Yamada;isabela.yamada@teta.example;+5581999900008;Cervejaria Teta;Compradora
+C09;Queila;Esteves;queila.esteves@iota.example;+5519999900009;Farmacêutica Iota;Analista de Qualidade
+C10;Xênia;Klein;xenia.klein@capa.example;+5548999900010;Doces Capa;Supervisor de Produção
+C11;Nelson;Lacerda;nelson.lacerda@alfa.example;+5511999900011;Alimentos Alfa;Gerente de Compras
+C12;Daniel;Gomes;daniel.gomes@beta.example;+5521999900012;Bebidas Beta;Diretor Industrial
+C13;Daniel;Werneck;;+5531999900013;Cosméticos Gama;Engenheira de Embalagens
+C14;Yara;Gomes;yara.gomes@delta.example;;Laboratório Delta;
+C15;Vinícius;Esteves;vinicius.esteves@epsilon.example;+5551999900015;Higiene Épsilon;Coordenador de Suprimentos
+C16;Olívia;Xavier;olivia.xavier@zeta.example;+5571999900016;Pet Zeta;Gerente de Marketing
+C17;Elaine;Ramos;elaine.ramos@eta.example;+5561999900017;Laticínios Eta;Analista de Trade Marketing
+C18;Rafael;Ibarra;rafael.ibarra@teta.example;+5581999900018;Cervejaria Teta;Compradora
+C19;Wagner;Siqueira;wagner.siqueira@iota.example;+5519999900019;Farmacêutica Iota;Analista de Qualidade
+C20;Xênia;Queiroz;xenia.queiroz@capa.example;+5548999900020;Doces Capa;Supervisor de Produção
+C21;Fábio;Pacheco;;+5511999900021;Alimentos Alfa;Gerente de Compras
+C22;Ana;Queiroz;ana.queiroz@beta.example;;Bebidas Beta;
+C23;Daniel;Lacerda;daniel.lacerda@gama.example;+5531999900023;Cosméticos Gama;Engenheira de Embalagens
+C24;Vinícius;Yamada;vinicius.yamada@delta.example;+5541999900024;Laboratório Delta;Sócio-proprietário
+C25;Wagner;Barros;wagner.barros@epsilon.example;+5551999900025;Higiene Épsilon;Coordenador de Suprimentos
+C26;Tiago;Esteves;tiago.esteves@zeta.example;+5571999900026;Pet Zeta;Gerente de Marketing
+C27;Ana;Gomes;ana.gomes@eta.example;+5561999900027;Laticínios Eta;Analista de Trade Marketing
+C28;Hugo;Queiroz;hugo.queiroz@teta.example;+5581999900028;Cervejaria Teta;Compradora
+C29;Vinícius;Uchoa;;+5519999900029;Farmacêutica Iota;Analista de Qualidade
+C30;Elaine;Duarte;elaine.duarte@capa.example;;Doces Capa;
+C31;Elaine;Xavier;elaine.xavier@alfa.example;+5511999900031;Alimentos Alfa;Gerente de Compras
+C32;Karina;Teixeira;karina.teixeira@beta.example;+5521999900032;Bebidas Beta;Diretor Industrial
+C33;Tiago;Teixeira;tiago.teixeira@gama.example;+5531999900033;Cosméticos Gama;Engenheira de Embalagens
+C34;Leonardo;Ibarra;leonardo.ibarra@delta.example;+5541999900034;Laboratório Delta;Sócio-proprietário
+C35;Leonardo;Uchoa;leonardo.uchoa@epsilon.example;+5551999900035;Higiene Épsilon;Coordenador de Suprimentos
+C36;Sandra;Duarte;sandra.duarte@zeta.example;+5571999900036;Pet Zeta;Gerente de Marketing
+C37;Wagner;Esteves;;+5561999900037;Laticínios Eta;Analista de Trade Marketing
+C38;Carla;Vasconcelos;carla.vasconcelos@teta.example;;Cervejaria Teta;
+C39;Úrsula;Duarte;ursula.duarte@iota.example;+5519999900039;Farmacêutica Iota;Analista de Qualidade
+C40;Carla;Farias;carla.farias@capa.example;+5548999900040;Doces Capa;Supervisor de Produção
+C41;;;;;;
+C42;Sandra;Queiroz;sandra.queiroz@beta.example;+5521999900042;Bebidas Beta;Diretor Industrial
+C43;Elaine;Barros;elaine.barros@gama.example;+5531999900043;Cosméticos Gama;Engenheira de Embalagens
+C44;Olívia;Teixeira;olivia.teixeira@delta.example;+5541999900044;Laboratório Delta;Sócio-proprietário
+C45;Yara;Macedo;;+5551999900045;Higiene Épsilon;Coordenador de Suprimentos
+C46;Paulo;Farias;paulo.farias@zeta.example;;Pet Zeta;
+C47;Carla;Queiroz;carla.queiroz@eta.example;+5561999900047;Laticínios Eta;Analista de Trade Marketing
+C48;Vinícius;Gomes;vinicius.gomes@teta.example;+5581999900048;Cervejaria Teta;Compradora
+C49;Paulo;Ramos;paulo.ramos@iota.example;+5519999900049;Farmacêutica Iota;Analista de Qualidade
+C50;Úrsula;Ibarra;ursula.ibarra@capa.example;+5548999900050;Doces Capa;Supervisor de Produção

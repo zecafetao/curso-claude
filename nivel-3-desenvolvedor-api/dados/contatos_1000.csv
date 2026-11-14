@@ -1,0 +1,1001 @@
+id;cargo;setor
+K0001;Diretor Comercial;Educação
+K0002;Professor;Alimentos
+K0003;Analista de TI;Indústria de embalagens plásticas
+K0004;Gerente de Supply Chain;Cosméticos
+K0005;Analista de Trade Marketing;Pet
+K0006;Chief Marketing Officer;Bebidas
+K0007;Estagiário de RH;Transportes
+K0008;Dir. de Operações;Farmacêutico
+K0009;Diretor Comercial;Farmacêutico
+K0010;Diretora de Compras;Bebidas
+K0011;Diretor Comercial;Bebidas
+K0012;Sócia;Farmacêutico
+K0013;Head de Marketing;Higiene e limpeza
+K0014;Dir. de Operações;Higiene e limpeza
+K0015;Gerente de Produção;Indústria de embalagens plásticas
+K0016;Sócia;Cosméticos
+K0017;Diretor Industrial;Cosméticos
+K0018;Analista de TI;Higiene e limpeza
+K0019;Assistente Administrativo;Alimentos
+K0020;Designer de Embalagens;Farmacêutico
+K0021;Supply Chain Manager;Bebidas
+K0022;Analista de Suprimentos;Bebidas
+K0023;Analista de TI;Tecnologia da informação
+K0024;R&D Manager;Bebidas
+K0025;Técnico de Qualidade;Alimentos
+K0026;Analista Financeiro;Higiene e limpeza
+K0027;Gerente de Marketing;Farmacêutico
+K0028;Gerente Industrial;Cosméticos
+K0029;Head de Marketing;Farmacêutico
+K0030;Head de Marketing;Higiene e limpeza
+K0031;Analista de Suprimentos;Farmacêutico
+K0032;Analista de Trade Marketing;Higiene e limpeza
+K0033;Sócia;Higiene e limpeza
+K0034;Dir. de Operações;Alimentos
+K0035;Brand Manager;Alimentos
+K0036;Coordenador de Desenvolvimento de Embalagens;Alimentos
+K0037;Diretora de Compras;Alimentos
+K0038;Analista de TI;Pet
+K0039;Diretora de Compras;Bebidas
+K0040;Gerente de Produção;Farmacêutico
+K0041;Compradora Sênior;Cosméticos
+K0042;Gerente Comercial;Pet
+K0043;Compradora Sênior;Pet
+K0044;Designer de Embalagens;Cosméticos
+K0045;Dir. de Operações;Bebidas
+K0046;Gerente de Produção;Farmacêutico
+K0047;Técnico de Qualidade;Transportes
+K0048;Diretora de Compras;Consultoria empresarial
+K0049;Sócia;Alimentos
+K0050;Analista de Suprimentos;Cosméticos
+K0051;Analista de Suprimentos;Cosméticos
+K0052;Vendedor;Alimentos
+K0053;R&D Manager;Farmacêutico
+K0054;Managing Director;Cosméticos
+K0055;Supply Chain Manager;Tecnologia da informação
+K0056;Product Manager;Bebidas
+K0057;Analista Financeiro;Bebidas
+K0058;Professor;Bebidas
+K0059;Analista de TI;Educação
+K0060;Diretora de Compras;Alimentos
+K0061;Analista de Suprimentos;Farmacêutico
+K0062;Diretora de Compras;Bebidas
+K0063;Professor;Transportes
+K0064;Analista de TI;Consultoria empresarial
+K0065;Contador;Alimentos
+K0066;Chief Marketing Officer;Cosméticos
+K0067;Dir. de Operações;Pet
+K0068;Professor;Transportes
+K0069;Estudante;Alimentos
+K0070;Managing Director;Banco
+K0071;Managing Director;Bebidas
+K0072;Analista de P&D;Cosméticos
+K0073;Recepcionista;Farmacêutico
+K0074;Analista de TI;Higiene e limpeza
+K0075;Vendedor;Bebidas
+K0076;Gerente de Compras;Pet
+K0077;Head de Marketing;Bebidas
+K0078;R&D Manager;Pet
+K0079;Gerente de Compras;Banco
+K0080;Managing Director;Pet
+K0081;Managing Director;Cosméticos
+K0082;Product Manager;Bebidas
+K0083;Diretora de Compras;Alimentos
+K0084;Coordenadora de Comunicação;Farmacêutico
+K0085;Advogado;Cosméticos
+K0086;Comprador;Alimentos
+K0087;Gerente de Produção;Transportes
+K0088;Gerente de Marketing;Cosméticos
+K0089;Estudante;Cosméticos
+K0090;Contador;Pet
+K0091;Product Manager;Cosméticos
+K0092;Analista de TI;Alimentos
+K0093;Gerente de Supply Chain;Higiene e limpeza
+K0094;Gerente Comercial;Cosméticos
+K0095;Gerente Comercial;Bebidas
+K0096;Diretora de Compras;Bebidas
+K0097;Head de Marketing;Alimentos
+K0098;Analista de TI;Alimentos
+K0099;Coordenadora de Comunicação;Pet
+K0100;Gerente de Produção;Higiene e limpeza
+K0101;Recepcionista;Alimentos
+K0102;Diretora de Compras;Farmacêutico
+K0103;Analista de Trade Marketing;Tecnologia da informação
+K0104;Gerente de Marketing;Higiene e limpeza
+K0105;Brand Manager;Higiene e limpeza
+K0106;Analista de Trade Marketing;Bebidas
+K0107;Contador;Farmacêutico
+K0108;Dir. de Operações;Alimentos
+K0109;Diretor Comercial;Higiene e limpeza
+K0110;Gerente Comercial;Farmacêutico
+K0111;Comprador;Pet
+K0112;Analista de Suprimentos;Bebidas
+K0113;Gerente Industrial;Pet
+K0114;Analista de Trade Marketing;Farmacêutico
+K0115;Designer de Embalagens;Cosméticos
+K0116;R&D Manager;Tecnologia da informação
+K0117;Presidente;Pet
+K0118;Sócia;Pet
+K0119;Brand Manager;Cosméticos
+K0120;Analista de Trade Marketing;Bebidas
+K0121;Supply Chain Manager;Pet
+K0122;Técnico de Qualidade;Pet
+K0123;Diretora de Compras;Pet
+K0124;Gerente de Produção;Alimentos
+K0125;Estudante;Bebidas
+K0126;Brand Manager;Higiene e limpeza
+K0127;Compradora Sênior;Alimentos
+K0128;Professor;Farmacêutico
+K0129;Gerente de Compras;Alimentos
+K0130;Presidente;Banco
+K0131;Diretora de Compras;Cosméticos
+K0132;Analista de TI;Farmacêutico
+K0133;R&D Manager;Higiene e limpeza
+K0134;Professor;Cosméticos
+K0135;Coord. de Compras;Banco
+K0136;Analista de TI;Indústria de embalagens plásticas
+K0137;Gerente Comercial;Educação
+K0138;Head of Procurement;Banco
+K0139;Analista de TI;Farmacêutico
+K0140;Head de Marketing;Pet
+K0141;Analista de TI;Bebidas
+K0142;Analista de Suprimentos;Higiene e limpeza
+K0143;Estudante;Cosméticos
+K0144;Contador;Higiene e limpeza
+K0145;Sócia;Higiene e limpeza
+K0146;Contador;Pet
+K0147;Packaging Engineer;Educação
+K0148;Analista de Suprimentos;Banco
+K0149;Sócia;Higiene e limpeza
+K0150;Advogado;Farmacêutico
+K0151;Dir. de Operações;Cosméticos
+K0152;Sócia;Bebidas
+K0153;Coordenadora de Comunicação;Pet
+K0154;Analista de Trade Marketing;Indústria de embalagens plásticas
+K0155;Chief Marketing Officer;Pet
+K0156;Analista de Trade Marketing;Higiene e limpeza
+K0157;Gerente de Marketing;Tecnologia da informação
+K0158;Analista de Trade Marketing;Higiene e limpeza
+K0159;Chief Marketing Officer;Transportes
+K0160;Comprador;Alimentos
+K0161;Técnico de Qualidade;Higiene e limpeza
+K0162;Sócia;Higiene e limpeza
+K0163;Gerente de Produção;Bebidas
+K0164;Analista de Trade Marketing;Higiene e limpeza
+K0165;Diretora de Compras;Alimentos
+K0166;Estagiário de RH;Farmacêutico
+K0167;Professor;Cosméticos
+K0168;Estudante;Farmacêutico
+K0169;Comprador;Educação
+K0170;Chief Marketing Officer;Alimentos
+K0171;Assistente Administrativo;Farmacêutico
+K0172;Engenheira de Embalagens;Indústria de embalagens plásticas
+K0173;Analista de Suprimentos;Pet
+K0174;Supervisor de Qualidade;Bebidas
+K0175;Contador;Consultoria empresarial
+K0176;Analista de TI;Bebidas
+K0177;Gerente de Marketing;Pet
+K0178;Managing Director;Consultoria empresarial
+K0179;Advogado;Higiene e limpeza
+K0180;Analista de Trade Marketing;Bebidas
+K0181;Advogado;Farmacêutico
+K0182;Gerente Industrial;Alimentos
+K0183;Diretora de Compras;Farmacêutico
+K0184;Recepcionista;Alimentos
+K0185;Analista de Suprimentos;Tecnologia da informação
+K0186;Engenheira de Embalagens;Cosméticos
+K0187;R&D Manager;Bebidas
+K0188;Head de Marketing;Higiene e limpeza
+K0189;Analista de Trade Marketing;Alimentos
+K0190;Managing Director;Banco
+K0191;R&D Manager;Tecnologia da informação
+K0192;Estudante;Farmacêutico
+K0193;Sócia;Bebidas
+K0194;Managing Director;Cosméticos
+K0195;Buyer;Pet
+K0196;Head de Marketing;Bebidas
+K0197;Gerente de Marketing;Cosméticos
+K0198;Professor;Farmacêutico
+K0199;Analista de Trade Marketing;Pet
+K0200;Analista de TI;Alimentos
+K0201;Designer de Embalagens;Farmacêutico
+K0202;Head de Marketing;Bebidas
+K0203;Gerente de Produção;Farmacêutico
+K0204;Diretora de Compras;Alimentos
+K0205;Sócia;Alimentos
+K0206;Managing Director;Tecnologia da informação
+K0207;Gerente Comercial;Cosméticos
+K0208;Head de Marketing;Alimentos
+K0209;Recepcionista;Cosméticos
+K0210;Managing Director;Bebidas
+K0211;Diretora de Compras;Cosméticos
+K0212;Professor;Bebidas
+K0213;Diretor Comercial;Alimentos
+K0214;Gerente de Produção;Alimentos
+K0215;Gerente de Produção;Bebidas
+K0216;Analista de TI;Farmacêutico
+K0217;Comprador;Alimentos
+K0218;Head de Marketing;Farmacêutico
+K0219;Gerente de Marketing;Alimentos
+K0220;Designer de Embalagens;Pet
+K0221;Supply Chain Manager;Pet
+K0222;Analista de Suprimentos;Cosméticos
+K0223;Head de Marketing;Higiene e limpeza
+K0224;Designer de Embalagens;Pet
+K0225;Recepcionista;Educação
+K0226;Managing Director;Bebidas
+K0227;Dir. de Operações;Alimentos
+K0228;Técnico de Qualidade;Tecnologia da informação
+K0229;Presidente;Pet
+K0230;Analista de TI;Higiene e limpeza
+K0231;Sócio-proprietário;Alimentos
+K0232;Head de Marketing;Educação
+K0233;Packaging Engineer;Farmacêutico
+K0234;Gerente de Produção;Bebidas
+K0235;Dir. de Operações;Alimentos
+K0236;Contador;Alimentos
+K0237;Diretora de Compras;Higiene e limpeza
+K0238;Dir. de Operações;Cosméticos
+K0239;Comprador;Alimentos
+K0240;Diretor Comercial;Bebidas
+K0241;Sócia;Banco
+K0242;Técnico de Qualidade;Bebidas
+K0243;Managing Director;Pet
+K0244;Managing Director;Farmacêutico
+K0245;Managing Director;Higiene e limpeza
+K0246;Contador;Indústria de embalagens plásticas
+K0247;Diretora de Compras;Cosméticos
+K0248;Professor;Higiene e limpeza
+K0249;Recepcionista;Cosméticos
+K0250;Analista de Suprimentos;Alimentos
+K0251;Diretora de Compras;Pet
+K0252;Packaging Engineer;Alimentos
+K0253;Estudante;Banco
+K0254;Brand Manager;Alimentos
+K0255;Sócia;Indústria de embalagens plásticas
+K0256;Designer de Embalagens;Tecnologia da informação
+K0257;Gerente Comercial;Bebidas
+K0258;R&D Manager;Alimentos
+K0259;Analista de Suprimentos;Bebidas
+K0260;Packaging Engineer;Higiene e limpeza
+K0261;R&D Manager;Pet
+K0262;Diretora de Compras;Cosméticos
+K0263;Técnico de Qualidade;Farmacêutico
+K0264;Gerente Comercial;Bebidas
+K0265;Chief Marketing Officer;Educação
+K0266;Advogado;Bebidas
+K0267;R&D Manager;Farmacêutico
+K0268;Dir. de Operações;Pet
+K0269;Analista de Trade Marketing;Higiene e limpeza
+K0270;Gerente de Produção;Farmacêutico
+K0271;Dir. de Operações;Consultoria empresarial
+K0272;Diretora de Compras;Farmacêutico
+K0273;Estagiário de RH;Alimentos
+K0274;Professor;Higiene e limpeza
+K0275;Diretora de Compras;Cosméticos
+K0276;Analista de Suprimentos;Cosméticos
+K0277;Dir. de Operações;Cosméticos
+K0278;Gerente de Produção;Pet
+K0279;Managing Director;Cosméticos
+K0280;Chief Marketing Officer;Alimentos
+K0281;Comprador;Tecnologia da informação
+K0282;Contador;Bebidas
+K0283;Analista de Trade Marketing;Alimentos
+K0284;Professor;Cosméticos
+K0285;Sócia;Cosméticos
+K0286;Chief Marketing Officer;Pet
+K0287;Analista de P&D;Bebidas
+K0288;Recepcionista;Pet
+K0289;Analista de Trade Marketing;Indústria de embalagens plásticas
+K0290;Sócia;Alimentos
+K0291;Analista de TI;Higiene e limpeza
+K0292;Analista de Suprimentos;Cosméticos
+K0293;Brand Manager;Banco
+K0294;Gerente de Marketing;Pet
+K0295;Brand Manager;Cosméticos
+K0296;Head de Marketing;Farmacêutico
+K0297;Chief Marketing Officer;Farmacêutico
+K0298;Engenheira de Embalagens;Cosméticos
+K0299;Diretora de Compras;Transportes
+K0300;Coordenadora de Comunicação;Alimentos
+K0301;Managing Director;Pet
+K0302;Sócia;Consultoria empresarial
+K0303;Brand Manager;Farmacêutico
+K0304;Gerente Comercial;Alimentos
+K0305;Diretora de Compras;Pet
+K0306;Sócia;Alimentos
+K0307;Sócio-proprietário;Bebidas
+K0308;Supply Chain Manager;Cosméticos
+K0309;Vendedor;Pet
+K0310;Analista de Suprimentos;Higiene e limpeza
+K0311;Estagiário de RH;Higiene e limpeza
+K0312;Técnico de Qualidade;Farmacêutico
+K0313;Técnico de Qualidade;Cosméticos
+K0314;Contador;Alimentos
+K0315;R&D Manager;Alimentos
+K0316;Brand Manager;Tecnologia da informação
+K0317;Gerente de Compras;Banco
+K0318;Analista de Suprimentos;Farmacêutico
+K0319;Managing Director;Cosméticos
+K0320;Analista de Suprimentos;Pet
+K0321;Designer de Embalagens;Higiene e limpeza
+K0322;Brand Manager;Indústria de embalagens plásticas
+K0323;Recepcionista;Farmacêutico
+K0324;Analista de Trade Marketing;Alimentos
+K0325;Analista de TI;Alimentos
+K0326;Analista de Trade Marketing;Alimentos
+K0327;Product Manager;Educação
+K0328;Analista de Trade Marketing;Higiene e limpeza
+K0329;Diretor Industrial;Pet
+K0330;Chief Marketing Officer;Farmacêutico
+K0331;Diretora de Compras;Higiene e limpeza
+K0332;Managing Director;Cosméticos
+K0333;Analista de Trade Marketing;Alimentos
+K0334;Sócia;Indústria de embalagens plásticas
+K0335;Engenheira de Embalagens;Indústria de embalagens plásticas
+K0336;Packaging Engineer;Cosméticos
+K0337;Designer de Embalagens;Pet
+K0338;R&D Manager;Farmacêutico
+K0339;Managing Director;Alimentos
+K0340;Analista de TI;Farmacêutico
+K0341;Gerente de Marketing;Farmacêutico
+K0342;Buyer;Farmacêutico
+K0343;Analista de Trade Marketing;Higiene e limpeza
+K0344;Estudante;Pet
+K0345;Presidente;Cosméticos
+K0346;Brand Manager;Bebidas
+K0347;Vendedor;Farmacêutico
+K0348;Coordenador de Desenvolvimento de Embalagens;Cosméticos
+K0349;Gerente de Produção;Alimentos
+K0350;Gerente Comercial;Cosméticos
+K0351;Diretora de Compras;Bebidas
+K0352;Supervisor de Qualidade;Pet
+K0353;Head de Marketing;Banco
+K0354;Gerente de Marketing;Alimentos
+K0355;Head de Marketing;Bebidas
+K0356;Analista de Suprimentos;Pet
+K0357;Analista de TI;Pet
+K0358;Head de Marketing;Indústria de embalagens plásticas
+K0359;Diretora de Compras;Alimentos
+K0360;Brand Manager;Pet
+K0361;Diretor Comercial;Cosméticos
+K0362;Dir. de Operações;Farmacêutico
+K0363;Sócia;Farmacêutico
+K0364;Head de Marketing;Alimentos
+K0365;Recepcionista;Farmacêutico
+K0366;Estudante;Pet
+K0367;Analista de TI;Farmacêutico
+K0368;Sócia;Alimentos
+K0369;Professor;Farmacêutico
+K0370;Designer de Embalagens;Educação
+K0371;Sócia;Alimentos
+K0372;Product Manager;Alimentos
+K0373;Gerente de Marketing;Cosméticos
+K0374;Coordenador de Desenvolvimento de Embalagens;Bebidas
+K0375;Coordenador de Desenvolvimento de Embalagens;Higiene e limpeza
+K0376;Head de Marketing;Tecnologia da informação
+K0377;Diretor Comercial;Pet
+K0378;Brand Manager;Alimentos
+K0379;Recepcionista;Alimentos
+K0380;Analista de Suprimentos;Pet
+K0381;Estudante;Alimentos
+K0382;Recepcionista;Cosméticos
+K0383;Supervisor de Qualidade;Farmacêutico
+K0384;Recepcionista;Pet
+K0385;Analista de Marca;Farmacêutico
+K0386;Diretora de Compras;Alimentos
+K0387;Head de Marketing;Cosméticos
+K0388;Estudante;Alimentos
+K0389;Analista de Marca;Consultoria empresarial
+K0390;Gerente de Supply Chain;Alimentos
+K0391;Managing Director;Pet
+K0392;R&D Manager;Higiene e limpeza
+K0393;Head de Marketing;Banco
+K0394;Chief Marketing Officer;Cosméticos
+K0395;Recepcionista;Alimentos
+K0396;Analista de Suprimentos;Cosméticos
+K0397;Recepcionista;Farmacêutico
+K0398;Head de Marketing;Higiene e limpeza
+K0399;Recepcionista;Indústria de embalagens plásticas
+K0400;Dir. de Operações;Alimentos
+K0401;Analista de TI;Higiene e limpeza
+K0402;Diretor Comercial;Educação
+K0403;Analista de Suprimentos;Indústria de embalagens plásticas
+K0404;Técnico de Qualidade;Bebidas
+K0405;Managing Director;Transportes
+K0406;Professor;Farmacêutico
+K0407;R&D Manager;Farmacêutico
+K0408;Presidente;Cosméticos
+K0409;Compradora Sênior;Transportes
+K0410;Coordenador de Desenvolvimento de Embalagens;Educação
+K0411;Dir. de Operações;Cosméticos
+K0412;Presidente;Farmacêutico
+K0413;R&D Manager;Farmacêutico
+K0414;Supervisor de Qualidade;Alimentos
+K0415;Vendedor;Cosméticos
+K0416;Coordenador de Desenvolvimento de Embalagens;Bebidas
+K0417;Head of Procurement;Cosméticos
+K0418;Managing Director;Higiene e limpeza
+K0419;Gerente de Produção;Bebidas
+K0420;Sócia;Alimentos
+K0421;Técnico de Qualidade;Farmacêutico
+K0422;Diretor Comercial;Cosméticos
+K0423;Vendedor;Alimentos
+K0424;Gerente de Produção;Cosméticos
+K0425;Professor;Farmacêutico
+K0426;Analista de Suprimentos;Alimentos
+K0427;Engenheira de Embalagens;Farmacêutico
+K0428;Diretora de Compras;Bebidas
+K0429;Vendedor;Bebidas
+K0430;Estagiário de RH;Tecnologia da informação
+K0431;Analista Financeiro;Farmacêutico
+K0432;Analista de Suprimentos;Alimentos
+K0433;Gerente de Marketing;Transportes
+K0434;Sócia;Cosméticos
+K0435;Contador;Farmacêutico
+K0436;Chief Marketing Officer;Bebidas
+K0437;Estagiário de RH;Cosméticos
+K0438;Head de Marketing;Bebidas
+K0439;Designer de Embalagens;Alimentos
+K0440;Diretor Comercial;Bebidas
+K0441;Estudante;Bebidas
+K0442;Head de Marketing;Bebidas
+K0443;Sócio-proprietário;Cosméticos
+K0444;Diretora de Compras;Alimentos
+K0445;Head de Marketing;Pet
+K0446;Sócia;Educação
+K0447;Comprador;Pet
+K0448;Brand Manager;Cosméticos
+K0449;Designer de Embalagens;Alimentos
+K0450;Comprador;Farmacêutico
+K0451;Analista de TI;Alimentos
+K0452;Diretora de Compras;Pet
+K0453;Professor;Pet
+K0454;Analista Financeiro;Consultoria empresarial
+K0455;Managing Director;Banco
+K0456;Analista de Trade Marketing;Pet
+K0457;Gerente de Produção;Alimentos
+K0458;Professor;Pet
+K0459;Analista de Suprimentos;Cosméticos
+K0460;Diretora de Compras;Higiene e limpeza
+K0461;Recepcionista;Farmacêutico
+K0462;Head de Marketing;Alimentos
+K0463;Product Manager;Pet
+K0464;Recepcionista;Bebidas
+K0465;Advogado;Educação
+K0466;Coordenador de Desenvolvimento de Embalagens;Pet
+K0467;Designer de Embalagens;Alimentos
+K0468;Designer de Embalagens;Pet
+K0469;Analista de Trade Marketing;Farmacêutico
+K0470;Advogado;Cosméticos
+K0471;Técnico de Qualidade;Farmacêutico
+K0472;Técnico de Qualidade;Educação
+K0473;Head de Marketing;Bebidas
+K0474;Diretora de Compras;Educação
+K0475;Analista de Trade Marketing;Higiene e limpeza
+K0476;Managing Director;Bebidas
+K0477;Recepcionista;Pet
+K0478;Sócia;Higiene e limpeza
+K0479;Packaging Engineer;Farmacêutico
+K0480;Diretora de Compras;Higiene e limpeza
+K0481;Gerente Comercial;Cosméticos
+K0482;Sócio-proprietário;Bebidas
+K0483;Analista de TI;Cosméticos
+K0484;Designer de Embalagens;Cosméticos
+K0485;Designer de Embalagens;Indústria de embalagens plásticas
+K0486;Gerente Comercial;Bebidas
+K0487;Diretora de Compras;Cosméticos
+K0488;Managing Director;Higiene e limpeza
+K0489;Chief Marketing Officer;Tecnologia da informação
+K0490;Analista de Trade Marketing;Farmacêutico
+K0491;Managing Director;Pet
+K0492;Recepcionista;Bebidas
+K0493;R&D Manager;Pet
+K0494;Gerente Comercial;Bebidas
+K0495;Estudante;Higiene e limpeza
+K0496;Analista de Marca;Bebidas
+K0497;Analista de TI;Cosméticos
+K0498;Dir. de Operações;Pet
+K0499;Analista de TI;Alimentos
+K0500;Gerente de Supply Chain;Higiene e limpeza
+K0501;Diretora de Compras;Bebidas
+K0502;Diretor Industrial;Pet
+K0503;Gerente de Produção;Bebidas
+K0504;Sócio-proprietário;Alimentos
+K0505;Supervisor de Qualidade;Farmacêutico
+K0506;Supply Chain Manager;Cosméticos
+K0507;Head de Marketing;Farmacêutico
+K0508;Chief Marketing Officer;Pet
+K0509;Gerente de Marketing;Tecnologia da informação
+K0510;Diretora de Compras;Alimentos
+K0511;Head de Marketing;Bebidas
+K0512;Supervisor de Qualidade;Bebidas
+K0513;Gerente de Produção;Farmacêutico
+K0514;Analista de Suprimentos;Farmacêutico
+K0515;Head de Marketing;Cosméticos
+K0516;Coord. de Compras;Farmacêutico
+K0517;Gerente de Produção;Pet
+K0518;Managing Director;Cosméticos
+K0519;Analista de Trade Marketing;Higiene e limpeza
+K0520;Estagiário de RH;Bebidas
+K0521;Analista de Suprimentos;Alimentos
+K0522;Sócio-proprietário;Higiene e limpeza
+K0523;Estagiário de RH;Higiene e limpeza
+K0524;Advogado;Farmacêutico
+K0525;Head of Procurement;Transportes
+K0526;R&D Manager;Farmacêutico
+K0527;Vendedor;Higiene e limpeza
+K0528;Head of Procurement;Consultoria empresarial
+K0529;Analista de Trade Marketing;Cosméticos
+K0530;Diretora de Compras;Alimentos
+K0531;Sócia;Pet
+K0532;Sócia;Educação
+K0533;Sócia;Farmacêutico
+K0534;Head de Marketing;Transportes
+K0535;Head de Marketing;Alimentos
+K0536;Professor;Higiene e limpeza
+K0537;Comprador;Alimentos
+K0538;Professor;Bebidas
+K0539;R&D Manager;Cosméticos
+K0540;Head de Marketing;Bebidas
+K0541;Analista de Suprimentos;Alimentos
+K0542;Managing Director;Cosméticos
+K0543;Diretora de Compras;Cosméticos
+K0544;Coordenador de Desenvolvimento de Embalagens;Farmacêutico
+K0545;Diretora de Compras;Higiene e limpeza
+K0546;Advogado;Higiene e limpeza
+K0547;Analista de TI;Higiene e limpeza
+K0548;Gerente de Produção;Transportes
+K0549;Analista de TI;Bebidas
+K0550;Gerente de Produção;Alimentos
+K0551;Dir. de Operações;Consultoria empresarial
+K0552;Professor;Pet
+K0553;R&D Manager;Cosméticos
+K0554;Managing Director;Transportes
+K0555;Gerente de Supply Chain;Cosméticos
+K0556;CEO;Farmacêutico
+K0557;Analista de Trade Marketing;Farmacêutico
+K0558;Vendedor;Alimentos
+K0559;Buyer;Alimentos
+K0560;Presidente;Higiene e limpeza
+K0561;Contador;Alimentos
+K0562;Analista de Suprimentos;Pet
+K0563;Contador;Alimentos
+K0564;Analista de Trade Marketing;Pet
+K0565;Dir. de Operações;Bebidas
+K0566;Managing Director;Higiene e limpeza
+K0567;R&D Manager;Educação
+K0568;Analista de Suprimentos;Pet
+K0569;Gerente Comercial;Alimentos
+K0570;Analista Financeiro;Transportes
+K0571;Coordenadora de Comunicação;Banco
+K0572;Coordenador de Desenvolvimento de Embalagens;Alimentos
+K0573;Analista Financeiro;Farmacêutico
+K0574;Gerente de Produção;Banco
+K0575;Compradora Sênior;Tecnologia da informação
+K0576;Gerente de Produção;Farmacêutico
+K0577;Gerente Comercial;Pet
+K0578;Professor;Higiene e limpeza
+K0579;Gerente de Produção;Tecnologia da informação
+K0580;Gerente de Produção;Pet
+K0581;Analista de TI;Pet
+K0582;Técnico de Qualidade;Cosméticos
+K0583;Analista de Trade Marketing;Pet
+K0584;Designer de Embalagens;Higiene e limpeza
+K0585;Analista Financeiro;Higiene e limpeza
+K0586;Product Manager;Educação
+K0587;Managing Director;Cosméticos
+K0588;Diretora de Compras;Transportes
+K0589;Contador;Alimentos
+K0590;Analista de TI;Farmacêutico
+K0591;Analista de Suprimentos;Bebidas
+K0592;Sócia;Cosméticos
+K0593;Analista de Suprimentos;Cosméticos
+K0594;Coord. de Compras;Bebidas
+K0595;Diretor Comercial;Pet
+K0596;Dir. de Operações;Farmacêutico
+K0597;Sócia;Cosméticos
+K0598;Designer de Embalagens;Tecnologia da informação
+K0599;Gerente de Produção;Alimentos
+K0600;Gerente de Produção;Farmacêutico
+K0601;Estudante;Consultoria empresarial
+K0602;Analista de Trade Marketing;Farmacêutico
+K0603;Analista de TI;Alimentos
+K0604;Head de Marketing;Alimentos
+K0605;Head de Marketing;Cosméticos
+K0606;Estudante;Farmacêutico
+K0607;Recepcionista;Transportes
+K0608;Head de Marketing;Farmacêutico
+K0609;Brand Manager;Tecnologia da informação
+K0610;Designer de Embalagens;Cosméticos
+K0611;Gerente Comercial;Pet
+K0612;Head de Marketing;Bebidas
+K0613;Gerente de Supply Chain;Consultoria empresarial
+K0614;Analista de Suprimentos;Higiene e limpeza
+K0615;R&D Manager;Higiene e limpeza
+K0616;R&D Manager;Cosméticos
+K0617;Sócio-proprietário;Cosméticos
+K0618;Analista de Trade Marketing;Higiene e limpeza
+K0619;Sócia;Higiene e limpeza
+K0620;Supply Chain Manager;Higiene e limpeza
+K0621;Diretora de Compras;Higiene e limpeza
+K0622;Managing Director;Transportes
+K0623;R&D Manager;Alimentos
+K0624;Gerente Comercial;Farmacêutico
+K0625;Analista de Trade Marketing;Bebidas
+K0626;Analista de Marca;Pet
+K0627;Analista de Suprimentos;Alimentos
+K0628;Gerente Industrial;Cosméticos
+K0629;Supply Chain Manager;Alimentos
+K0630;Analista de Suprimentos;Bebidas
+K0631;Designer de Embalagens;Bebidas
+K0632;Head de Marketing;Transportes
+K0633;R&D Manager;Indústria de embalagens plásticas
+K0634;Técnico de Qualidade;Alimentos
+K0635;Analista de TI;Farmacêutico
+K0636;Assistente Administrativo;Alimentos
+K0637;Designer de Embalagens;Alimentos
+K0638;Managing Director;Bebidas
+K0639;Sócia;Cosméticos
+K0640;Sócia;Pet
+K0641;Coordenadora de Comunicação;Bebidas
+K0642;Diretora de Compras;Alimentos
+K0643;Gerente de Produção;Cosméticos
+K0644;Managing Director;Higiene e limpeza
+K0645;Sócia;Cosméticos
+K0646;Supply Chain Manager;Cosméticos
+K0647;Analista de Suprimentos;Banco
+K0648;Gerente de Produto;Farmacêutico
+K0649;R&D Manager;Higiene e limpeza
+K0650;Analista de Trade Marketing;Bebidas
+K0651;Gerente de Compras;Pet
+K0652;Técnico de Qualidade;Farmacêutico
+K0653;Gerente Comercial;Cosméticos
+K0654;Sócio-proprietário;Pet
+K0655;Assistente Administrativo;Farmacêutico
+K0656;Gerente Industrial;Farmacêutico
+K0657;Contador;Tecnologia da informação
+K0658;Gerente de Marketing;Farmacêutico
+K0659;Analista de Suprimentos;Higiene e limpeza
+K0660;Head de Marketing;Alimentos
+K0661;Diretora de Compras;Cosméticos
+K0662;Head de Marketing;Transportes
+K0663;Analista de Suprimentos;Farmacêutico
+K0664;Analista de Trade Marketing;Pet
+K0665;Analista de Suprimentos;Educação
+K0666;Contador;Farmacêutico
+K0667;Recepcionista;Farmacêutico
+K0668;Managing Director;Bebidas
+K0669;R&D Manager;Indústria de embalagens plásticas
+K0670;R&D Manager;Pet
+K0671;Gerente de Produção;Alimentos
+K0672;Head de Marketing;Farmacêutico
+K0673;Managing Director;Tecnologia da informação
+K0674;Coordenadora de Comunicação;Cosméticos
+K0675;Analista Financeiro;Pet
+K0676;Managing Director;Bebidas
+K0677;Head de Marketing;Farmacêutico
+K0678;Gerente Comercial;Higiene e limpeza
+K0679;Analista de Suprimentos;Cosméticos
+K0680;Managing Director;Pet
+K0681;Sócia;Bebidas
+K0682;Analista de Trade Marketing;Bebidas
+K0683;R&D Manager;Alimentos
+K0684;Head de Marketing;Indústria de embalagens plásticas
+K0685;Coordenadora de Comunicação;Cosméticos
+K0686;Packaging Engineer;Higiene e limpeza
+K0687;R&D Manager;Bebidas
+K0688;Designer de Embalagens;Educação
+K0689;Gerente de Produção;Farmacêutico
+K0690;R&D Manager;Pet
+K0691;Managing Director;Pet
+K0692;Sócia;Alimentos
+K0693;Chief Marketing Officer;Cosméticos
+K0694;Chief Marketing Officer;Cosméticos
+K0695;Gerente Comercial;Pet
+K0696;Engenheira de Embalagens;Indústria de embalagens plásticas
+K0697;Managing Director;Farmacêutico
+K0698;Sócio-proprietário;Pet
+K0699;Professor;Higiene e limpeza
+K0700;R&D Manager;Pet
+K0701;Dir. de Operações;Farmacêutico
+K0702;R&D Manager;Higiene e limpeza
+K0703;Designer de Embalagens;Bebidas
+K0704;Gerente Comercial;Alimentos
+K0705;Chief Marketing Officer;Higiene e limpeza
+K0706;Professor;Pet
+K0707;Head de Marketing;Bebidas
+K0708;Managing Director;Farmacêutico
+K0709;Diretora de Compras;Pet
+K0710;Vendedor;Higiene e limpeza
+K0711;Coord. de Compras;Higiene e limpeza
+K0712;Gerente de Produto;Cosméticos
+K0713;Sócia;Bebidas
+K0714;Sócia;Cosméticos
+K0715;Designer de Embalagens;Pet
+K0716;Supervisor de Qualidade;Bebidas
+K0717;Managing Director;Alimentos
+K0718;Analista de Suprimentos;Alimentos
+K0719;R&D Manager;Indústria de embalagens plásticas
+K0720;Gerente de Produção;Cosméticos
+K0721;R&D Manager;Alimentos
+K0722;Analista de Suprimentos;Farmacêutico
+K0723;Gerente de Produção;Educação
+K0724;Analista de Trade Marketing;Educação
+K0725;Sócia;Farmacêutico
+K0726;Managing Director;Cosméticos
+K0727;Head de Marketing;Pet
+K0728;Sócia;Cosméticos
+K0729;Managing Director;Pet
+K0730;Gerente Comercial;Higiene e limpeza
+K0731;Product Manager;Cosméticos
+K0732;Professor;Alimentos
+K0733;Compradora Sênior;Higiene e limpeza
+K0734;Gerente de Produção;Alimentos
+K0735;Professor;Cosméticos
+K0736;Estagiário de RH;Educação
+K0737;Analista de TI;Higiene e limpeza
+K0738;Analista de Suprimentos;Alimentos
+K0739;Head de Marketing;Alimentos
+K0740;Designer de Embalagens;Pet
+K0741;Gerente de Supply Chain;Transportes
+K0742;Designer de Embalagens;Higiene e limpeza
+K0743;Chief Marketing Officer;Pet
+K0744;Diretor Comercial;Pet
+K0745;Gerente de Produção;Pet
+K0746;Analista de TI;Farmacêutico
+K0747;Analista de Suprimentos;Bebidas
+K0748;Head de Marketing;Farmacêutico
+K0749;Analista de Suprimentos;Farmacêutico
+K0750;Analista de Suprimentos;Cosméticos
+K0751;Head de Marketing;Bebidas
+K0752;Dir. de Operações;Alimentos
+K0753;Gerente Comercial;Higiene e limpeza
+K0754;Comprador;Higiene e limpeza
+K0755;Brand Manager;Pet
+K0756;Estudante;Higiene e limpeza
+K0757;Sócia;Cosméticos
+K0758;Analista de Marca;Farmacêutico
+K0759;Sócio-proprietário;Consultoria empresarial
+K0760;Head de Marketing;Cosméticos
+K0761;Presidente;Bebidas
+K0762;Analista de Suprimentos;Bebidas
+K0763;Analista de Trade Marketing;Higiene e limpeza
+K0764;Brand Manager;Banco
+K0765;Sócia;Bebidas
+K0766;Diretor Comercial;Higiene e limpeza
+K0767;Head de Marketing;Pet
+K0768;Analista de Suprimentos;Farmacêutico
+K0769;Diretora de Compras;Pet
+K0770;Comprador;Bebidas
+K0771;Analista de Trade Marketing;Farmacêutico
+K0772;Professor;Alimentos
+K0773;Coordenador de Desenvolvimento de Embalagens;Educação
+K0774;Comprador;Alimentos
+K0775;Gerente de Marketing;Cosméticos
+K0776;Professor;Farmacêutico
+K0777;Buyer;Alimentos
+K0778;Professor;Bebidas
+K0779;Head de Marketing;Pet
+K0780;Assistente Administrativo;Higiene e limpeza
+K0781;Designer de Embalagens;Cosméticos
+K0782;Diretora de Compras;Farmacêutico
+K0783;Head de Marketing;Farmacêutico
+K0784;Analista Financeiro;Farmacêutico
+K0785;Diretora de Compras;Higiene e limpeza
+K0786;Recepcionista;Cosméticos
+K0787;Sócia;Transportes
+K0788;Gerente de Produção;Pet
+K0789;Analista de P&D;Cosméticos
+K0790;Analista de Suprimentos;Farmacêutico
+K0791;Designer de Embalagens;Pet
+K0792;Recepcionista;Farmacêutico
+K0793;Head de Marketing;Farmacêutico
+K0794;Analista de Suprimentos;Bebidas
+K0795;Supply Chain Manager;Pet
+K0796;Product Manager;Bebidas
+K0797;Analista Financeiro;Farmacêutico
+K0798;Diretora de Compras;Alimentos
+K0799;Coord. de Compras;Transportes
+K0800;Compradora Sênior;Alimentos
+K0801;Packaging Engineer;Higiene e limpeza
+K0802;Gerente Comercial;Pet
+K0803;Supervisor de Qualidade;Farmacêutico
+K0804;Sócia;Alimentos
+K0805;Packaging Engineer;Bebidas
+K0806;Coord. de Compras;Farmacêutico
+K0807;Analista de Trade Marketing;Bebidas
+K0808;Gerente de Produção;Bebidas
+K0809;Engenheira de Embalagens;Cosméticos
+K0810;Dir. de Operações;Higiene e limpeza
+K0811;Diretora de Compras;Bebidas
+K0812;Professor;Bebidas
+K0813;Analista de TI;Farmacêutico
+K0814;CEO;Consultoria empresarial
+K0815;Analista de TI;Higiene e limpeza
+K0816;R&D Manager;Higiene e limpeza
+K0817;Gerente de Produção;Farmacêutico
+K0818;Analista de TI;Higiene e limpeza
+K0819;Advogado;Pet
+K0820;Analista de Suprimentos;Indústria de embalagens plásticas
+K0821;Packaging Engineer;Bebidas
+K0822;Supply Chain Manager;Cosméticos
+K0823;Chief Marketing Officer;Alimentos
+K0824;Dir. de Operações;Farmacêutico
+K0825;Analista de Marca;Indústria de embalagens plásticas
+K0826;Supervisor de Qualidade;Higiene e limpeza
+K0827;R&D Manager;Pet
+K0828;Sócia;Pet
+K0829;Head de Marketing;Pet
+K0830;Analista de Trade Marketing;Tecnologia da informação
+K0831;Recepcionista;Alimentos
+K0832;Managing Director;Bebidas
+K0833;Head de Marketing;Cosméticos
+K0834;Recepcionista;Alimentos
+K0835;Analista de TI;Alimentos
+K0836;Diretora de Compras;Pet
+K0837;Head de Marketing;Pet
+K0838;Advogado;Pet
+K0839;Sócia;Higiene e limpeza
+K0840;Designer de Embalagens;Alimentos
+K0841;Managing Director;Alimentos
+K0842;Analista de TI;Banco
+K0843;Gerente de Produção;Farmacêutico
+K0844;R&D Manager;Alimentos
+K0845;Técnico de Qualidade;Bebidas
+K0846;Recepcionista;Farmacêutico
+K0847;Diretora de Compras;Transportes
+K0848;Diretora de Compras;Pet
+K0849;Contador;Pet
+K0850;Gerente de Produção;Pet
+K0851;Head de Marketing;Indústria de embalagens plásticas
+K0852;Analista de Suprimentos;Bebidas
+K0853;Gerente Comercial;Cosméticos
+K0854;Diretor Comercial;Bebidas
+K0855;Sócia;Alimentos
+K0856;Head de Marketing;Tecnologia da informação
+K0857;Técnico de Qualidade;Pet
+K0858;Supervisor de Qualidade;Alimentos
+K0859;Analista de Trade Marketing;Higiene e limpeza
+K0860;Analista de TI;Cosméticos
+K0861;Analista de Suprimentos;Pet
+K0862;Gerente Comercial;Bebidas
+K0863;Recepcionista;Pet
+K0864;Sócia;Cosméticos
+K0865;Designer de Embalagens;Cosméticos
+K0866;Gerente de Compras;Tecnologia da informação
+K0867;Diretora de Compras;Cosméticos
+K0868;Head de Marketing;Cosméticos
+K0869;Advogado;Farmacêutico
+K0870;Managing Director;Alimentos
+K0871;Analista de TI;Banco
+K0872;Analista de TI;Cosméticos
+K0873;Analista de TI;Alimentos
+K0874;Designer de Embalagens;Higiene e limpeza
+K0875;R&D Manager;Higiene e limpeza
+K0876;Professor;Higiene e limpeza
+K0877;Analista de Trade Marketing;Higiene e limpeza
+K0878;Brand Manager;Pet
+K0879;Gerente de Marketing;Tecnologia da informação
+K0880;Vendedor;Bebidas
+K0881;Product Manager;Tecnologia da informação
+K0882;Analista de Suprimentos;Educação
+K0883;Gerente de Marketing;Cosméticos
+K0884;Chief Marketing Officer;Bebidas
+K0885;Head de Marketing;Alimentos
+K0886;Analista de Trade Marketing;Higiene e limpeza
+K0887;Coordenador de Desenvolvimento de Embalagens;Alimentos
+K0888;Managing Director;Farmacêutico
+K0889;Gerente de Compras;Consultoria empresarial
+K0890;Analista de Trade Marketing;Alimentos
+K0891;Head de Marketing;Alimentos
+K0892;Analista de Suprimentos;Transportes
+K0893;Brand Manager;Bebidas
+K0894;Diretor Comercial;Farmacêutico
+K0895;Managing Director;Farmacêutico
+K0896;Analista de TI;Pet
+K0897;Analista de TI;Higiene e limpeza
+K0898;R&D Manager;Pet
+K0899;Head de Marketing;Bebidas
+K0900;Estudante;Cosméticos
+K0901;Recepcionista;Banco
+K0902;Estagiário de RH;Higiene e limpeza
+K0903;Gerente de Supply Chain;Cosméticos
+K0904;Analista de Trade Marketing;Alimentos
+K0905;Diretor Comercial;Consultoria empresarial
+K0906;Recepcionista;Farmacêutico
+K0907;Sócia;Farmacêutico
+K0908;Sócio-proprietário;Indústria de embalagens plásticas
+K0909;Coordenadora de Comunicação;Farmacêutico
+K0910;R&D Manager;Higiene e limpeza
+K0911;Designer de Embalagens;Pet
+K0912;Packaging Engineer;Higiene e limpeza
+K0913;Gerente Comercial;Bebidas
+K0914;Coordenador de Desenvolvimento de Embalagens;Transportes
+K0915;Sócio-proprietário;Transportes
+K0916;Brand Manager;Farmacêutico
+K0917;Packaging Engineer;Higiene e limpeza
+K0918;Analista de Trade Marketing;Banco
+K0919;Dir. de Operações;Farmacêutico
+K0920;Managing Director;Cosméticos
+K0921;Sócia;Alimentos
+K0922;Dir. de Operações;Banco
+K0923;Coord. de Compras;Farmacêutico
+K0924;Analista de TI;Alimentos
+K0925;Gerente de Produção;Banco
+K0926;Professor;Pet
+K0927;Analista de Marca;Farmacêutico
+K0928;Gerente Comercial;Pet
+K0929;Managing Director;Farmacêutico
+K0930;Professor;Cosméticos
+K0931;Diretor Comercial;Banco
+K0932;Professor;Pet
+K0933;Gerente Industrial;Bebidas
+K0934;Head de Marketing;Pet
+K0935;Analista de TI;Farmacêutico
+K0936;Professor;Cosméticos
+K0937;Managing Director;Pet
+K0938;Compradora Sênior;Indústria de embalagens plásticas
+K0939;Managing Director;Transportes
+K0940;Gerente Comercial;Pet
+K0941;Gerente de Produção;Alimentos
+K0942;Técnico de Qualidade;Consultoria empresarial
+K0943;Analista de P&D;Farmacêutico
+K0944;Managing Director;Cosméticos
+K0945;Diretora de Compras;Alimentos
+K0946;Supply Chain Manager;Pet
+K0947;Diretora de Compras;Alimentos
+K0948;Sócia;Pet
+K0949;Analista de TI;Farmacêutico
+K0950;Analista de Suprimentos;Tecnologia da informação
+K0951;Contador;Alimentos
+K0952;Chief Marketing Officer;Alimentos
+K0953;Comprador;Farmacêutico
+K0954;Analista de Trade Marketing;Farmacêutico
+K0955;Analista de Trade Marketing;Pet
+K0956;Analista de Trade Marketing;Higiene e limpeza
+K0957;Sócia;Consultoria empresarial
+K0958;Buyer;Farmacêutico
+K0959;Analista de Suprimentos;Higiene e limpeza
+K0960;Chief Marketing Officer;Farmacêutico
+K0961;Gerente de Produto;Bebidas
+K0962;Diretor Industrial;Bebidas
+K0963;Diretor Industrial;Pet
+K0964;R&D Manager;Tecnologia da informação
+K0965;Analista de Suprimentos;Pet
+K0966;Head de Marketing;Alimentos
+K0967;Head de Marketing;Bebidas
+K0968;Diretor Comercial;Cosméticos
+K0969;Analista de TI;Higiene e limpeza
+K0970;Diretora de Compras;Pet
+K0971;Product Manager;Higiene e limpeza
+K0972;R&D Manager;Educação
+K0973;Packaging Engineer;Higiene e limpeza
+K0974;Diretora de Compras;Farmacêutico
+K0975;Coordenadora de Comunicação;Educação
+K0976;Recepcionista;Bebidas
+K0977;Comprador;Alimentos
+K0978;Professor;Cosméticos
+K0979;Estudante;Pet
+K0980;Sócia;Farmacêutico
+K0981;Designer de Embalagens;Alimentos
+K0982;Professor;Higiene e limpeza
+K0983;Chief Marketing Officer;Alimentos
+K0984;Head de Marketing;Higiene e limpeza
+K0985;Analista de Trade Marketing;Banco
+K0986;Designer de Embalagens;Higiene e limpeza
+K0987;Gerente de Produção;Pet
+K0988;Coordenadora de Comunicação;Cosméticos
+K0989;Sócia;Tecnologia da informação
+K0990;Product Manager;Banco
+K0991;Advogado;Farmacêutico
+K0992;Designer de Embalagens;Bebidas
+K0993;Dir. de Operações;Pet
+K0994;Managing Director;Banco
+K0995;R&D Manager;Cosméticos
+K0996;Coordenador de Desenvolvimento de Embalagens;Alimentos
+K0997;Gerente de Supply Chain;Banco
+K0998;Comprador;Higiene e limpeza
+K0999;Analista de Suprimentos;Farmacêutico
+K1000;Analista de Suprimentos;Bebidas
