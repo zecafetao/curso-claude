@@ -32,3 +32,8 @@ Este repositório guarda um curso de Claude em português do Brasil, escrito por
 - Fatos sujeitos a mudança (modelos, preços, planos, políticas, menus do app) devem ser conferidos na documentação oficial e trazer a data de referência. Recursos que não puderam ser testados no ambiente de escrita devem ser descritos a partir da documentação, com esse aviso ao aluno.
 - Escrever uma etapa por vez e esperar a revisão do aluno antes da seguinte.
 - Ao concluir uma etapa, atualizar a coluna "Situação" no `README.md` da raiz.
+
+## Pendências
+
+- Nível 3: o ambiente de escrita não tinha chave da API. O código que chama a API foi escrito a partir da documentação, conferido contra o SDK `anthropic` 2.8 e executado contra um servidor simulado, que fica fora do repositório. Quando houver uma chave, executar os scripts de `nivel-3-desenvolvedor-api/gabarito/` e os exercícios, corrigir o que divergir e retirar os avisos de "não executado" do `README.md` do nível e dos arquivos do gabarito.
+- Projeto dos níveis 4 e 5: falta o aluno confirmar se fica o agente de campanha, como na ementa, ou se troca para um agente de relatórios.
