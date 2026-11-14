@@ -35,7 +35,7 @@ O código foi conferido com Python 3.13 e a versão 2.8 do SDK `anthropic` (refe
 ## O que você precisa
 
 - A pasta `tratamento-bases` da etapa Ponte, com o ambiente funcionando, o seu `validacao.py` e o seu `tratar_base.py`.
-- Uma conta no Claude Console com créditos. A API é cobrada à parte da assinatura do app. O módulo 3.1 mostra como criar a conta, a chave e o limite de gasto.
+- Uma conta no Claude Console com créditos. A API é cobrada à parte da assinatura do app. Os planos Max, Ultra e Team incluem créditos mensais de API, que precisam ser ativados; nos demais, os créditos são comprados (referência: novembro de 2026). O módulo 3.1 mostra como criar a conta, a chave e o limite de gasto.
 - A pasta [`dados/`](dados/) deste nível, copiada para dentro de `tratamento-bases` com o nome `dados_n3`.
 
 | Arquivo | Usado em | O que é |
