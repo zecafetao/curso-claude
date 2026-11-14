@@ -65,7 +65,7 @@ A pasta [`gabarito/`](gabarito/) tem uma solução para cada exercício e para o
 | `chat_terminal.py` | Exercício do 3.1 |
 | `perguntar_pdf.py` e `ler_grafico.py` | Exercício do 3.2 |
 | `extrair_contatos.py` e `avaliar_extracao.py` | Exercício do 3.3 |
-| `ferramentas.py`, `assistente.py` e `laco_manual.py` | Exercício do 3.4 |
+| `ferramentas.py`, `laco_manual.py`, `assistente.py` e `calcular.py` | Exercício do 3.4 |
 | `classificar_lote.py` | Exercício do 3.5 |
 | `retomada.py`, `falhas_simuladas.py` e `extrair_com_retomada.py` | Exercício do 3.6 |
 | `tratar_base_claude.py` | Projeto |
