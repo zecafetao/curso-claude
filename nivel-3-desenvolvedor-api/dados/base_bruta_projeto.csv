@@ -1,0 +1,213 @@
+Nome Completo;E-mail;Telefone;Empresa;CNPJ;Cargo;CEP;Cidade;UF;Origem;Aceita comunicação;Data aceite
+Wagner Oliveira dos Santos;wagner.oliveira@ro.example;;Rações Rô S/A;12.321.076/0001-00;Brand Manager;70040-010;Brasília;DF;Site;Sim;23/05/2025
+NELSON TEIXEIRA;NELSON.TEIXEIRA@BETA.EXAMPLE;;Bebidas Beta LTDA;;Advogada;88010000;FLORIANOPOLIS;sc;site;sim;14/02/2025
+Tiago Barros;tiago.barros@alfa.example;031999900100;Alimentos Alfa S/A;12.321.010/0001-00;Gerente de Compras;30130-010;Belo Horizonte;MG;Credenciamento;Sim;20/05/2025
+  Paulo  Henriques ;Paulo.Henriques@Delta.Example;5585999900123;Laboratório Delta S.A.;04.321.012/0001-00;CEO;60060-170;;;Expositor ;SIM;2025-04-16
+BRUNO HENRIQUES;BRUNO.HENRIQUES@BETA.EXAMPLE;21999900001;Bebidas Beta LTDA;;Purchasing Analyst;20040020;RIO DE JANEIRO;rj;site;sim;02/02/2025
+  Úrsula  Yamada ;Ursula.Yamada@Pi.Example;21 99990 0155;Limpeza Pi S.A.;12.321.015/0001-00;Gerente Comercial;20040-020; Rio de Janeiro ;RJ;Credenciamento ;SIM;21/12/2025
+úrsula gomes da silva; ursula.gomes@gama.example ;+55 11 99990-0182;Cosméticos Gama - EIRELI;12321018000100;R&D Manager;1310100;são paulo;XX;EVENTO 2025;N;
+gabriela queiroz dos santos; gabriela.queiroz@eta.example ;(61) 9999-0006;Laticínios Eta - EIRELI;4321006000100;Gerente de Desenvolvimento de Negócios;70040010;brasília; DF;SITE 2025;Sim;
+Rafael Xavier de Souza;rafael.xavier@epsilon.example;+55 31 99990-0044;Higiene Épsilon S/A;123456;Coord. de Sourcing;30130-010;;;Compra de base;Sim;18/09/2025
+Úrsula Klein;ursula.klein@alfa.example;+55 61 99990-0020;Alimentos Alfa S/A;12.321.020/0001-00;Vendedor Externo;70040-010;Brasília;DF;Credenciamento;Sim;21/09/2025
+  Gabriela  Uchoa ;Gabriela.Uchoa@Pi.Example;5511999900195;Limpeza Pi S.A.;04.321.019/0001-00;CFO;04538-132; São Paulo ;SP;Credenciamento ;SIM;2025-04-07
+karina siqueira; karina.siqueira@lambda.example ;06233330010;Massas Lambda Ltda.;12321010000100;Engenheira de Embalagens;74003010;goiânia; GO;CREDENCIAMENTO 2025;sim;31/02/2025
+Daniel Zanetti da Silva;daniel.zanetti@ni.example;(62) 3333-0192;Perfumaria Ni;04.321.019/0001-00;Assistente Administrativo;74003-010;Goiânia;GO;Evento;Não;
+MARTA OLIVEIRA;MARTA.OLIVEIRA@BETA.EXAMPLE;81 99990 0161;Bebidas Beta LTDA;;Designer de Embalagens;50010000;RECIFE;pe;site;sim;27/06/2025
+Karina Ibarra de Souza;karina.ibarra@epsilon.example;019999900064;Higiene Épsilon;12.321.064/0001-00;Analista de TI;13010-000;;;Compra de base;Sim;11/05/2025
+Isabela Esteves e Castro;isabela.esteves@iota.example;+55 19 99990-0008;Farmacêutica Iota;12.321.008/0001-00;Buyer;13010-000;;;Expositor;Não;
+  João  Barros ;Joao.Barros@Delta.Example;5581999900063;Laboratório Delta ltda;04.321.063/0001-00;Sales Manager;50010-000;;;Expositor ;SIM;2025-04-10
+Karina Oliveira da Silva;karina.oliveira@ni.example;051999900172;Perfumaria Ni S/A;12.321.017/0001-00;Estagiário de Compras;90010-150;Porto Alegre;RS;Evento;Não;
+Isabela Klein dos Santos;isabela.klein@ro.example;+55 51 9999-0116;Rações Rô S/A;12.321.011/0001-00;Diretora de Marketing;90010-150;Porto Alegre;RS;Site;Sim;
+  Mariana  Oliveira ;Mariana.Oliveira@Ipsilon.Example;5585999900039;Vitaminas Ípsilon ltda;04.321.039/0001-00;Packaging Engineer;;;;Compra de base ;Sim;
+  Mariana  Uchoa ;Mariana.Uchoa@Teta.Example;5581999900147;Cervejaria Teta S.A.;04.321.014/0001-00;Analista de Trade Marketing;50010-000; Recife ;PE;Evento ;SIM;2025-04-13
+  Zeca  Jardim ;Zeca.Jardim@Ipsilon.Example;9999-0079;Vitaminas Ípsilon ltda;12.321.079/0001-00;Head of Procurement;;;;Compra de base ;SIM;26/08/2025
+  Leonardo  Farias ;Leonardo.Farias@Ipsilon.Example;81 99990 0119;Vitaminas Ípsilon ltda;12.321.011/0001-00;Product Manager;;;;Compra de base ;SIM;12/12/2025
+  Rafael  Farias ;Rafael.Farias@Mi.Example;123;Sucos Mi ltda;12.321.071/0001-00;Advogada;20040-020; Rio de Janeiro ;RJ;Site ;SIM;18/12/2025
+Carla Klein de Souza;carla.klein@epsilon.example;+55 62 3333-0164;Higiene Épsilon S/A;123456;Analista de TI;74003-010;;;Compra de base;Sim;03/09/2025
+ana queiroz de souza; ana.queiroz@omicron.example ;(92) 99990-0054;Conservas Ômicron - EIRELI;4321054000100;Gerente de Marketing;69005010;;;COMPRA DE BASE 2025;S;2025-07-01
+bruno lacerda; bruno.lacerda@lambda.example ;019999900190;Massas Lambda - EIRELI;12321019000100;Gerente de Produto;13010000;campinas; SP;CREDENCIAMENTO 2025;S;02/11/2025
+ANA ESTEVES;ANA.ESTEVES@CAPA.EXAMPLE;5581999900189;Doces Capa ME;04321018000100;Packaging Engineer;;;;compra de base;sim;2025-10-01
+  Bruno  Duarte ;Bruno.Duarte@Delta.Example;9999-0163;Laboratório Delta S.A.;12.321.016/0001-00;Sales Manager;88010-000;;;Expositor ;SIM;02/08/2025
+PAULO RAMOS;PAULO.RAMOS@CAPA.EXAMPLE;5511999900069;Doces Capa ME;04321069000100;Product Manager;;;;compra de base;sim;2025-10-16
+queila yamada;QUEILA.YAMADA@LAMBDA.EXAMPLE;011999900070;Massas Lambda - EIRELI;12321070000100;Vendedor Externo;1310100;são paulo; SP;CREDENCIAMENTO 2025;S;17/11/2025
+leonardo henriques e castro; leonardo.henriques@tau.example ;+55 62 3333-0038;Chás Tau - EIRELI;12321038000100;Fundadora;74003010;;;EXPOSITOR 2025;N;
+  Nelson  Vasconcelos ;NELSON.VASCONCELOS@ALFA.EXAMPLE;;Alimentos Alfa;12.321.040/0001-00;Gerente de Produto;69005-010;Manaus;AM;Credenciamento;Sim;14/05/2025
+Gabriela Macedo e Castro;gabriela.macedo@iota.example;(11) 99990-0168;Farmacêutica Iota;04.321.016/0001-00;Gerente de Planta;01310-100;;;Expositor;Não;
+Zeca Barros da Silva;zeca.barros@ni.example;06233330052;Perfumaria Ni S/A;12.321.052/0001-00;Managing Director;74003-010;Goiânia;GO;Evento;Não;
+  Vinícius  Henriques ;Vinicius.Henriques@Pi.Example;5571999900075;Limpeza Pi S.A.;04.321.075/0001-00;Coord. de PCP;40020-000; Salvador ;BA;Credenciamento ;SIM;2025-04-22
+LEONARDO VASCONCELOS;LEONARDO.VASCONCELOS@CSI.EXAMPLE;71 99990 0173;Nutrição Csi ME;12321017000100;CEO;40020000;;;expositor;sim;12/06/2025
+  Zeca  Pacheco ;Zeca.Pacheco@Teta.Example;9999-0187;Cervejaria Teta S.A.;12.321.018/0001-00;Diretor Industrial;40020-000; Salvador ;BA;Evento ;SIM;26/08/2025
+  Hugo  Vasconcelos  e  Castro ;  hugo.vasconcelos@iota.example;051999900088;Farmacêutica Iota;12.321.088/0001-00;Fundadora;90010-150;;;Expositor;Não;
+carla oliveira da silva; carla.oliveira@gama.example ;+55 31 99990-0002;Cosméticos Gama Ltda.;12321002000100;Managing Director;30130010;belo horizonte; MG;EVENTO 2025;N;
+nelson lacerda de souza; nelson.lacerda@omicron.example ;;Conservas Ômicron - EIRELI;12321094000100;Coord. de Sourcing;74003010;;;COMPRA DE BASE 2025;Sim;
+WAGNER GOMES;WAGNER.GOMES@CAPA.EXAMPLE;;Doces Capa LTDA;;Engenheiro de Vendas;;;;compra de base;sim;23/02/2025
+DANIEL LACERDA;DANIEL.LACERDA@SIGMA.EXAMPLE;5521999900057;Grãos Sigma LTDA;;Gerente de Logística;20040020;RIO DE JANEIRO;rj;evento;sim;2025-10-04
+ZECA ZANETTI;ZECA.ZANETTI@CSI.EXAMPLE;81999900133;Nutrição Csi ME;12321013000100;Coordenadora de Comunicação;50010000;;;expositor;sim;26/02/2025
+Rafael Duarte da Silva;rafael.duarte@ni.example;+55 92 99990-0152;Perfumaria Ni;12.321.015/0001-00;Managing Director;69005-010;Manaus;AM;Evento;Não;
+  Nelson  Duarte ;Nelson.Duarte@Teta.Example;;Cervejaria Teta S.A.;12.321.067/0001-00;Supervisor de Qualidade;60060-170; Fortaleza ;CE;Evento ;SIM;14/08/2025
+TIAGO TEIXEIRA;TIAGO.TEIXEIRA@CSI.EXAMPLE;4133330073;Nutrição Csi LTDA;;CEO;80010000;;;expositor;sim;20/02/2025
+  Olívia  Siqueira ;Olivia.Siqueira@Pi.Example;85 99990 0095;Limpeza Pi ltda;12.321.095/0001-00;CFO;60060-170; Fortaleza ;CE;Credenciamento ;SIM;15/12/2025
+FÁBIO JARDIM;fabio.jardim.zeta.example;71 99990 0005;Pet Zeta ME;12321005000100;Gerente Comercial;00000-000;SALVADOR;ba;credenciamento;sim;06/06/2025
+Queila Ibarra dos Santos;queila.ibarra@ro.example;03199990016;Rações Rô;12.321.016/0001-00;Diretora de Marketing;30130-010;Belo Horizonte;MG;Site;Sim;17/05/2025
+gabriela werneck de souza; gabriela.werneck@omicron.example ;(31) 99990-0114;Conservas Ômicron Ltda.;4321011000100;Analista de TI;30130010;;;COMPRA DE BASE 2025;S;2025-07-07
+  Isabela  Siqueira ;Isabela.Siqueira@Delta.Example;41 3333 0143;Laboratório Delta ltda;12.321.014/0001-00;Comprador Sr.;80010-000;;;Expositor ;SIM;09/12/2025
+Marta Queiroz;marta.queiroz@alfa.example;+55 62 3333-0080;Alimentos Alfa;12.321.080/0001-00;Sócio-proprietário;74003-010;Goiânia;GO;Credenciamento;Sim;27/09/2025
+  Nelson  Jardim ;Nelson.Jardim@Pi.Example;;Limpeza Pi ltda;12.321.017/0001-00;Coord. de PCP;50010-000; Recife ;PE;Credenciamento ;SIM;14/08/2025
+MARIANA ESTEVES;MARIANA.ESTEVES@CSI.EXAMPLE;5548999900093;Nutrição Csi ME;04321093000100;Comprador Sr.;88010000;;;;sim;2025-10-13
+Bruno Pacheco e Castro;bruno.pacheco@iota.example;011999900028;Farmacêutica Iota S/A;12.321.028/0001-00;Analista de RH;01310-100;;;Expositor;Não;
+fábio henriques dos santos; fabio.henriques@eta.example ;+55 31 9999-0086;Laticínios Eta - EIRELI;12321086000100;Analista de Suprimentos;00000-000;belo horizonte; MG;SITE 2025;S;06/03/2025
+  Rafael  Lacerda ;Rafael.Lacerda@Ipsilon.Example;85 99990 0179;Vitaminas Ípsilon S.A.;12.321.017/0001-00;Head of Procurement;;;;Compra de base ;SIM;18/12/2025
+ISABELA IBARRA;ISABELA.IBARRA@SIGMA.EXAMPLE;21 99990 0197;Grãos Sigma ME;12321019000100;Analista de Trade Marketing;20040020;RIO DE JANEIRO;rj;evento;sim;09/06/2025
+Hugo Barros dos Santos;hugo.barros@ro.example;01199990196;Rações Rô S/A;12.321.019/0001-00;Operador de Produção;01310-100;São Paulo;SP;Site;Sim;08/05/2025
+olívia uchoa de souza; olivia.uchoa@omicron.example ;+55 11 99990-0014;Conservas Ômicron - EIRELI;123456;Analista de TI;1310100;;;COMPRA DE BASE 2025;S;15/03/2025
+  Isabela  Esteves  e  Castro ;Isabela.esteves@iota.example;+55 19 99990-0008;Farmacêutica Iota;12.321.008/0001-00;Buyer;13010-000;;;Expositor;Não;
+João Zanetti de Souza;joao.zanetti@epsilon.example;(51) 99990-0144;Higiene Épsilon;04.321.014/0001-00;Coord. de Sourcing;90010-150;;;Compra de base;Sim;2025-01-10
+HUGO NOGUEIRA;HUGO.NOGUEIRA@BETA.EXAMPLE;71999900061;Bebidas Beta ME;12321061000100;Designer de Embalagens;40020000;SALVADOR;ba;;Sim;
+ELAINE ALMEIDA;ELAINE.ALMEIDA@ZETA.EXAMPLE;;Pet Zeta ME;12321085000100;Analista Financeiro;20040020;RIO DE JANEIRO;rj;credenciamento;sim;31/02/2025
+DANIEL RAMOS;DANIEL.RAMOS@ZETA.EXAMPLE;5585999900165;Pet Zeta ME;04321016000100;Gerente de Supply Chain;60060170;FORTALEZA;ce;credenciamento;sim;2025-10-04
+RAFAEL VASCONCELOS;RAFAEL.VASCONCELOS@ZETA.EXAMPLE;11 99990 0125;Pet Zeta ME;12321012000100;Coord. de PCP;04538132;SAO PAULO;sp;credenciamento;sim;18/06/2025
+wagner yamada da silva; wagner.yamada@gama.example ;;Cosméticos Gama - EIRELI;12321022000100;Estagiário de Compras;13010000;campinas;XX;EVENTO 2025;N;
+yara ibarra dos santos; yara.ibarra@eta.example ;(51) 9999-0186;Laticínios Eta Ltda.;4321018000100;Analista de Suprimentos;90010150;porto alegre; RS;SITE 2025;S;2025-07-25
+elaine siqueira e castro; elaine.siqueira@tau.example ;;Chás Tau Ltda.;12321058000100;Buyer;30130010;;;EXPOSITOR 2025;N;
+queila yamada; queila.yamada@lambda.example ;011999900070;Massas Lambda - EIRELI;12321070000100;Vendedor Externo;1310100;são paulo; SP;CREDENCIAMENTO 2025;S;17/11/2025
+  Elaine  Klein ;Elaine.Klein@Mi.Example;;Sucos Mi ltda;12.321.031/0001-00;Dir. de Operações;80010-000; Curitiba ;PR;Site ;SIM;05/08/2025
+Mariana Gomes da Silva;mariana.gomes@ni.example;(92) 99990-0012;Perfumaria Ni S/A;04.321.012/0001-00;Analista de Mídias Sociais;69005-010;Manaus;AM;Evento;Não;
+  Carla  Macedo ;Carla.Macedo@Delta.Example;11 99990 0083;Laboratório Delta S.A.;12.321.083/0001-00;Coordenadora de Comunicação;04538-132;;;Expositor ;Sim;
+  Hugo  Xavier ;Hugo.Xavier@Teta.Example;9999-0007;Cervejaria Teta ltda;12.321.007/0001-00;Gerente de Logística;50010-000; Recife ;PE;Evento ;SIM;08/08/2025
+CARLA CARDOSO;CARLA.CARDOSO@SIGMA.EXAMPLE;85 99990 0137;Grãos Sigma LTDA;;Diretor Industrial;60060170;FORTALEZA;ce;evento;sim;03/06/2025
+  Ana  Oliveira ;Ana.Oliveira@Pi.Example;5548999900135;Limpeza Pi ltda;04.321.013/0001-00;Analista Financeiro;88010-000; Florianópolis ;SC;Credenciamento ;sim;31/02/2025
+joão jardim; joao.jardim@lambda.example ;(61) 99990-0090;Massas Lambda Ltda.;4321090000100;Gerente de Produto;70040010;brasília; DF;CREDENCIAMENTO 2025;S;2025-07-10
+Nelson Barros e Castro;nelson.barros@iota.example;;Farmacêutica Iota S/A;12.321.014/0001-00;Representante de Vendas;13010-000;;;Expositor;Não;
+zeca ramos dos santos; zeca.ramos@eta.example ;01999990106;Laticínios Eta Ltda.;12321010000100;Gerente de Desenvolvimento de Negócios;13010000;campinas; SP;SITE 2025;S;26/11/2025
+  Daniel  Vasconcelos ;Daniel.Vasconcelos@Delta.Example;554133330003;Laboratório Delta S.A.;04.321.003/0001-00;Analista de P&D;80010-000;;;Expositor ;SIM;2025-04-04
+Leonardo Xavier da Silva;leonardo.xavier@ni.example;+55 19 99990-0092;Perfumaria Ni S/A;12.321.092/0001-00;Assistente Administrativo;13010-000;Campinas;SP;Evento;Não;
+  Bruno  Xavier ;Bruno.Xavier@Pi.Example;9999-0055;Limpeza Pi ltda;12.321.055/0001-00;Gerente Comercial;04538-132; São Paulo ;SP;Credenciamento ;SIM;02/08/2025
+  Carla  Siqueira ;Carla.Siqueira@Mi.Example;123;Sucos Mi ltda;12.321.019/0001-00;Key Account Manager;88010-000; Florianópolis ;SC;Site ;SIM;03/12/2025
+wagner esteves; wagner.esteves@lambda.example ;;Massas Lambda Ltda.;12321013000100;Sócio-proprietário;90010150;porto alegre; RS;CREDENCIAMENTO 2025;S;23/11/2025
+Vinícius Zanetti e Castro;vinicius.zanetti@iota.example;(61) 99990-0048;Farmacêutica Iota;04.321.048/0001-00;Representante de Vendas;70040-010;;;Expositor;Não;
+  Fábio  Zanetti ;Fabio.Zanetti@Ipsilon.Example;41 3333 0059;Vitaminas Ípsilon S.A.;12.321.059/0001-00;Vice-presidente de Operações;;;;Compra de base ;SIM;06/12/2025
+hugo farias de souza; hugo.farias@omicron.example ;061999900034;Conservas Ômicron Ltda.;12321034000100;Consultor de Vendas;70040010;;;COMPRA DE BASE 2025;S;08/11/2025
+úrsula almeida de souza; ursula.almeida@omicron.example ;+55 51 99990-0074;Conservas Ômicron Ltda.;123456;Gerente de Produção;90010150;;;COMPRA DE BASE 2025;S;21/03/2025
+  Xênia  Lacerda ;Xenia.Lacerda@Mi.Example;123;Sucos Mi S.A.;12.321.013/0001-00;Dir. de Operações;40020-000; Salvador ;BA;Site ;SIM;24/12/2025
+Wagner Uchoa de Souza;wagner.uchoa@epsilon.example;;Higiene Épsilon;12.321.018/0001-00;Consultor de Vendas;30130-010;;;Compra de base;Sim;23/05/2025
+SANDRA ESTEVES;SANDRA.ESTEVES@ZETA.EXAMPLE;554133330045;Pet Zeta ME;04321045000100;CFO;80010000;CURITIBA;pr;indicacao de cliente;sim;2025-10-19
+marta almeida dos santos; marta.almeida@eta.example ;+55 92 9999-0026;Laticínios Eta Ltda.;12321026000100;Brand Manager;69005010;manaus; AM;SITE 2025;S;27/03/2025
+Gabriela Gomes;gabriela.gomes@alfa.example;(51) 99990-0060;Alimentos Alfa S/A;04.321.060/0001-00;Engenheira de Embalagens;90010-150;Porto Alegre;RS;Credenciamento;sim;31/02/2025
+Mariana Macedo;mariana.macedo@alfa.example;(19) 99990-0120;Alimentos Alfa;04.321.012/0001-00;Vendedor Externo;13010-000;Campinas;SP;Credenciamento;Sim;2025-01-13
+TIAGO ZANETTI;TIAGO.ZANETTI@BETA.EXAMPLE;11999900181;Bebidas Beta ME;12321018000100;Dir. de Operações;04538132;SAO PAULO;sp;site;sim;20/02/2025
+Elaine Ibarra da Silva;elaine.ibarra@ni.example;;Perfumaria Ni;12.321.011/0001-00;Analista de Mídias Sociais;01310-100;São Paulo;SP;Evento;Não;
+  Karina  Werneck ;Karina.Werneck@Ipsilon.Example;9999-0199;Vitaminas Ípsilon ltda;12.321.019/0001-00;Engenheiro de Vendas;;;;Compra de base ;SIM;11/08/2025
+João Teixeira dos Santos;joao.teixeira@ro.example;(19) 9999-0036;Rações Rô S/A;04.321.036/0001-00;Analista de Suprimentos;13010-000;Campinas;SP;Site;Sim;2025-01-10
+Marta Werneck e Castro;marta.werneck@iota.example;+55 61 99990-0188;Farmacêutica Iota S/A;12.321.018/0001-00;Fundadora;70040-010;;;Expositor;Não;
+Zeca Henriques;zeca.henriques@alfa.example;061999900160;Alimentos Alfa;12.321.016/0001-00;Engenheira de Embalagens;70040-010;Brasília;DF;Credenciamento;Sim;
+  Hugo  Duarte ;Hugo.Duarte@Pi.Example;9999-0115;Limpeza Pi S.A.;12.321.011/0001-00;Gerente de Supply Chain;80010-000; Curitiba ;PR;Credenciamento ;SIM;08/08/2025
+rafael nogueira e castro; rafael.nogueira@tau.example ;+55 11 99990-0098;Chás Tau Ltda.;12321098000100;Representante de Vendas;1310100;;;EXPOSITOR 2025;N;
+Fábio Ramos da Silva;fabio.ramos@ni.example;+55 51 99990-0032;Perfumaria Ni;12.321.032/0001-00;R&D Manager;00000-000;Porto Alegre;RS;Evento;Não;
+sandra werneck e castro; sandra.werneck@tau.example ;(51) 99990-0018;Chás Tau Ltda.;4321018000100;Gerente de Planta;90010150;;;EXPOSITOR 2025;N;
+carla oliveira da silva;  carla.oliveira@gama.example;+55 31 99990-0002;Cosméticos Gama Ltda.;12321002000100;Managing Director;30130010;belo horizonte; MG;EVENTO 2025;N;
+  Paulo  Barros ;Paulo.Barros@Pi.Example;5521999900015;Limpeza Pi ltda;04.321.015/0001-00;Gerente de Supply Chain;20040-020; Rio de Janeiro ;RJ;Credenciamento ;SIM;2025-04-16
+CARLA WERNECK;carla.werneck@capa;21 99990 0029;Doces Capa ME;12321029000100;Head of Procurement;;;;compra de base;sim;03/06/2025
+FÁBIO PACHECO;FABIO.PACHECO@CSI.EXAMPLE;21 99990 0113;Nutrição Csi LTDA;;Sales Manager;00000-000;;;expositor;sim;06/06/2025
+tiago ramos de souza; tiago.ramos@omicron.example ;011999900154;Conservas Ômicron Ltda.;12321015000100;Gerente de Marketing;1310100;;;COMPRA DE BASE 2025;S;20/11/2025
+isabela uchoa da silva; isabela.uchoa@gama.example ;+55 61 99990-0062;Cosméticos Gama - EIRELI;12321062000100;Analista de Mídias Sociais;70040010;brasília;XX;EVENTO 2025;N;
+Ana Almeida;ana.almeida@alfa.example;(11) 99990-0000;Alimentos Alfa;04.321.000/0001-00;Gerente de Compras;01310-100;São Paulo;SP;Credenciamento;Sim;2025-01-01
+SANDRA KLEIN;SANDRA.KLEIN@CSI.EXAMPLE;5511999900153;Nutrição Csi LTDA;;Analista de P&D;04538132;;;expositor;sim;2025-10-19
+  Queila  Queiroz ;Queila.Queiroz@Delta.Example;9999-0043;Laboratório Delta S.A.;12.321.043/0001-00;Comprador Sr.;20040-020;;;Expositor ;SIM;17/08/2025
+elaine yamada dos santos; elaine.yamada@eta.example ;;Laticínios Eta - EIRELI;12321016000100;Diretora de Marketing;69005010;manaus; AM;SITE 2025;S;05/11/2025
+bruno farias da silva; bruno.farias@gama.example ;092999900082;Cosméticos Gama Ltda.;12321082000100;R&D Manager;69005010;manaus; AM;EVENTO 2025;N;
+ZECA TEIXEIRA;ZECA.TEIXEIRA@ZETA.EXAMPLE;85999900025;Pet Zeta LTDA;;Coord. de PCP;60060170;FORTALEZA;ce;credenciamento;sim;26/02/2025
+xênia nogueira; xenia.nogueira@lambda.example ;+55 19 99990-0050;Massas Lambda Ltda.;12321050000100;Gerente de Compras;13010000;campinas; SP;CREDENCIAMENTO 2025;Sim;
+LEONARDO PACHECO;;48 99990 0065;Pet Zeta LTDA;;Gerente de Supply Chain;88010000;FLORIANOPOLIS;sc;credenciamento;sim;12/06/2025
+KARINA GOMES;KARINA.GOMES@ZETA.EXAMPLE;71999900145;Pet Zeta LTDA;;CFO;40020000;SALVADOR;ba;credenciamento;sim;11/02/2025
+carla uchoa; carla.uchoa@lambda.example ;+55 92 99990-0110;Massas Lambda - EIRELI;12321011000100;Engenheira de Embalagens;69005010;manaus; AM;CREDENCIAMENTO 2025;sim;31/02/2025
+Elaine Cardoso de Souza;elaine.cardoso@epsilon.example;;Higiene Épsilon S/A;12.321.004/0001-00;Gerente de Marketing;90010-150;;;Compra de base;Sim;05/05/2025
+queila esteves e castro; queila.esteves@tau.example ;06233330178;Chás Tau Ltda.;12321017000100;Analista de RH;74003010;;;EXPOSITOR 2025;N;
+vinícius pacheco da silva; vinicius.pacheco@gama.example ;(51) 99990-0102;Cosméticos Gama - EIRELI;4321010000100;Managing Director;90010150;porto alegre;XX;EVENTO 2025;N;
+   ;KARINA.ALMEIDA@SIGMA.EXAMPLE;48999900037;Grãos Sigma ME;12321037000100;Diretor Industrial;88010000;FLORIANOPOLIS;sc;evento;sim;11/02/2025
+GABRIELA GOMES;Gabriela.gomes@alfa.example;(51) 99990-0060;Alimentos Alfa S/A;04.321.060/0001-00;Engenheira de Embalagens;90010-150;Porto Alegre;RS;Credenciamento;sim;31/02/2025
+ANA YAMADA;KARINA.ALMEIDA@SIGMA.EXAMPLE;5585999900081;Bebidas Beta LTDA;;Dir. de Operações;60060170;FORTALEZA;ce;site;sim;2025-10-01
+VINÍCIUS XAVIER;VINICIUS.XAVIER@CAPA.EXAMPLE;554133330129;Doces Capa LTDA;;Head of Procurement;;;;compra de base;sim;2025-10-22
+PAULO XAVIER;PAULO.XAVIER@SIGMA.EXAMPLE;5548999900177;Grãos Sigma LTDA;;Executivo de Contas;88010000;FLORIANOPOLIS;sc;evento;sim;2025-10-16
+ELAINE GOMES;ELAINE.GOMES@CSI.EXAMPLE;;Nutrição Csi LTDA;;Comprador Sr.;60060170;;;expositor;Sim;
+leonardo nogueira dos santos; leonardo.nogueira@eta.example ;+55 61 9999-0146;Laticínios Eta Ltda.;12321014000100;Operador de Produção;70040010;brasília; DF;SITE 2025;S;12/03/2025
+BRUNO NOGUEIRA;BRUNO.NOGUEIRA@CAPA.EXAMPLE;85999900109;Doces Capa ME;12321010000100;Vice-presidente de Operações;;;;compra de base;sim;02/02/2025
+   ;marta.ibarra@csi.example,;85 99990 0053;Nutrição Csi ME;12321053000100;Analista de P&D;60060170;;;expositor;sim;27/06/2025
+mariana werneck dos santos; mariana.werneck@eta.example ;(62) 3333-0066;Laticínios Eta Ltda.;4321066000100;Diretora de Marketing;74003010;goiânia; GO;SITE 2025;S;2025-07-13
+sandra cardoso dos santos; sandra.cardoso@eta.example ;(11) 9999-0126;Laticínios Eta - EIRELI;4321012000100;Brand Manager;1310100;são paulo; SP;SITE 2025;S;2025-07-19
+WAGNER MACEDO;WAGNER.MACEDO@SIGMA.EXAMPLE;;Grãos Sigma ME;12321015000100;Gerente de Logística;80010000;CURITIBA;pr;evento;sim;23/02/2025
+XÊNIA BARROS;XENIA.BARROS@ZETA.EXAMPLE;41 3333 0185;Pet Zeta LTDA;;Analista Financeiro;80010000;CURITIBA;pr;credenciamento;sim;31/02/2025
+  Queila  Werneck ;Queila.Werneck@Mi.Example;9999-0151;Sucos Mi ltda;12.321.015/0001-00;Purchasing Analyst;60060-170; Fortaleza ;CE;Site ;SIM;17/08/2025
+GABRIELA ESTEVES;GABRIELA.ESTEVES@BETA.EXAMPLE;5521999900141;Bebidas Beta ME;04321014000100;Key Account Manager;20040020;RIO DE JANEIRO;rj;site;sim;2025-10-07
+Fábio Xavier;fabio.xavier@alfa.example;+55 11 99990-0140;Alimentos Alfa S/A;12.321.014/0001-00;Gerente de Produto;00000-000;São Paulo;SP;Credenciamento;Sim;06/09/2025
+Carla Esteves dos Santos;carla.esteves@ro.example;+55 11 9999-0056;Rações Rô;12.321.056/0001-00;Gerente de Desenvolvimento de Negócios;01310-100;São Paulo;SP;Site;Sim;03/09/2025
+NELSON NOGUEIRA;NELSON.NOGUEIRA@CSI.EXAMPLE;;Nutrição Csi ME;12321013000100;Sales Manager;04538132;;;Indicação;sim;14/02/2025
+Úrsula Queiroz e Castro;ursula.queiroz@iota.example;+55 31 99990-0128;Farmacêutica Iota;12.321.012/0001-00;Analista de RH;30130-010;;;Expositor;Não;
+paulo pacheco; paulo.pacheco@lambda.example ;(62) 3333-0150;Massas Lambda - EIRELI;4321015000100;Gerente de Compras;74003010;goiânia; GO;CREDENCIAMENTO 2025;S;2025-07-16
+VINÍCIUS RAMOS;VINICIUS.RAMOS@BETA.EXAMPLE;5581999900021;Bebidas Beta ME;04321021000100;Advogada;50010000;RECIFE;pe;site;sim;2025-10-22
+ISABELA CARDOSO;ISABELA.CARDOSO@CAPA.EXAMPLE;71 99990 0089;Doces Capa LTDA;;Packaging Engineer;;;;compra de base;sim;09/06/2025
+paulo jardim da silva; paulo.jardim@gama.example ;(11) 99990-0042;Cosméticos Gama Ltda.;4321042000100;Assistente Administrativo;1310100;são paulo; SP;EVENTO 2025;N;
+  Úrsula  Siqueira ;Ursula.Siqueira@Teta.Example;71 99990 0047;Cervejaria Teta ltda;12.321.047/0001-00;Analista de Trade Marketing;40020-000; Salvador ;BA;Evento ;SIM;21/12/2025
+  Xênia  Farias ;Xenia.Farias@Delta.Example;48 99990 0023;Laboratório Delta ltda;12.321.023/0001-00;CEO;88010-000;;;Expositor ;SIM;24/12/2025
+  Karina  Queiroz ;Karina.Queiroz@Mi.Example;9999-0091;Sucos Mi S.A.;12.321.091/0001-00;Key Account Manager;50010-000; Recife ;PE;Site ;SIM;11/08/2025
+  Wagner  Werneck ;Wagner.Werneck@Delta.Example;;Laboratório Delta ltda;12.321.010/0001-00;Analista de P&D;40020-000;;;Expositor ;SIM;23/08/2025
+olívia almeida da silva; olivia.almeida@gama.example ;+55 62 3333-0122;Cosméticos Gama Ltda.;12321012000100;Estagiário de Compras;74003010;goiânia; GO;EVENTO 2025;N;
+Vinícius Farias dos Santos;vinicius.farias@ro.example;(31) 9999-0156;Rações Rô S/A;04.321.015/0001-00;Gerente de Desenvolvimento de Negócios;30130-010;Belo Horizonte;MG;Site;Sim;2025-01-22
+Hugo Vasconcelos e Castro;hugo.vasconcelos@iota.example;051999900088;Farmacêutica Iota;12.321.088/0001-00;Fundadora;90010-150;;;Expositor;Não;
+GABRIELA YAMADA;GABRIELA.YAMADA@CSI.EXAMPLE;5571999900033;Nutrição Csi LTDA;;Coordenadora de Comunicação;40020000;;;expositor;sim;2025-10-07
+Bruno Vasconcelos dos Santos;bruno.vasconcelos@ro.example;06233330136;Rações Rô;12.321.013/0001-00;Analista de Suprimentos;74003-010;Goiânia;GO;Site;Sim;02/05/2025
+Zeca Barros da Silva;  zeca.barros@ni.example;06233330052;Perfumaria Ni S/A;12.321.052/0001-00;Managing Director;74003-010;Goiânia;GO;Evento;Não;
+daniel jardim e castro; daniel.jardim@tau.example ;(92) 99990-0138;Chás Tau Ltda.;4321013000100;Fundadora;69005010;;;EXPOSITOR 2025;N;
+Sandra Siqueira;sandra.siqueira@alfa.example;(92) 99990-0180;Alimentos Alfa S/A;04.321.018/0001-00;Sócio-proprietário;69005-010;Manaus;AM;Credenciamento;Sim;2025-01-19
+tiago lacerda dos santos; tiago.lacerda@eta.example ;05199990046;Laticínios Eta - EIRELI;12321046000100;Operador de Produção;90010150;porto alegre; RS;SITE 2025;S;20/11/2025
+  Leonardo  Zanetti ;Leonardo.Zanetti@Mi.Example;123;Sucos Mi S.A.;12.321.011/0001-00;Designer de Embalagens;60060-170; Fortaleza ;CE;Site ;SIM;12/12/2025
+   ;XENIA.VASCONCELOS@SIGMA.EXAMPLE;81 99990 0077;Grãos Sigma ME;12321077000100;Executivo de Contas;50010000;RECIFE;pe;evento;sim;24/06/2025
+Yara Siqueira da Silva;yara.siqueira@ni.example;(61) 99990-0132;Perfumaria Ni S/A;04.321.013/0001-00;R&D Manager;70040-010;Brasília;DF;Evento;Não;
+YARA KLEIN;YARA.KLEIN@ZETA.EXAMPLE;5581999900105;Pet Zeta LTDA;;Gerente Comercial;50010000;RECIFE;pe;credenciamento;Sim;
+  Marta  Yamada ;Marta.Yamada@Teta.Example;48 99990 0107;Cervejaria Teta S.A.;12.321.010/0001-00;Gerente de Logística;88010-000; Florianópolis ;SC;Evento ;SIM;27/12/2025
+Daniel Teixeira de Souza;daniel.teixeira@epsilon.example;(11) 99990-0084;Higiene Épsilon S/A;04.321.084/0001-00;Consultor de Vendas;01310-100;;;Compra de base;Sim;2025-01-04
+Queila Oliveira de Souza;queila.oliveira@epsilon.example;092999900124;Higiene Épsilon S/A;12.321.012/0001-00;Gerente de Produção;69005-010;;;Compra de base;Sim;17/05/2025
+  Ana  Ibarra ;Ana.Ibarra@Teta.Example;5511999900027;Cervejaria Teta S.A.;04.321.027/0001-00;Executivo de Contas;04538-132; São Paulo ;SP;Evento ;SIM;2025-04-01
+OLÍVIA CARDOSO;olivia.cardoso@@beta.example;11 99990 0041;Bebidas Beta LTDA;;Key Account Manager;04538132;SAO PAULO;sp;site;sim;15/06/2025
+yara cardoso e castro; yara.cardoso@tau.example ;(19) 99990-0078;Chás Tau - EIRELI;4321078000100;Analista de RH;13010000;;;EXPOSITOR 2025;N;
+ana werneck da silva; ana.werneck@gama.example ;(19) 99990-0162;Cosméticos Gama Ltda.;4321016000100;Analista de Mídias Sociais;13010000;campinas; SP;EVENTO 2025;N;
+Olívia Queiroz dos Santos;olivia.queiroz@ro.example;+55 19 9999-0176;Rações Rô;12.321.017/0001-00;Brand Manager;13010-000;Campinas;SP;Site;Sim;15/09/2025
+  Elaine  Queiroz ;Elaine.Queiroz@Ipsilon.Example;;Vitaminas Ípsilon S.A.;12.321.013/0001-00;Packaging Engineer;;;;Compra de base ;SIM;05/08/2025
+Tiago Barros;Tiago.barros@alfa.example;031999900100;Alimentos Alfa S/A;12.321.010/0001-00;Gerente de Compras;30130-010;Belo Horizonte;MG;Credenciamento;Sim;20/05/2025
+Nelson Vasconcelos;nelson.vasconcelos@alfa.example;;Alimentos Alfa;12.321.040/0001-00;Gerente de Produto;69005-010;Manaus;AM;Credenciamento;Sim;14/05/2025
+  Isabela  Macedo ;Isabela.Macedo@Pi.Example;81 99990 0035;Limpeza Pi S.A.;12.321.035/0001-00;Analista Financeiro;50010-000; Recife ;PE;Credenciamento ;sim;31/02/2025
+  Yara  Almeida ;Yara.Almeida@Ipsilon.Example;5571999900159;Vitaminas Ípsilon ltda;04.321.015/0001-00;Vice-presidente de Operações;;;;Compra de base ;SIM;2025-04-25
+Paulo Zanetti dos Santos;paulo.zanetti@ro.example;(92) 9999-0096;Rações Rô;04.321.096/0001-00;Operador de Produção;69005-010;Manaus;AM;Site;Sim;2025-01-16
+marta gomes de souza; marta.gomes@omicron.example ;+55 19 99990-0134;Conservas Ômicron - EIRELI;123456;Consultor de Vendas;13010000;;;COMPRA DE BASE 2025;S;27/03/2025
+Ana Gomes e Castro;ana.gomes@iota.example;(62) 3333-0108;Farmacêutica Iota S/A;04.321.010/0001-00;Buyer;74003-010;;;Expositor;Não;
+xênia teixeira e castro; xenia.teixeira@tau.example ;+55 51 99990-0158;Chás Tau - EIRELI;12321015000100;Buyer;90010150;;;EXPOSITOR 2025;N;
+fábio nogueira de souza; fabio.nogueira@omicron.example ;+55 92 99990-0194;Conservas Ômicron Ltda.;123456;Coord. de Sourcing;00000-000;;;COMPRA DE BASE 2025;S;06/03/2025
+hugo lacerda da silva; hugo.lacerda@gama.example ;031999900142;Cosméticos Gama - EIRELI;12321014000100;Assistente Administrativo;30130010;belo horizonte;XX;EVENTO 2025;N;
+karina yamada e castro; karina.yamada@tau.example ;061999900118;Chás Tau - EIRELI;12321011000100;Gerente de Planta;70040010;;;EXPOSITOR 2025;N;
+JOÃO RAMOS;JOAO.RAMOS@SIGMA.EXAMPLE;5571999900117;Grãos Sigma ME;04321011000100;Supervisor de Qualidade;40020000;SALVADOR;ba;evento;sim;2025-10-10
+  Sandra  Uchoa ;Sandra.Uchoa@Ipsilon.Example;5521999900099;Vitaminas Ípsilon S.A.;04.321.099/0001-00;Engenheiro de Vendas;;;;Compra de base ;SIM;2025-04-19
+  Fábio  Farias ;Fabio.Farias@Teta.Example;11 99990 0167;Cervejaria Teta ltda;12.321.016/0001-00;Supervisor de Qualidade;00000-000; São Paulo ;SP;Evento ;SIM;06/12/2025
+Yara Macedo de Souza;yara.macedo@epsilon.example;(62) 3333-0024;Higiene Épsilon;04.321.024/0001-00;Gerente de Produção;74003-010;;;Compra de base;Sim;2025-01-25
+RAFAEL PACHECO;rafael pacheco@sigma.example;41 3333 0017;Grãos Sigma LTDA;;Supervisor de Qualidade;80010000;CURITIBA;pr;evento;Sim;
+QUEILA GOMES;QUEILA.GOMES@SIGMA.EXAMPLE;11999900097;Grãos Sigma LTDA;;Analista de Trade Marketing;04538132;SAO PAULO;sp;evento;sim;17/02/2025
+isabela almeida; isabela.almeida@lambda.example ;+55 31 99990-0170;Massas Lambda Ltda.;12321017000100;Vendedor Externo;30130010;belo horizonte; MG;CREDENCIAMENTO 2025;S;09/03/2025
+  Tiago  Jardim ;Tiago.Jardim@Teta.Example;9999-0127;Cervejaria Teta ltda;12.321.012/0001-00;Executivo de Contas;20040-020; Rio de Janeiro ;RJ;Evento ;Sim;
+ÚRSULA KLEIN;  ursula.klein@alfa.example;+55 61 99990-0020;Alimentos Alfa S/A;12.321.020/0001-00;Vendedor Externo;70040-010;Brasília;DF;Credenciamento;Sim;21/09/2025
+Mariana Gomes da Silva;MARIANA.GOMES@NI.EXAMPLE;(92) 99990-0012;Perfumaria Ni S/A;04.321.012/0001-00;Analista de Mídias Sociais;69005-010;Manaus;AM;Evento;Não;
+ÚRSULA IBARRA;URSULA.IBARRA@BETA.EXAMPLE;41 3333 0101;Bebidas Beta ME;12321010000100;Purchasing Analyst;80010000;CURITIBA;pr;site;sim;21/06/2025
+Olívia Klein e Castro;olivia.klein@iota.example;+55 92 99990-0068;Farmacêutica Iota S/A;12.321.068/0001-00;Gerente de Planta;69005-010;;;Expositor;Não;
+  Yara  Uchoa ;Yara.Uchoa@Mi.Example;123;Sucos Mi S.A.;04.321.051/0001-00;Purchasing Analyst;88010-000; Florianópolis ;SC;Site ;SIM;2025-04-25
+   ;JOAO.LACERDA@CAPA.EXAMPLE;5548999900009;Doces Capa LTDA;;Vice-presidente de Operações;;;;compra de base;sim;2025-10-10
+Sandra Macedo da Silva;sandra.macedo@ni.example;(31) 99990-0072;Perfumaria Ni;04.321.072/0001-00;Estagiário de Compras;30130-010;Belo Horizonte;MG;Evento;Não;
+joão pacheco e castro; joao.pacheco@tau.example ;(31) 99990-0198;Chás Tau - EIRELI;4321019000100;Representante de Vendas;30130010;;;EXPOSITOR 2025;N;
+HUGO TEIXEIRA;HUGO.TEIXEIRA@CAPA.EXAMPLE;21999900169;Doces Capa LTDA;;Product Manager;;;;compra de base;sim;08/02/2025
+  Gabriela  Oliveira ;Gabriela.Oliveira@Teta.Example;554133330087;Cervejaria Teta ltda;04.321.087/0001-00;Diretor Industrial;80010-000; Curitiba ;PR;Evento ;SIM;2025-04-07
+  Daniel  Barros ;Daniel.Barros@Mi.Example;123;Sucos Mi ltda;04.321.011/0001-00;Designer de Embalagens;04538-132; São Paulo ;SP;Site ;SIM;2025-04-04
+  Tiago  Duarte ;Tiago.Duarte@Ipsilon.Example;9999-0019;Vitaminas Ípsilon S.A.;12.321.019/0001-00;Product Manager;;;;Compra de base ;SIM;20/08/2025
+ANA ALMEIDA;ANA.ALMEIDA@ALFA.EXAMPLE;(11) 99990-0000;Alimentos Alfa;04.321.000/0001-00;Gerente de Compras;01310-100;São Paulo;SP;Credenciamento;Sim;2025-01-01
+daniel duarte; daniel.duarte@lambda.example ;(31) 99990-0030;Massas Lambda - EIRELI;4321030000100;Sócio-proprietário;30130010;belo horizonte; MG;CREDENCIAMENTO 2025;S;2025-07-04
+mariana cardoso de souza; mariana.cardoso@omicron.example ;(61) 99990-0174;Conservas Ômicron - EIRELI;4321017000100;Gerente de Produção;70040010;;;COMPRA DE BASE 2025;S;2025-07-13
+  João  Henriques ;Joao.Henriques@Mi.Example;123;Sucos Mi S.A.;04.321.017/0001-00;Advogada;80010-000; Curitiba ;PR;Site ;Sim;
+Xênia Duarte de Souza;xenia.duarte@epsilon.example;+55 61 99990-0104;Higiene Épsilon;123456;Gerente de Marketing;70040-010;;;Compra de base;Sim;24/09/2025
+OLÍVIA IBARRA;OLIVIA.IBARRA@CAPA.EXAMPLE;48 99990 0149;Doces Capa ME;12321014000100;Engenheiro de Vendas;;;;compra de base;Sim;
+  Vinícius  Nogueira ;Vinicius.Nogueira@Delta.Example;5521999900183;Laboratório Delta ltda;04.321.018/0001-00;Coordenadora de Comunicação;20040-020;;;Expositor ;SIM;2025-04-22
+marta almeida dos santos;Marta.almeida@eta.example;+55 92 9999-0026;Laticínios Eta Ltda.;12321026000100;Brand Manager;69005010;manaus; AM;SITE 2025;S;27/03/2025

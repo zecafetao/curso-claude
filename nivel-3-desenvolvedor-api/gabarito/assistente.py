@@ -25,8 +25,10 @@ SISTEMA = (
 
 @beta_tool
 def resumir_base(coluna: str) -> str:
-    """Conta os contatos da base tratada por valor de uma coluna. Use quando a pergunta pedir a
-    distribuição dos contatos, como "quantos por área" ou "quais UFs têm mais contatos".
+    """Conta os contatos da base tratada por valor de uma coluna.
+
+    Use quando a pergunta pedir a distribuição dos contatos, como "quantos por área" ou
+    "quais UFs têm mais contatos".
 
     Args:
         coluna: Uma destas colunas: area, uf, origem, consentimento, cidade, empresa.
@@ -36,8 +38,9 @@ def resumir_base(coluna: str) -> str:
 
 @beta_tool
 def contar_contatos(area: str = "", uf: str = "", consentimento: str = "", origem: str = "") -> str:
-    """Conta os contatos da base tratada que cumprem todos os filtros informados. Use quando a
-    pergunta combinar condições, como "contatos de Compras em SP com consentimento".
+    """Conta os contatos da base tratada que cumprem todos os filtros informados.
+
+    Use quando a pergunta combinar condições, como "contatos de Compras em SP com consentimento".
 
     Args:
         area: Compras, Produção, Marketing, Comercial, Diretoria ou Outros. Vazio para todas.
@@ -50,8 +53,9 @@ def contar_contatos(area: str = "", uf: str = "", consentimento: str = "", orige
 
 @beta_tool
 def validar_arquivo(nome_arquivo: str) -> str:
-    """Confere um arquivo CSV de importação contra o layout do CRM e devolve a quantidade de problemas
-    por tipo. Use quando perguntarem se um arquivo está pronto para importar.
+    """Confere um arquivo CSV de importação contra o layout do CRM e conta os problemas por tipo.
+
+    Use quando perguntarem se um arquivo está pronto para importar.
 
     Args:
         nome_arquivo: Só o nome do arquivo .csv na pasta de dados, sem caminho. Exemplo: arquivo_com_erros.csv.
@@ -79,6 +83,7 @@ def perguntar(cliente, pergunta, mostrar_passos=True):
         betas=[cu.BETA_FALLBACK],
         fallbacks="default",
         max_iterations=8,          # limite de voltas do laço, para a conta não crescer sem controle
+        thread=False,              # cada requisição leva a conversa inteira, como no laço manual
     )
     total = cu.novo_total()
     ultima = None
