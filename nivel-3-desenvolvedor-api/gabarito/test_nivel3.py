@@ -87,6 +87,11 @@ def test_contar_contatos_combina_filtros():
     assert ferramentas.contar_contatos()["quantidade"] == 87
 
 
+def test_contar_contatos_avisa_valor_fora_da_lista():
+    assert "erro" in ferramentas.contar_contatos(area="Vendas")      # sem o aviso, viria zero
+    assert "erro" in ferramentas.contar_contatos(consentimento="sim")
+
+
 def test_validar_arquivo_com_erros():
     resultado = ferramentas.validar_arquivo("arquivo_com_erros.csv")
     assert resultado["linhas"] == 87 and resultado["linhas_com_problema"] == 10

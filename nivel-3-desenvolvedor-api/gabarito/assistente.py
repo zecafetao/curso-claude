@@ -67,7 +67,8 @@ FERRAMENTAS = [
     resumir_base,
     contar_contatos,
     validar_arquivo,
-    {"type": "web_search_20260209", "name": "web_search"},   # ferramenta de servidor: roda na Anthropic
+    # Ferramenta de servidor: a busca roda na Anthropic. max_uses limita as buscas por pergunta.
+    {"type": "web_search_20260209", "name": "web_search", "max_uses": 3},
 ]
 
 

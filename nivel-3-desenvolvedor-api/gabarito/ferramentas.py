@@ -51,6 +51,11 @@ def contar_contatos(area="", uf="", consentimento="", origem=""):
     """Conta os contatos da base tratada que cumprem todos os filtros informados."""
     filtros = {"area": area, "uf": uf.upper(), "consentimento": consentimento.upper(), "origem": origem}
     filtros = {coluna: valor for coluna, valor in filtros.items() if valor != ""}
+    # Um valor fora da lista devolveria zero, e o zero pareceria uma resposta. Melhor avisar.
+    aceitos = {"area": AREAS, "origem": ORIGENS, "consentimento": ["S", "N"]}
+    for coluna, lista in aceitos.items():
+        if coluna in filtros and filtros[coluna] not in lista:
+            return {"erro": f"Valor inválido para {coluna}: {filtros[coluna]}. Use um destes: {', '.join(lista)}."}
     base = ler_csv("base_contatos_tratada.csv")
     quantidade = 0
     for linha in base:
