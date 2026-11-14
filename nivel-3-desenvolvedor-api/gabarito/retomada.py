@@ -109,7 +109,7 @@ def processar_com_retomada(itens, processar, caminho_progresso, teto_de_custo=No
         gravar_registro(caminho_progresso, registro)         # gravado antes de seguir para o próximo
         registros[identificador] = registro
         gasto += registro.get("custo", 0.0)
-        if registro["situacao"] == "erro" and registro.get("temporario"):
+        if registro["situacao"] == "erro":      # vários erros seguidos indicam um problema geral, não do item
             falhas_seguidas += 1
         else:
             falhas_seguidas = 0

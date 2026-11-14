@@ -233,6 +233,15 @@ def test_falhas_seguidas_interrompem(tmp_path):
     assert resumo["erro"] == 3 and resumo["pendente"] == 7 and resumo["parada"] == "falhas seguidas"
 
 
+def test_erro_que_se_repete_em_todos_os_itens_interrompe(tmp_path):
+    def processar(dados):
+        raise ValueError("modelo inexistente")        # erro de configuração: falharia em todos
+
+    itens = [(f"I{numero}", numero) for numero in range(10)]
+    resumo = rodar(itens, processar, tmp_path / "p.jsonl")
+    assert resumo["erro"] == 3 and resumo["pendente"] == 7 and resumo["parada"] == "falhas seguidas"
+
+
 def test_nenhum_item_se_perde(tmp_path):
     def processar(dados):
         if dados % 4 == 0:
