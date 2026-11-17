@@ -57,6 +57,19 @@ def test_banco_aberto_so_para_leitura():
         conexao.execute("DELETE FROM disparos_email")
 
 
+def test_consultas_sql_do_exercicio():
+    import consultas_sql
+    r = list(consultas_sql.rodar("dados_n4/campanha.db").values())
+    assert r[0].iloc[0, 0] == 13
+    assert list(r[1]["enviadas"]) == [26540, 16860, 4350, 2900, 162]
+    assert list(r[2]["taxa_descadastro"]) == [0.15, 0.14]
+    assert (r[3].iloc[0]["publico"], r[3].iloc[0]["taxa_clique"]) == ("Pré-credenciado", 3.7)
+    assert list(r[4]["tentativas_com_erro"]) == [91, 76, 101]
+    assert r[5].iloc[0, 0] == 441
+    assert list(r[6]["taxa_clique"]) == [20.6, 20.1, 10.7]
+    assert list(r[7]["registros"]) == [147, 147, 84]
+
+
 # ---------- servidor MCP (4.3) ----------
 
 def test_servidor_mcp_responde_por_um_cliente_real():
