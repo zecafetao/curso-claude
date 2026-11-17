@@ -144,7 +144,7 @@ O conferidor do módulo P.2 fazia o mesmo trabalho de forma artesanal. Os testes
 
 ### 7. O que é o Claude Code
 
-O **Claude Code** é o Claude trabalhando dentro do seu projeto. Em vez de você copiar código para uma conversa, ele lê os arquivos, propõe alterações, roda comandos e mostra o resultado. Você aprova ou recusa cada ação.
+O **Claude Code** é o Claude trabalhando dentro do seu projeto. Em vez de você copiar código para uma conversa, ele lê os arquivos, propõe alterações, roda comandos e mostra o resultado. Você decide o que ele pode fazer sozinho e o que precisa da sua aprovação.
 
 Formas de usar:
 
@@ -184,6 +184,7 @@ Três camadas de proteção, da mais forte para a mais fraca:
 ```json
 {
   "permissions": {
+    "defaultMode": "default",
     "deny": [
       "Read(./dados_reais/**)",
       "Read(./.env)"
@@ -193,7 +194,7 @@ Três camadas de proteção, da mais forte para a mais fraca:
 ```
 
    Com isso, o Claude Code não lê nem edita esses caminhos. A regra cobre as ferramentas de arquivo. Um comando executado no terminal ainda poderia ler o conteúdo, e por isso ela não substitui a primeira camada. Detalhes na [documentação de permissões](https://code.claude.com/docs/en/permissions).
-3. **Aprovação de cada ação.** Leia o que o Claude Code pede para fazer antes de aceitar.
+3. **Aprovação de cada ação.** Leia o que o Claude Code pede para fazer antes de aceitar. Desde a versão 2.1.283, a sessão começa no modo automático, em que um modelo verificador aprova as ações rotineiras sem perguntar. A linha `"defaultMode": "default"` do arquivo acima faz as sessões deste projeto começarem no modo Manual, que pede aprovação antes de editar arquivos e rodar comandos. Na extensão do VS Code, o modo inicial não é lido deste arquivo: confira o modo na própria extensão. No terminal, Shift+Tab troca de modo durante a sessão. O módulo 4.4 detalha os modos (referência: documentação de novembro de 2026).
 
 Dentro do projeto ficam só os dados fictícios do curso.
 

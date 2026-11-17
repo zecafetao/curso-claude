@@ -216,6 +216,32 @@ def test_fusao_de_listas():
     assert [t["arquivo"] for t in bs.fundir([a, b], k=3)] == ["y", "x", "z"]
 
 
+# ---------- Claude Code (4.4) ----------
+
+@pytest.mark.parametrize("entrada, esperado", [
+    ("ana.souza@gmail.com", "pessoal"),
+    ("  Bruno@Hotmail.com.br ", "pessoal"),
+    ("compras@alfa.example", "corporativo"),
+    ("contato@uol.com.br", "pessoal"),
+    ("rh@empresa.com.br", "corporativo"),
+    ("contato@mail.empresa.com.br", "corporativo"),
+    ("sem-arroba.example", ""),
+    ("", ""),
+])
+def test_funcionalidade_tipo_de_email(entrada, esperado):
+    import tipo_de_email
+    assert tipo_de_email.tipo_de_email(entrada) == esperado
+
+
+def test_skill_do_relatorio_no_claude_code_tem_o_mesmo_metodo():
+    pasta = Path(__file__).parent
+    original = (pasta.parent / "dados" / "relatorio-mensal-email" / "references" / "metodo.md")
+    if not original.exists():
+        original = Path("dados_n4/relatorio-mensal-email/references/metodo.md")
+    copia = pasta / "claude-code" / ".claude" / "skills" / "relatorio-mensal-email" / "references" / "metodo.md"
+    assert copia.read_text(encoding="utf-8") == original.read_text(encoding="utf-8")
+
+
 # ---------- hooks do Claude Code (4.4) ----------
 
 @pytest.mark.parametrize("entrada, codigo", [
