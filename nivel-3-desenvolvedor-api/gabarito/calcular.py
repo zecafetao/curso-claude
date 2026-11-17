@@ -12,7 +12,7 @@ import json
 import claude_util as cu
 import ferramentas
 
-EXECUCAO_DE_CODIGO = {"type": "code_execution_20260120", "name": "code_execution"}
+EXECUCAO_DE_CODIGO = {"type": "code_execution_20260521", "name": "code_execution"}
 
 
 def percentuais_por_origem(cliente):
