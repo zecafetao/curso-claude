@@ -1,6 +1,7 @@
 """Funções de apoio usadas nos scripts dos níveis 3 e 4.
 
-Cópia do claude_util.py do Nível 3, com a função opcoes_de_fallback acrescentada no Nível 4.
+Cópia do claude_util.py do Nível 3, com dois acréscimos do Nível 4: a função opcoes_de_fallback e a conta
+das buscas na web no custo.
 
 Situação dos testes: as funções que chamam a API (criar_cliente e chamar) foram escritas a
 partir da documentação oficial e conferidas contra o SDK instalado, mas não foram executadas
@@ -23,6 +24,7 @@ PRECOS = {
 FATOR_ESCRITA_5MIN = 1.25    # gravar no cache com validade de 5 minutos custa 25% a mais que a entrada
 FATOR_ESCRITA_1H = 2.0       # gravar no cache com validade de 1 hora custa o dobro da entrada
 DESCONTO_LOTE = 0.5          # o processamento em lote custa a metade
+PRECO_BUSCA_WEB = 10.00 / 1000   # dólares por busca na web; a leitura de páginas só cobra os tokens
 
 
 def criar_cliente():
@@ -82,12 +84,20 @@ def custo_em_dolares(uso, modelo=MODELO, lote=False):
         + leitura_cache * preco["leitura_cache"]
         + uso.output_tokens * preco["saida"]
     ) / 1_000_000
-    return custo * DESCONTO_LOTE if lote else custo
+    custo = custo * DESCONTO_LOTE if lote else custo
+    return custo + buscas_na_web(uso) * PRECO_BUSCA_WEB
+
+
+def buscas_na_web(uso):
+    """Número de buscas na web feitas pela ferramenta de servidor nesta chamada."""
+    servidor = getattr(uso, "server_tool_use", None)
+    return (servidor.web_search_requests or 0) if servidor is not None else 0
 
 
 def novo_total():
     """Cria o acumulador de tokens e custo de uma execução."""
-    return {"chamadas": 0, "entrada": 0, "escrita_cache": 0, "leitura_cache": 0, "saida": 0, "custo": 0.0}
+    return {"chamadas": 0, "entrada": 0, "escrita_cache": 0, "leitura_cache": 0, "saida": 0, "buscas_web": 0,
+            "custo": 0.0}
 
 
 def somar_uso(total, uso, modelo=MODELO, lote=False):
@@ -97,6 +107,7 @@ def somar_uso(total, uso, modelo=MODELO, lote=False):
     total["escrita_cache"] += uso.cache_creation_input_tokens or 0
     total["leitura_cache"] += uso.cache_read_input_tokens or 0
     total["saida"] += uso.output_tokens
+    total["buscas_web"] += buscas_na_web(uso)
     total["custo"] += custo_em_dolares(uso, modelo, lote)
     return total
 
@@ -105,5 +116,6 @@ def resumo_do_total(total):
     """Texto de uma linha com o consumo acumulado."""
     return (
         f"{total['chamadas']} chamadas | entrada {total['entrada']} | escrita de cache {total['escrita_cache']} | "
-        f"leitura de cache {total['leitura_cache']} | saída {total['saida']} | custo US$ {total['custo']:.4f}"
+        f"leitura de cache {total['leitura_cache']} | saída {total['saida']} | buscas na web {total['buscas_web']} | "
+        f"custo US$ {total['custo']:.4f}"
     )

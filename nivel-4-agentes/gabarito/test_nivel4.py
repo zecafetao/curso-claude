@@ -149,6 +149,27 @@ def test_entrega_do_estudo_confere_fontes():
     assert any("sem fonte" in p for p in problemas)
     fontes = [{"titulo": n, "url": f"https://{n}.example"} for n in ("a", "b", "c")]
     assert agente_mercado.conferir_estudo(secoes, fontes) == []
+    fontes[0] = {"titulo": "Base de expositores da feira", "url": agente_mercado.FONTE_INTERNA}
+    assert agente_mercado.conferir_estudo(secoes, fontes) == []
+    fontes[0]["url"] = "arquivo interno"
+    assert "não tem endereço válido" in agente_mercado.conferir_estudo(secoes, fontes)[0]
+
+
+def test_custo_inclui_as_buscas_na_web():
+    from types import SimpleNamespace as Uso
+    import claude_util as cu
+    uso = Uso(input_tokens=1000, output_tokens=100, cache_creation_input_tokens=0, cache_read_input_tokens=0,
+              cache_creation=None, server_tool_use=Uso(web_search_requests=3, web_fetch_requests=2))
+    assert round(cu.custo_em_dolares(uso), 4) == 0.036      # 0,006 de tokens + 3 buscas a 0,01
+
+
+def test_penetracao_calcula_so_com_fonte():
+    import penetracao
+    tabela = penetracao.penetracao("dados_n4/empresas_expositoras.csv", "dados_n4/universo_sul_exemplo.csv", "Sul")
+    assert tabela.loc["Indústria de embalagens plásticas", "penetracao_pct"] == 0.72
+    assert tabela.loc["Indústria de embalagens de papel e papelão", "penetracao_pct"] == 1.56
+    assert tabela["expositores"].sum() == 30
+    assert tabela.loc["Máquinas e equipamentos", "situacao"].startswith("lacuna")
 
 
 # ---------- fontes grandes (4.6) ----------

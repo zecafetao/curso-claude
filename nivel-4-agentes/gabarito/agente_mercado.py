@@ -24,6 +24,7 @@ import perfil_expositores as pe
 
 ARQ_EXPOSITORES = Path("dados_n4/empresas_expositoras.csv")
 PASTA_SAIDA = Path("saida_estudos")
+FONTE_INTERNA = "interno:perfil_expositores"     # endereço da fonte interna, aceito na conferência
 
 SISTEMA = """Você faz estudos de mercado curtos para uma agência que atende organizadores de feiras de negócios.
 
@@ -35,8 +36,9 @@ Como trabalhar:
    procurar no mercado.
 2. Busque fontes públicas e confiáveis: órgãos de estatística, associações setoriais, estudos publicados.
    Leia a página antes de usar um número; o resumo da busca não basta.
-3. Cada número do estudo tem uma fonte, com o nome e o endereço. Quando duas fontes divergirem, apresente as
-   duas. Quando não achar um dado, registre a lacuna em vez de estimar.
+3. Cada número do estudo tem uma fonte, com o nome e o endereço. Os números do perfil dos expositores têm
+   como fonte a base de expositores da feira, com o endereço interno:perfil_expositores. Quando duas fontes
+   divergirem, apresente as duas. Quando não achar um dado, registre a lacuna em vez de estimar.
 4. Pare quando tiver o suficiente para as quatro seções, ou quando novas buscas não trouxerem informação
    nova. Termine chamando entregar_estudo.
 
@@ -76,8 +78,10 @@ def conferir_estudo(secoes, fontes):
     if not fontes:
         problemas.append("Nenhuma fonte informada.")
     for numero, fonte in enumerate(fontes, start=1):
-        if not str(fonte.get("url", "")).startswith(("http://", "https://")):
-            problemas.append(f"A fonte [{numero}] não tem endereço válido.")
+        url = str(fonte.get("url", ""))
+        if not (url.startswith(("http://", "https://")) or url == FONTE_INTERNA):
+            problemas.append(f"A fonte [{numero}] não tem endereço válido: use o endereço da página lida "
+                             f"ou {FONTE_INTERNA} para a base de expositores.")
     citadas = {int(n) for s in secoes for n in re.findall(r"\[(\d+)\]", s.get("texto", ""))}
     sem_fonte = sorted(n for n in citadas if n < 1 or n > len(fontes))
     if sem_fonte:
@@ -122,7 +126,7 @@ def estudar(cliente, setor, regiao, mostrar=print):
         entregar_estudo,
         {"type": "web_search_20260209", "name": "web_search", "max_uses": 8,
          "user_location": {"type": "approximate", "country": "BR"}},
-        {"type": "web_fetch_20260209", "name": "web_fetch", "max_uses": 6},
+        {"type": "web_fetch_20260209", "name": "web_fetch", "max_uses": 6, "max_content_tokens": 30000},
     ]
     executor = cliente.beta.messages.tool_runner(
         model=cu.MODELO, max_tokens=16000, system=SISTEMA, tools=ferramentas,
