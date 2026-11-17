@@ -4,7 +4,7 @@ Cópia do claude_util.py do Nível 3, com a função opcoes_de_fallback acrescen
 
 Situação dos testes: as funções que chamam a API (criar_cliente e chamar) foram escritas a
 partir da documentação oficial e conferidas contra o SDK instalado, mas não foram executadas
-com uma chave real. As demais foram executadas e têm testes em test_nivel3.py.
+com uma chave real. As demais foram executadas e têm testes em test_nivel3.py e test_nivel4.py.
 """
 
 import anthropic
