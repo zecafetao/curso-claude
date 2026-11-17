@@ -1,0 +1,379 @@
+nome;email;telefone;dia
+KARINA CONCEICAO;karina.conceicao@lambda.example;61999900330;2026-10-20
+KARINA CONCEICAO;karina.conceicao@lambda.example;61999900330;2026-10-21
+KARINA CONCEICAO;karina.conceicao@lambda.example;61999900330;2026-10-22
+HUGO NOGUEIRA;hugo.nogueira@mi.example;+55 81 99990-0331;2026-10-20
+HUGO NOGUEIRA;hugo.nogueira@mi.example;+55 81 99990-0331;2026-10-21
+NELSON RAMOS;nelson.ramos@ni.example;;2026-10-21
+NELSON RAMOS;nelson.ramos@ni.example;;2026-10-22
+RAFAEL ALMEIDA;rafael.almeida@csi.example;48 99990 0333;2026-10-20
+RAFAEL CONCEICAO;rafael.conceicao@omicron.example;(62) 99990-0334;2026-10-20
+RAFAEL CONCEICAO;rafael.conceicao@omicron.example;(62) 99990-0334;2026-10-21
+VINICIUS UCHOA;vinicius.uchoa@pi.example;85999900335;2026-10-21
+VINICIUS UCHOA;vinicius.uchoa@pi.example;85999900335;2026-10-22
+OTAVIO FALCAO;otavio.falcao@ro.example;+55 11 99990-0336;2026-10-20
+JOAO OLIVEIRA;joao.oliveira@sigma.example;5521999900337;2026-10-20
+JOAO OLIVEIRA;joao.oliveira@sigma.example;5521999900337;2026-10-21
+ANA DUARTE;ana.duarte@tau.example;31 99990 0338;2026-10-21
+ANA DUARTE;ana.duarte@tau.example;31 99990 0338;2026-10-22
+URSULA KLEIN;ursula.klein@ipsilon.example;;2026-10-20
+VINICIUS TEIXEIRA;vinicius.teixeira@alfa.example;51999900340;2026-10-20
+VINICIUS TEIXEIRA;vinicius.teixeira@alfa.example;51999900340;2026-10-21
+VINICIUS TEIXEIRA;vinicius.teixeira@alfa.example;51999900340;2026-10-22
+FABIO YAMADA;fabio.yamada@beta.example;+55 71 99990-0341;2026-10-21
+FABIO YAMADA;fabio.yamada@beta.example;+55 71 99990-0341;2026-10-22
+VINICIUS ALMEIDA;vinicius.almeida@gama.example;5561999900342;2026-10-20
+HUGO BARROS;hugo.barros@delta.example;81 99990 0343;2026-10-20
+HUGO BARROS;hugo.barros@delta.example;81 99990 0343;2026-10-21
+DANIEL YAMADA;daniel.yamada@epsilon.example;(19) 99990-0344;2026-10-21
+DANIEL YAMADA;daniel.yamada@epsilon.example;(19) 99990-0344;2026-10-22
+HUGO QUEIROZ;hugo.queiroz@zeta.example;48999900345;2026-10-20
+LEONARDO ZANETTI;leonardo.zanetti@eta.example;;2026-10-20
+LEONARDO ZANETTI;leonardo.zanetti@eta.example;;2026-10-21
+WAGNER TEIXEIRA;wagner.teixeira@teta.example;5585999900347;2026-10-21
+WAGNER TEIXEIRA;wagner.teixeira@teta.example;5585999900347;2026-10-22
+OTAVIO YAMADA;otavio.yamada@iota.example;11 99990 0348;2026-10-20
+ANA HENRIQUES;ana.henriques@capa.example;(21) 99990-0349;2026-10-20
+ANA HENRIQUES;ana.henriques@capa.example;(21) 99990-0349;2026-10-21
+ELAINE LACERDA;elaine.lacerda@lambda.example;31999900350;2026-10-20
+ELAINE LACERDA;elaine.lacerda@lambda.example;31999900350;2026-10-21
+ELAINE LACERDA;elaine.lacerda@lambda.example;31999900350;2026-10-22
+PAULO JARDIM;paulo.jardim@mi.example;+55 41 99990-0351;2026-10-20
+PAULO ESTEVES;paulo.esteves@ni.example;5551999900352;2026-10-20
+PAULO ESTEVES;paulo.esteves@ni.example;5551999900352;2026-10-21
+CESAR ESTEVES;cesar.esteves@csi.example;;2026-10-21
+CESAR ESTEVES;cesar.esteves@csi.example;;2026-10-22
+FABIO BARROS;fabio.barros@omicron.example;(61) 99990-0354;2026-10-20
+ELAINE RAMOS;elaine.ramos@pi.example;81999900355;2026-10-20
+ELAINE RAMOS;elaine.ramos@pi.example;81999900355;2026-10-21
+NELSON SIQUEIRA;nelson.siqueira@ro.example;+55 19 99990-0356;2026-10-21
+NELSON SIQUEIRA;nelson.siqueira@ro.example;+55 19 99990-0356;2026-10-22
+CARLA XAVIER;carla.xavier@sigma.example;5548999900357;2026-10-20
+CESAR DUARTE;cesar.duarte@tau.example;62 99990 0358;2026-10-20
+CESAR DUARTE;cesar.duarte@tau.example;62 99990 0358;2026-10-21
+DANIEL DUARTE;daniel.duarte@ipsilon.example;(85) 99990-0359;2026-10-21
+DANIEL DUARTE;daniel.duarte@ipsilon.example;(85) 99990-0359;2026-10-22
+OLIVIA VASCONCELOS;olivia.vasconcelos@alfa.example;;2026-10-20
+OLIVIA VASCONCELOS;olivia.vasconcelos@alfa.example;;2026-10-21
+OLIVIA VASCONCELOS;olivia.vasconcelos@alfa.example;;2026-10-22
+GABRIELA IBARRA;gabriela.ibarra@beta.example;+55 21 99990-0361;2026-10-20
+GABRIELA IBARRA;gabriela.ibarra@beta.example;+55 21 99990-0361;2026-10-21
+TIAGO CARDOSO;tiago.cardoso@gama.example;5531999900362;2026-10-21
+TIAGO CARDOSO;tiago.cardoso@gama.example;5531999900362;2026-10-22
+MARIANA UCHOA;mariana.uchoa@delta.example;41 99990 0363;2026-10-20
+MARIANA MACEDO;mariana.macedo@epsilon.example;(51) 99990-0364;2026-10-20
+MARIANA MACEDO;mariana.macedo@epsilon.example;(51) 99990-0364;2026-10-21
+QUEILA ZANETTI;queila.zanetti@zeta.example;71999900365;2026-10-21
+QUEILA ZANETTI;queila.zanetti@zeta.example;71999900365;2026-10-22
+VINICIUS OLIVEIRA;vinicius.oliveira@eta.example;+55 61 99990-0366;2026-10-20
+VINICIUS HENRIQUES;vinicius.henriques@teta.example;;2026-10-20
+VINICIUS HENRIQUES;vinicius.henriques@teta.example;;2026-10-21
+TIAGO FALCAO;tiago.falcao@iota.example;19 99990 0368;2026-10-21
+TIAGO FALCAO;tiago.falcao@iota.example;19 99990 0368;2026-10-22
+ELAINE XAVIER;elaine.xavier@capa.example;(48) 99990-0369;2026-10-20
+WAGNER XAVIER;wagner.xavier@lambda.example;62999900370;2026-10-20
+WAGNER XAVIER;wagner.xavier@lambda.example;62999900370;2026-10-21
+WAGNER XAVIER;wagner.xavier@lambda.example;62999900370;2026-10-22
+QUEILA IBARRA;queila.ibarra@mi.example;+55 85 99990-0371;2026-10-21
+QUEILA IBARRA;queila.ibarra@mi.example;+55 85 99990-0371;2026-10-22
+QUEILA PACHECO;queila.pacheco@ni.example;5511999900372;2026-10-20
+PAULO UCHOA;paulo.uchoa@csi.example;21 99990 0373;2026-10-20
+PAULO UCHOA;paulo.uchoa@csi.example;21 99990 0373;2026-10-21
+VINICIUS CONCEICAO;vinicius.conceicao@omicron.example;;2026-10-21
+VINICIUS CONCEICAO;vinicius.conceicao@omicron.example;;2026-10-22
+ISABELA LACERDA;isabela.lacerda@pi.example;41999900375;2026-10-20
+XENIA PACHECO;xenia.pacheco@ro.example;+55 51 99990-0376;2026-10-20
+XENIA PACHECO;xenia.pacheco@ro.example;+55 51 99990-0376;2026-10-21
+ZECA RAMOS;zeca.ramos@sigma.example;5571999900377;2026-10-21
+ZECA RAMOS;zeca.ramos@sigma.example;5571999900377;2026-10-22
+CARLA BRANDAO;carla.brandao@tau.example;61 99990 0378;2026-10-20
+ZECA ALMEIDA;zeca.almeida@ipsilon.example;(81) 99990-0379;2026-10-20
+ZECA ALMEIDA;zeca.almeida@ipsilon.example;(81) 99990-0379;2026-10-21
+YARA GOMES;yara.gomes@alfa.example;19999900380;2026-10-20
+YARA GOMES;yara.gomes@alfa.example;19999900380;2026-10-21
+YARA GOMES;yara.gomes@alfa.example;19999900380;2026-10-22
+NELSON FALCAO;nelson.falcao@beta.example;;2026-10-20
+DANIEL FARIAS;daniel.farias@gama.example;5562999900382;2026-10-20
+DANIEL FARIAS;daniel.farias@gama.example;5562999900382;2026-10-21
+CARLA RAMOS;carla.ramos@delta.example;85 99990 0383;2026-10-21
+CARLA RAMOS;carla.ramos@delta.example;85 99990 0383;2026-10-22
+LUCIA SIQUEIRA;lucia.siqueira@epsilon.example;(11) 99990-0384;2026-10-20
+VINICIUS JARDIM;vinicius.jardim@zeta.example;21999900385;2026-10-20
+VINICIUS JARDIM;vinicius.jardim@zeta.example;21999900385;2026-10-21
+LUCIA NOGUEIRA;lucia.nogueira@eta.example;+55 31 99990-0386;2026-10-21
+LUCIA NOGUEIRA;lucia.nogueira@eta.example;+55 31 99990-0386;2026-10-22
+XENIA CONCEICAO;xenia.conceicao@teta.example;5541999900387;2026-10-20
+XENIA VASCONCELOS;xenia.vasconcelos@iota.example;;2026-10-20
+XENIA VASCONCELOS;xenia.vasconcelos@iota.example;;2026-10-21
+PAULO ARAUJO;paulo.araujo@capa.example;(71) 99990-0389;2026-10-21
+PAULO ARAUJO;paulo.araujo@capa.example;(71) 99990-0389;2026-10-22
+KARINA ESTEVES;karina.esteves@lambda.example;61999900390;2026-10-20
+KARINA ESTEVES;karina.esteves@lambda.example;61999900390;2026-10-21
+KARINA ESTEVES;karina.esteves@lambda.example;61999900390;2026-10-22
+ISABELA KLEIN;isabela.klein@mi.example;+55 81 99990-0391;2026-10-20
+ISABELA KLEIN;isabela.klein@mi.example;+55 81 99990-0391;2026-10-21
+FABIO UCHOA;fabio.uchoa@ni.example;5519999900392;2026-10-21
+FABIO UCHOA;fabio.uchoa@ni.example;5519999900392;2026-10-22
+XENIA ESTEVES;xenia.esteves@csi.example;48 99990 0393;2026-10-20
+BRUNO FALCAO;bruno.falcao@omicron.example;(62) 99990-0394;2026-10-20
+BRUNO FALCAO;bruno.falcao@omicron.example;(62) 99990-0394;2026-10-21
+SANDRA SIQUEIRA;sandra.siqueira@pi.example;;2026-10-21
+SANDRA SIQUEIRA;sandra.siqueira@pi.example;;2026-10-22
+OTAVIO QUEIROZ;otavio.queiroz@ro.example;+55 11 99990-0396;2026-10-20
+RAFAEL TEIXEIRA;rafael.teixeira@sigma.example;5521999900397;2026-10-20
+RAFAEL TEIXEIRA;rafael.teixeira@sigma.example;5521999900397;2026-10-21
+FABIO GOMES;fabio.gomes@tau.example;31 99990 0398;2026-10-21
+FABIO GOMES;fabio.gomes@tau.example;31 99990 0398;2026-10-22
+RAFAEL WERNECK;rafael.werneck@ipsilon.example;(41) 99990-0399;2026-10-20
+ZECA LACERDA;zeca.lacerda@alfa.example;51999900400;2026-10-20
+ZECA LACERDA;zeca.lacerda@alfa.example;51999900400;2026-10-21
+ZECA LACERDA;zeca.lacerda@alfa.example;51999900400;2026-10-22
+PAULO ZANETTI;paulo.zanetti@beta.example;+55 71 99990-0401;2026-10-21
+PAULO ZANETTI;paulo.zanetti@beta.example;+55 71 99990-0401;2026-10-22
+QUEILA QUEIROZ;queila.queiroz@gama.example;;2026-10-20
+KARINA IBARRA;karina.ibarra@delta.example;81 99990 0403;2026-10-20
+KARINA IBARRA;karina.ibarra@delta.example;81 99990 0403;2026-10-21
+ZECA MACEDO;zeca.macedo@epsilon.example;(19) 99990-0404;2026-10-21
+ZECA MACEDO;zeca.macedo@epsilon.example;(19) 99990-0404;2026-10-22
+TIAGO SIQUEIRA;tiago.siqueira@zeta.example;48999900405;2026-10-20
+LEONARDO PACHECO;leonardo.pacheco@eta.example;+55 62 99990-0406;2026-10-20
+LEONARDO PACHECO;leonardo.pacheco@eta.example;+55 62 99990-0406;2026-10-21
+OLIVIA IBARRA;olivia.ibarra@teta.example;5585999900407;2026-10-21
+OLIVIA IBARRA;olivia.ibarra@teta.example;5585999900407;2026-10-22
+MARIANA NOGUEIRA;mariana.nogueira@iota.example;11 99990 0408;2026-10-20
+WAGNER PACHECO;wagner.pacheco@capa.example;;2026-10-20
+WAGNER PACHECO;wagner.pacheco@capa.example;;2026-10-21
+URSULA YAMADA;ursula.yamada@lambda.example;31999900410;2026-10-20
+URSULA YAMADA;ursula.yamada@lambda.example;31999900410;2026-10-21
+URSULA YAMADA;ursula.yamada@lambda.example;31999900410;2026-10-22
+TIAGO BRANDAO;tiago.brandao@mi.example;+55 41 99990-0411;2026-10-20
+ANA MACEDO;ana.macedo@ni.example;5551999900412;2026-10-20
+ANA MACEDO;ana.macedo@ni.example;5551999900412;2026-10-21
+VINICIUS SIQUEIRA;vinicius.siqueira@csi.example;71 99990 0413;2026-10-21
+VINICIUS SIQUEIRA;vinicius.siqueira@csi.example;71 99990 0413;2026-10-22
+NELSON GOMES;nelson.gomes@omicron.example;(61) 99990-0414;2026-10-20
+ELAINE HENRIQUES;elaine.henriques@pi.example;81999900415;2026-10-20
+ELAINE HENRIQUES;elaine.henriques@pi.example;81999900415;2026-10-21
+CESAR TEIXEIRA;cesar.teixeira@ro.example;;2026-10-21
+CESAR TEIXEIRA;cesar.teixeira@ro.example;;2026-10-22
+MARTA ZANETTI;marta.zanetti@sigma.example;5548999900417;2026-10-20
+WAGNER CARDOSO;wagner.cardoso@tau.example;62 99990 0418;2026-10-20
+WAGNER CARDOSO;wagner.cardoso@tau.example;62 99990 0418;2026-10-21
+MARTA LACERDA;marta.lacerda@ipsilon.example;(85) 99990-0419;2026-10-21
+MARTA LACERDA;marta.lacerda@ipsilon.example;(85) 99990-0419;2026-10-22
+SANDRA VASCONCELOS;sandra.vasconcelos@alfa.example;11999900420;2026-10-20
+SANDRA VASCONCELOS;sandra.vasconcelos@alfa.example;11999900420;2026-10-21
+SANDRA VASCONCELOS;sandra.vasconcelos@alfa.example;11999900420;2026-10-22
+CESAR WERNECK;cesar.werneck@beta.example;+55 21 99990-0421;2026-10-20
+CESAR WERNECK;cesar.werneck@beta.example;+55 21 99990-0421;2026-10-21
+TIAGO OLIVEIRA;tiago.oliveira@gama.example;5531999900422;2026-10-21
+TIAGO OLIVEIRA;tiago.oliveira@gama.example;5531999900422;2026-10-22
+MARIANA SIQUEIRA;mariana.siqueira@delta.example;;2026-10-20
+URSULA DUARTE;ursula.duarte@epsilon.example;(51) 99990-0424;2026-10-20
+URSULA DUARTE;ursula.duarte@epsilon.example;(51) 99990-0424;2026-10-21
+ISABELA ESTEVES;isabela.esteves@zeta.example;71999900425;2026-10-21
+ISABELA ESTEVES;isabela.esteves@zeta.example;71999900425;2026-10-22
+ZECA CARDOSO;zeca.cardoso@eta.example;+55 61 99990-0426;2026-10-20
+ELAINE OLIVEIRA;elaine.oliveira@teta.example;5581999900427;2026-10-20
+ELAINE OLIVEIRA;elaine.oliveira@teta.example;5581999900427;2026-10-21
+MARIANA VASCONCELOS;mariana.vasconcelos@iota.example;19 99990 0428;2026-10-21
+MARIANA VASCONCELOS;mariana.vasconcelos@iota.example;19 99990 0428;2026-10-22
+FABIO KLEIN;fabio.klein@capa.example;(48) 99990-0429;2026-10-20
+ISABELA TEIXEIRA;isabela.teixeira@lambda.example;;2026-10-20
+ISABELA TEIXEIRA;isabela.teixeira@lambda.example;;2026-10-21
+ISABELA TEIXEIRA;isabela.teixeira@lambda.example;;2026-10-22
+NELSON PACHECO;nelson.pacheco@mi.example;+55 85 99990-0431;2026-10-21
+NELSON PACHECO;nelson.pacheco@mi.example;+55 85 99990-0431;2026-10-22
+OTAVIO ALMEIDA;otavio.almeida@ni.example;5511999900432;2026-10-20
+ELAINE ZANETTI;elaine.zanetti@csi.example;21 99990 0433;2026-10-20
+ELAINE ZANETTI;elaine.zanetti@csi.example;21 99990 0433;2026-10-21
+DANIEL FALCAO;daniel.falcao@omicron.example;(31) 99990-0434;2026-10-21
+DANIEL FALCAO;daniel.falcao@omicron.example;(31) 99990-0434;2026-10-22
+ISABELA OLIVEIRA;isabela.oliveira@pi.example;41999900435;2026-10-20
+KARINA BRANDAO;karina.brandao@ro.example;+55 51 99990-0436;2026-10-20
+KARINA BRANDAO;karina.brandao@ro.example;+55 51 99990-0436;2026-10-21
+CARLA CARDOSO;carla.cardoso@sigma.example;;2026-10-21
+CARLA CARDOSO;carla.cardoso@sigma.example;;2026-10-22
+CARLA ARAUJO;carla.araujo@tau.example;61 99990 0438;2026-10-20
+GABRIELA JARDIM;gabriela.jardim@ipsilon.example;(81) 99990-0439;2026-10-20
+GABRIELA JARDIM;gabriela.jardim@ipsilon.example;(81) 99990-0439;2026-10-21
+VINICIUS XAVIER;vinicius.xavier@alfa.example;19999900440;2026-10-20
+VINICIUS XAVIER;vinicius.xavier@alfa.example;19999900440;2026-10-21
+VINICIUS XAVIER;vinicius.xavier@alfa.example;19999900440;2026-10-22
+HUGO ARAUJO;hugo.araujo@beta.example;+55 48 99990-0441;2026-10-20
+SANDRA BRANDAO;sandra.brandao@gama.example;5562999900442;2026-10-20
+SANDRA BRANDAO;sandra.brandao@gama.example;5562999900442;2026-10-21
+HUGO ALMEIDA;hugo.almeida@delta.example;85 99990 0443;2026-10-21
+HUGO ALMEIDA;hugo.almeida@delta.example;85 99990 0443;2026-10-22
+LUCIA DUARTE;lucia.duarte@epsilon.example;;2026-10-20
+LUCIA QUEIROZ;lucia.queiroz@zeta.example;21999900445;2026-10-20
+LUCIA QUEIROZ;lucia.queiroz@zeta.example;21999900445;2026-10-21
+MARIANA OLIVEIRA;mariana.oliveira@eta.example;+55 31 99990-0446;2026-10-21
+MARIANA OLIVEIRA;mariana.oliveira@eta.example;+55 31 99990-0446;2026-10-22
+HUGO TEIXEIRA;hugo.teixeira@teta.example;5541999900447;2026-10-20
+MARTA BARROS;marta.barros@iota.example;51 99990 0448;2026-10-20
+MARTA BARROS;marta.barros@iota.example;51 99990 0448;2026-10-21
+PAULO MACEDO;paulo.macedo@capa.example;(71) 99990-0449;2026-10-21
+PAULO MACEDO;paulo.macedo@capa.example;(71) 99990-0449;2026-10-22
+WAGNER ESTEVES;wagner.esteves@lambda.example;61999900450;2026-10-20
+WAGNER ESTEVES;wagner.esteves@lambda.example;61999900450;2026-10-21
+WAGNER ESTEVES;wagner.esteves@lambda.example;61999900450;2026-10-22
+ELAINE FARIAS;elaine.farias@mi.example;;2026-10-20
+ELAINE FARIAS;elaine.farias@mi.example;;2026-10-21
+MARTA BRANDAO;marta.brandao@ni.example;5519999900452;2026-10-21
+MARTA BRANDAO;marta.brandao@ni.example;5519999900452;2026-10-22
+CESAR KLEIN;cesar.klein@csi.example;48 99990 0453;2026-10-20
+ZECA YAMADA;zeca.yamada@omicron.example;(62) 99990-0454;2026-10-20
+ZECA YAMADA;zeca.yamada@omicron.example;(62) 99990-0454;2026-10-21
+HUGO UCHOA;hugo.uchoa@pi.example;85999900455;2026-10-21
+HUGO UCHOA;hugo.uchoa@pi.example;85999900455;2026-10-22
+KARINA ARAUJO;karina.araujo@ro.example;+55 11 99990-0456;2026-10-20
+LUCIA CONCEICAO;lucia.conceicao@sigma.example;5521999900457;2026-10-20
+LUCIA CONCEICAO;lucia.conceicao@sigma.example;5521999900457;2026-10-21
+WAGNER HENRIQUES;wagner.henriques@tau.example;;2026-10-21
+WAGNER HENRIQUES;wagner.henriques@tau.example;;2026-10-22
+SANDRA JARDIM;sandra.jardim@ipsilon.example;(41) 99990-0459;2026-10-20
+BRUNO OLIVEIRA;bruno.oliveira@alfa.example;51999900460;2026-10-20
+BRUNO OLIVEIRA;bruno.oliveira@alfa.example;51999900460;2026-10-21
+BRUNO OLIVEIRA;bruno.oliveira@alfa.example;51999900460;2026-10-22
+YARA SIQUEIRA;yara.siqueira@beta.example;+55 71 99990-0461;2026-10-21
+YARA SIQUEIRA;yara.siqueira@beta.example;+55 71 99990-0461;2026-10-22
+JOAO JARDIM;joao.jardim@gama.example;5561999900462;2026-10-20
+MARIANA TEIXEIRA;mariana.teixeira@delta.example;81 99990 0463;2026-10-20
+MARIANA TEIXEIRA;mariana.teixeira@delta.example;81 99990 0463;2026-10-21
+ANA ARAUJO;ana.araujo@epsilon.example;(19) 99990-0464;2026-10-21
+ANA ARAUJO;ana.araujo@epsilon.example;(19) 99990-0464;2026-10-22
+FABIO FARIAS;fabio.farias@zeta.example;;2026-10-20
+FABIO FALCAO;fabio.falcao@eta.example;+55 62 99990-0466;2026-10-20
+FABIO FALCAO;fabio.falcao@eta.example;+55 62 99990-0466;2026-10-21
+QUEILA OLIVEIRA;queila.oliveira@teta.example;5585999900467;2026-10-21
+QUEILA OLIVEIRA;queila.oliveira@teta.example;5585999900467;2026-10-22
+OTAVIO UCHOA;otavio.uchoa@iota.example;11 99990 0468;2026-10-20
+QUEILA CONCEICAO;queila.conceicao@capa.example;(21) 99990-0469;2026-10-20
+QUEILA CONCEICAO;queila.conceicao@capa.example;(21) 99990-0469;2026-10-21
+CESAR JARDIM;cesarjardim90@correio.example;31999900470;2026-10-20
+CESAR JARDIM;cesarjardim90@correio.example;31999900470;2026-10-21
+CESAR JARDIM;cesarjardim90@correio.example;31999900470;2026-10-22
+YARA NOGUEIRA;yaranogueira91@correio.example;+55 41 99990-0471;2026-10-20
+DANIEL BARROS;danielbarros92@correio.example;5551999900472;2026-10-20
+DANIEL BARROS;danielbarros92@correio.example;5551999900472;2026-10-21
+CARLA YAMADA;carlayamada93@correio.example;71 99990 0473;2026-10-21
+CARLA YAMADA;carlayamada93@correio.example;71 99990 0473;2026-10-22
+VINICIUS QUEIROZ;viniciusqueiroz94@correio.example;(61) 99990-0474;2026-10-20
+MARTA SIQUEIRA;martasiqueira95@correio.example;81999900475;2026-10-20
+MARTA SIQUEIRA;martasiqueira95@correio.example;81999900475;2026-10-21
+JOAO ZANETTI;joaozanetti96@correio.example;+55 19 99990-0476;2026-10-21
+JOAO ZANETTI;joaozanetti96@correio.example;+55 19 99990-0476;2026-10-22
+NELSON QUEIROZ;nelsonqueiroz97@correio.example;5548999900477;2026-10-20
+PAULO FALCAO;paulofalcao98@correio.example;62 99990 0478;2026-10-20
+PAULO FALCAO;paulofalcao98@correio.example;62 99990 0478;2026-10-21
+LUCIA BRANDAO;luciabrandao99@correio.example;(85) 99990-0479;2026-10-21
+LUCIA BRANDAO;luciabrandao99@correio.example;(85) 99990-0479;2026-10-22
+ANA QUEIROZ;anaqueiroz60@correio.example;11999900480;2026-10-20
+ANA QUEIROZ;anaqueiroz60@correio.example;11999900480;2026-10-21
+ANA QUEIROZ;anaqueiroz60@correio.example;11999900480;2026-10-22
+OTAVIO NOGUEIRA;otavionogueira61@correio.example;+55 21 99990-0481;2026-10-20
+OTAVIO NOGUEIRA;otavionogueira61@correio.example;+55 21 99990-0481;2026-10-21
+OLIVIA BRANDAO;oliviabrandao62@correio.example;5531999900482;2026-10-21
+OLIVIA BRANDAO;oliviabrandao62@correio.example;5531999900482;2026-10-22
+SANDRA TEIXEIRA;sandrateixeira63@correio.example;41 99990 0483;2026-10-20
+TIAGO IBARRA;tiago.ibarra@epsilon.example;(51) 99990-0484;2026-10-20
+TIAGO IBARRA;tiago.ibarra@epsilon.example;(51) 99990-0484;2026-10-21
+DANIEL CONCEICAO;daniel.conceicao@zeta.example;71999900485;2026-10-21
+DANIEL CONCEICAO;daniel.conceicao@zeta.example;71999900485;2026-10-22
+ISABELA ZANETTI;isabela.zanetti@eta.example;;2026-10-20
+GABRIELA FARIAS;gabriela.farias@teta.example;5581999900487;2026-10-20
+GABRIELA FARIAS;gabriela.farias@teta.example;5581999900487;2026-10-21
+TIAGO RAMOS;tiago.ramos@iota.example;19 99990 0488;2026-10-21
+TIAGO RAMOS;tiago.ramos@iota.example;19 99990 0488;2026-10-22
+DANIEL JARDIM;daniel.jardim@capa.example;(48) 99990-0489;2026-10-20
+OLIVIA ZANETTI;olivia.zanetti@lambda.example;62999900490;2026-10-20
+OLIVIA ZANETTI;olivia.zanetti@lambda.example;62999900490;2026-10-21
+OLIVIA ZANETTI;olivia.zanetti@lambda.example;62999900490;2026-10-22
+URSULA FALCAO;ursula.falcao@mi.example;+55 85 99990-0491;2026-10-21
+URSULA FALCAO;ursula.falcao@mi.example;+55 85 99990-0491;2026-10-22
+JOAO FARIAS;joao.farias@ni.example;5511999900492;2026-10-20
+GABRIELA BRANDAO;gabriela.brandao@csi.example;;2026-10-20
+GABRIELA BRANDAO;gabriela.brandao@csi.example;;2026-10-21
+ELAINE WERNECK;elaine.werneck@omicron.example;(31) 99990-0494;2026-10-21
+ELAINE WERNECK;elaine.werneck@omicron.example;(31) 99990-0494;2026-10-22
+HUGO FALCAO;hugo.falcao@pi.example;41999900495;2026-10-20
+ISABELA JARDIM;isabela.jardim@ro.example;+55 51 99990-0496;2026-10-20
+ISABELA JARDIM;isabela.jardim@ro.example;+55 51 99990-0496;2026-10-21
+GABRIELA DUARTE;gabriela.duarte@sigma.example;5571999900497;2026-10-21
+GABRIELA DUARTE;gabriela.duarte@sigma.example;5571999900497;2026-10-22
+MARIANA LACERDA;mariana.lacerda@tau.example;61 99990 0498;2026-10-20
+CESAR IBARRA;cesar.ibarra@ipsilon.example;(81) 99990-0499;2026-10-20
+CESAR IBARRA;cesar.ibarra@ipsilon.example;(81) 99990-0499;2026-10-21
+ANA PACHECO;ana.pacheco@alfa.example;;2026-10-20
+ANA PACHECO;ana.pacheco@alfa.example;;2026-10-21
+ANA PACHECO;ana.pacheco@alfa.example;;2026-10-22
+URSULA VASCONCELOS;ursula.vasconcelos@beta.example;+55 48 99990-0501;2026-10-20
+ANA LACERDA;ana.lacerda@gama.example;5562999900502;2026-10-20
+ANA LACERDA;ana.lacerda@gama.example;5562999900502;2026-10-21
+CESAR OLIVEIRA;cesar.oliveira@delta.example;85 99990 0503;2026-10-21
+CESAR OLIVEIRA;cesar.oliveira@delta.example;85 99990 0503;2026-10-22
+MARTA FARIAS;marta.farias@epsilon.example;(11) 99990-0504;2026-10-20
+WAGNER YAMADA;wagner.yamada@zeta.example;21999900505;2026-10-20
+WAGNER YAMADA;wagner.yamada@zeta.example;21999900505;2026-10-21
+BRUNO YAMADA;bruno.yamada@eta.example;+55 31 99990-0506;2026-10-21
+BRUNO YAMADA;bruno.yamada@eta.example;+55 31 99990-0506;2026-10-22
+ISABELA HENRIQUES;isabela.henriques@teta.example;;2026-10-20
+CESAR GOMES;cesar.gomes@iota.example;51 99990 0508;2026-10-20
+CESAR GOMES;cesar.gomes@iota.example;51 99990 0508;2026-10-21
+MARTA TEIXEIRA;marta.teixeira@capa.example;(71) 99990-0509;2026-10-21
+MARTA TEIXEIRA;marta.teixeira@capa.example;(71) 99990-0509;2026-10-22
+LUCIA JARDIM;lucia.jardim@lambda.example;61999900510;2026-10-20
+LUCIA JARDIM;lucia.jardim@lambda.example;61999900510;2026-10-21
+LUCIA JARDIM;lucia.jardim@lambda.example;61999900510;2026-10-22
+YARA CARDOSO;yara.cardoso@mi.example;+55 81 99990-0511;2026-10-20
+YARA CARDOSO;yara.cardoso@mi.example;+55 81 99990-0511;2026-10-21
+GABRIELA ZANETTI;gabriela.zanetti@ni.example;5519999900512;2026-10-21
+GABRIELA ZANETTI;gabriela.zanetti@ni.example;5519999900512;2026-10-22
+HUGO BRANDAO;hugo.brandao@csi.example;48 99990 0513;2026-10-20
+OTAVIO PACHECO;otavio.pacheco@omicron.example;;2026-10-20
+OTAVIO PACHECO;otavio.pacheco@omicron.example;;2026-10-21
+DANIEL NOGUEIRA;daniel.nogueira@pi.example;85999900515;2026-10-21
+DANIEL NOGUEIRA;daniel.nogueira@pi.example;85999900515;2026-10-22
+SANDRA QUEIROZ;sandra.queiroz@ro.example;+55 11 99990-0516;2026-10-20
+SANDRA IBARRA;sandra.ibarra@sigma.example;5521999900517;2026-10-20
+SANDRA IBARRA;sandra.ibarra@sigma.example;5521999900517;2026-10-21
+OLIVIA QUEIROZ;olivia.queiroz@tau.example;31 99990 0518;2026-10-21
+OLIVIA QUEIROZ;olivia.queiroz@tau.example;31 99990 0518;2026-10-22
+LEONARDO HENRIQUES;leonardo.henriques@ipsilon.example;(41) 99990-0519;2026-10-20
+CESAR PACHECO;cesar.pacheco@alfa.example;51999900520;2026-10-20
+CESAR PACHECO;cesar.pacheco@alfa.example;51999900520;2026-10-21
+CESAR PACHECO;cesar.pacheco@alfa.example;51999900520;2026-10-22
+WAGNER NOGUEIRA;wagner.nogueira@beta.example;;2026-10-21
+WAGNER NOGUEIRA;wagner.nogueira@beta.example;;2026-10-22
+MARTA OLIVEIRA;marta.oliveira@gama.example;5561999900522;2026-10-20
+MARTA ALMEIDA;marta.almeida@delta.example;81 99990 0523;2026-10-20
+MARTA ALMEIDA;marta.almeida@delta.example;81 99990 0523;2026-10-21
+MARIANA FARIAS;mariana.farias@epsilon.example;(19) 99990-0524;2026-10-21
+MARIANA FARIAS;mariana.farias@epsilon.example;(19) 99990-0524;2026-10-22
+VINICIUS ZANETTI;vinicius.zanetti@zeta.example;48999900525;2026-10-20
+KARINA BARROS;karina.barros@eta.example;+55 62 99990-0526;2026-10-20
+KARINA BARROS;karina.barros@eta.example;+55 62 99990-0526;2026-10-21
+MARTA MACEDO;marta.macedo@teta.example;5585999900527;2026-10-21
+MARTA MACEDO;marta.macedo@teta.example;5585999900527;2026-10-22
+BRUNO TEIXEIRA;bruno.teixeira@iota.example;;2026-10-20
+XENIA UCHOA;xenia.uchoa@capa.example;(21) 99990-0529;2026-10-20
+XENIA UCHOA;xenia.uchoa@capa.example;(21) 99990-0529;2026-10-21
+ELAINE BRANDAO;elaine.brandao@lambda.example;31999900530;2026-10-20
+ELAINE BRANDAO;elaine.brandao@lambda.example;31999900530;2026-10-21
+ELAINE BRANDAO;elaine.brandao@lambda.example;31999900530;2026-10-22
+PAULO GOMES;paulo.gomes@mi.example;+55 41 99990-0531;2026-10-20
+ELAINE GOMES;elaine.gomes@ni.example;5551999900532;2026-10-20
+ELAINE GOMES;elaine.gomes@ni.example;5551999900532;2026-10-21
+TIAGO MACEDO;tiago.macedo@csi.example;71 99990 0533;2026-10-21
+TIAGO MACEDO;tiago.macedo@csi.example;71 99990 0533;2026-10-22
+NELSON BARROS;nelson.barros@omicron.example;(31) 99990-0554;2026-10-21
+NELSON BARROS;nelson.barros@omicron.example;(31) 99990-0554;2026-10-22
+YARA UCHOA;yara.uchoa@pi.example;41999900555;2026-10-20
+QUEILA ESTEVES;queila.esteves@ro.example;+55 51 99990-0556;2026-10-20
+QUEILA ESTEVES;queila.esteves@ro.example;+55 51 99990-0556;2026-10-21
+MARIANA ESTEVES;mariana.esteves@sigma.example;5571999900557;2026-10-21
+MARIANA ESTEVES;mariana.esteves@sigma.example;5571999900557;2026-10-22
+URSULA BRANDAO;ursula.brandao@tau.example;61 99990 0558;2026-10-20
+PAULO ALMEIDA;paulo.almeida@ipsilon.example;(81) 99990-0559;2026-10-20
+PAULO ALMEIDA;paulo.almeida@ipsilon.example;(81) 99990-0559;2026-10-21
