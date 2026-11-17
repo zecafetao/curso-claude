@@ -37,6 +37,9 @@ Este repositório guarda um curso de Claude em português do Brasil, escrito por
 
 - Projeto dos níveis 4 e 5 (novembro de 2026): o projeto principal é o agente de relatórios, que recebe as exportações do CRM e entrega o rascunho do relatório mensal de e-mail ou do report pós-feira, com os números calculados por ferramentas e a lista de conferência. O agente de campanha (da base bruta ao e-mail e à landing page) fica como bônus opcional, fora da carga horária. A ementa já está atualizada.
 
+- Conteúdos acrescentados à ementa (novembro de 2026, 168 h e 42 módulos): gráficos por código (P.8, já escrito), SQL mínimo dentro do 4.3, Skills em agentes no 4.4, geração do arquivo final e execução agendada no 4.5, busca em acervo próprio (4.8) e interface para o usuário final (5.6). O estudo de perfil de expositores fica no exercício do 4.2, fora do projeto.
+- Padrão visual dos gráficos: âmbar `F59E0B` para a série em destaque, cinza `8A8A8A` para a comparação, texto em grafite, valores escritos nas marcas em destaque e uma tabela CSV ao lado de cada imagem. Sem dois eixos verticais.
+
 ## Pendências
 
 - Nível 3: o ambiente de escrita não tinha chave da API. O código que chama a API foi escrito a partir da documentação, conferido contra o SDK `anthropic` 2.8 e executado contra um servidor simulado, que fica fora do repositório. Quando houver uma chave, executar os scripts de `nivel-3-desenvolvedor-api/gabarito/` e os exercícios, corrigir o que divergir e retirar os avisos de "não executado" do `README.md` do nível e dos arquivos do gabarito.

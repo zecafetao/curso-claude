@@ -1,6 +1,6 @@
 # Curso completo de Claude
 
-Curso do uso básico do Claude até agentes em produção, em 158 horas: 5 níveis, uma ponte de programação em Python e 39 módulos.
+Curso do uso básico do Claude até agentes em produção, em 168 horas: 5 níveis, uma ponte de programação em Python e 42 módulos.
 
 Os exemplos e exercícios usam o trabalho de um analista de dados de CRM e marketing: tratamento de bases para importação, segmentação de público, e-mails e landing pages em HTML, relatórios de campanha, estudos de público e de mercado.
 
@@ -10,10 +10,10 @@ Os exemplos e exercícios usam o trabalho de um analista de dados de CRM e marke
 | --- | --- | --- | --- |
 | [Nível 1 — Fundamentos](nivel-1-fundamentos/README.md) | 13 | Assistente em um Project para o relatório mensal de e-mail | Pronto |
 | [Nível 2 — Usuário avançado](nivel-2-usuario-avancado/README.md) | 29 | Biblioteca de 10 prompts testados para dados e marketing | Pronto |
-| [Ponte — Python para dados](ponte-python/README.md) | 26 | Script que transforma uma base bruta em arquivo pronto para importação | Pronto |
+| [Ponte — Python para dados](ponte-python/README.md) | 28 | Script que transforma uma base bruta em arquivo pronto para importação | Pronto |
 | [Nível 3 — Desenvolvedor (API)](nivel-3-desenvolvedor-api/README.md) | 26 | Serviço que padroniza bases com o Claude e relata rejeições e custo | Pronto. Chamadas à API conferidas em simulação |
-| Nível 4 — Agentes | 32 | Agente de relatórios: das exportações do CRM ao relatório mensal e ao report pós-feira. Bônus: agente de campanha | A produzir |
-| Nível 5 — Produção | 32 | Projeto final: o agente de relatórios em produção | A produzir |
+| Nível 4 — Agentes | 37 | Agente de relatórios: das exportações do CRM ao relatório mensal e ao report pós-feira. Bônus: agente de campanha | A produzir |
+| Nível 5 — Produção | 35 | Projeto final: o agente de relatórios em produção | A produzir |
 
 A ementa completa, com objetivo, conteúdo e exercício de cada módulo, está em [Ementa: Curso Completo de Claude](https://claude.ai/artifact/Rwj1rQMrJJyRVJBjrqp6HV).
 

@@ -1,8 +1,8 @@
 # Ponte — Python para dados
 
-**Carga:** 26 h (22 h de módulos + 4 h de projeto) · **Pré-requisito:** Nível 2 e lógica de programação
+**Carga:** 28 h (24 h de módulos + 4 h de projeto) · **Pré-requisito:** Nível 2 e lógica de programação
 
-Ao final desta etapa, você escreve e roda scripts em Python que leem, limpam, cruzam e resumem bases. É o mínimo necessário para usar a API do Claude no Nível 3, e já resolve o trabalho determinístico dos seus fluxos: padronizar campos, remover duplicados, gerar o arquivo de importação, calcular os indicadores de um relatório e reconciliar bases de fontes diferentes.
+Ao final desta etapa, você escreve e roda scripts em Python que leem, limpam, cruzam e resumem bases, e que geram os gráficos de um relatório. É o mínimo necessário para usar a API do Claude no Nível 3, e já resolve o trabalho determinístico dos seus fluxos: padronizar campos, remover duplicados, gerar o arquivo de importação, calcular os indicadores de um relatório e reconciliar bases de fontes diferentes.
 
 A etapa parte de quem já tem lógica de programação e usa o Claude como tutor durante os exercícios.
 
@@ -17,9 +17,10 @@ A etapa parte de quem já tem lógica de programação e usa o Claude como tutor
 | [P.5 Git e Claude Code](P.5-git-e-claude-code.md) | 2 h | Versionar o código e programar com o Claude Code, com testes |
 | [P.6 Números, datas e agregações](P.6-numeros-datas-e-agregacoes.md) | 3 h | Calcular por código os indicadores do relatório mensal e o perfil de expositores |
 | [P.7 Reconciliação de bases](P.7-reconciliacao-de-bases.md) | 3 h | Juntar bases sem chave comum e montar um funil que conta pessoas |
+| [P.8 Gráficos por código](P.8-graficos-por-codigo.md) | 2 h | Gerar os gráficos do relatório mensal sempre no mesmo padrão e conferi-los contra a tabela |
 | [Projeto da etapa](projeto.md) | 4 h | Construir o script que gera o arquivo de importação e o relatório de rejeições |
 
-A etapa tem duas frentes. Os módulos P.1 a P.5 e o projeto tratam de preparar bases para importação. Os módulos P.6 e P.7 tratam de análise: os números que entram nos seus relatórios.
+A etapa tem duas frentes. Os módulos P.1 a P.5 e o projeto tratam de preparar bases para importação. Os módulos P.6 a P.8 tratam de análise: os números e os gráficos que entram nos seus relatórios.
 
 ## Como esta etapa é diferente
 
@@ -39,9 +40,10 @@ A etapa tem duas frentes. Os módulos P.1 a P.5 e o projeto tratam de preparar b
 | `casos_p2.csv` e `conferir_p2.py` | P.2 | Casos de teste e conferidor das suas funções |
 | `ceps_referencia.csv` | P.4 e projeto | Resultado das consultas de CEP, para comparar ou usar se a API estiver fora do ar |
 | `conferir_projeto.py` e `saida_esperada/` | Projeto | Conferidor e saída esperada do projeto |
-| `desempenho_email_outubro.csv` e `desempenho_email_setembro.csv` | P.6 | Exportações de desempenho por disparo de dois meses |
+| `desempenho_email_outubro.csv` e `desempenho_email_setembro.csv` | P.6 e P.8 | Exportações de desempenho por disparo de dois meses |
 | `empresas_expositoras.csv` | P.6 | Base de 120 empresas expositoras, com porte, setor, UF e faturamento |
 | `feira_credenciados.csv`, `feira_visitantes.csv`, `feira_inscritos_evento.csv` e `feira_whatsapp_tentativas.csv` | P.7 | Quatro fontes de uma feira, sem identificador comum |
+| `graficos_esperados/` | P.8 | Os três gráficos de referência do relatório de outubro, com as tabelas dos valores desenhados |
 
 - O arquivo [`requirements.txt`](requirements.txt), com as bibliotecas da etapa.
 
@@ -62,6 +64,7 @@ Use o gabarito depois de tentar. Ler a solução antes de escrever a sua ensina 
 | `test_validacao.py` | Exercício do P.5 |
 | `relatorio_mensal.py` e `perfil_expositores.py` | Exercício do P.6 |
 | `reconciliar.py` | Exercício do P.7 |
+| `graficos_relatorio.py` e `test_graficos.py` | Exercício do P.8 |
 | `tratar_base.py` | Projeto |
 
 ## Entregáveis da etapa
@@ -73,4 +76,5 @@ Use o gabarito depois de tentar. Ler a solução antes de escrever a sua ensina 
 5. Um repositório com os scripts versionados e testes automatizados (P.5).
 6. Os scripts do relatório mensal e do perfil de expositores, com os números do gabarito (P.6).
 7. O script de reconciliação e o registro metodológico (P.7).
-8. O script de tratamento completo, aprovado no conferidor (projeto).
+8. O script dos gráficos do relatório mensal, com testes (P.8).
+9. O script de tratamento completo, aprovado no conferidor (projeto).

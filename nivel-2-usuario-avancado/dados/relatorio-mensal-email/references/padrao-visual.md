@@ -10,11 +10,14 @@ Apresentação em 16:9.
 | --- | --- | --- |
 | Fundo da capa e do encerramento | Azul-marinho | `14213D` |
 | Fundo dos slides de conteúdo | Branco | `FFFFFF` |
-| Destaque: números principais e barras | Âmbar | `FCA311` |
+| Destaque: números principais e barras | Âmbar | `F59E0B` |
+| Série de comparação em gráficos, como o mês anterior | Cinza | `8A8A8A` |
 | Texto | Grafite | `1F1F1F` |
 | Linhas de tabela e elementos de apoio | Cinza-claro | `E5E5E5` |
 
 O âmbar é reservado ao que o leitor deve ver primeiro em cada slide. Um slide com tudo em destaque não destaca nada.
+
+Em gráficos, o âmbar é uma cor clara sobre o fundo branco. Toda barra ou linha em âmbar leva o valor escrito ao lado, em grafite.
 
 ## Tipografia
 
