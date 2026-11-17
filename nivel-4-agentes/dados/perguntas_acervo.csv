@@ -1,0 +1,25 @@
+pergunta;arquivo;secao;tipo
+Qual foi a taxa de abertura de julho de 2026?;relatorio_email_2026-07.md;Indicadores do mês;direta
+Por que a abertura caiu em julho?;relatorio_email_2026-07.md;Leitura do mês;direta
+Qual foi o resultado do teste de assunto com o setor do contato?;relatorio_email_2026-08.md;Teste de assunto;direta
+Qual público teve a menor abertura em agosto?;relatorio_email_2026-08.md;Por público;direta
+Quantas mensagens foram enviadas em setembro de 2026?;relatorio_email_2026-09.md;Indicadores do mês;direta
+Qual disparo de setembro teve clique automático?;relatorio_email_2026-09.md;Anomalia;direta
+Quantos credenciados teve a Expo Modelo 2024?;report_pos_feira_2024.md;Funil da feira;direta
+Qual horário de WhatsApp teve mais respostas em 2024?;report_pos_feira_2024.md;WhatsApp;direta
+Qual foi a visitação da edição 2025?;report_pos_feira_2025.md;Funil da feira;direta
+Quantos compradores participaram da rodada de negócios em 2025?;report_pos_feira_2025.md;Funil da feira;direta
+Qual foi o efeito de abrir o credenciamento 90 dias antes?;report_pos_feira_2025.md;Credenciamento antecipado;direta
+Quantas empresas tem o universo de compradores do Sul?;estudo_publico_compradores_sul_2025.md;Universo;direta
+Quantos expositores teve a Expo Modelo 2025?;perfil_expositores_2025.md;Quem expôs;direta
+Qual o tamanho do universo de empresas parecidas com os expositores?;perfil_expositores_2025.md;Universo de empresas parecidas;direta
+Quantos disparos de prospecção podemos fazer por mês?;decisoes_campanha_2026.md;Frequência;direta
+Como se calcula a taxa de visitação?;glossario_crm.md;Visitação;direta
+Quantas pessoas foram à feira em 2025?;report_pos_feira_2025.md;Funil da feira;parafraseada
+Que hora do dia funciona melhor para mandar mensagem no celular?;decisoes_campanha_2026.md;Horário;parafraseada
+O que aprendemos sobre o momento de liberar as inscrições?;report_pos_feira_2024.md;Aprendizados;parafraseada
+Existe algum dado sobre clientes querendo trocar plástico por material reciclável?;estudo_mercado_embalagens_sustentaveis_2025.md;Demanda;parafraseada
+Como vamos saber se as mensagens no celular aumentam a ida à feira?;decisoes_campanha_2026.md;Grupo de controle;parafraseada
+Por que alguns envios mostram cliques demais?;glossario_crm.md;Clique automático;parafraseada
+Qual fatia dos expositores era de companhias grandes?;perfil_expositores_2025.md;Porte e região;parafraseada
+Quanto da base de compradores do Sul tinha endereço eletrônico funcionando?;estudo_publico_compradores_sul_2025.md;Contatos;parafraseada

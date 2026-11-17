@@ -1,4 +1,6 @@
-"""Funções de apoio usadas nos scripts do Nível 3.
+"""Funções de apoio usadas nos scripts dos níveis 3 e 4.
+
+Cópia do claude_util.py do Nível 3, com a função opcoes_de_fallback acrescentada no Nível 4.
 
 Situação dos testes: as funções que chamam a API (criar_cliente e chamar) foram escritas a
 partir da documentação oficial e conferidas contra o SDK instalado, mas não foram executadas
@@ -46,6 +48,16 @@ def chamar(cliente, mensagens, sistema=None, modelo=MODELO, max_tokens=16000, es
     if modelo in MODELOS_SEM_FALLBACK:
         return cliente.messages.create(**parametros)
     return cliente.beta.messages.create(betas=[BETA_FALLBACK], fallbacks="default", **parametros)
+
+
+def opcoes_de_fallback(modelo=MODELO):
+    """Parâmetros do plano B para recusas, para usar com o executor de ferramentas.
+
+    Devolve um dicionário vazio para os modelos que não têm o recurso, como o Haiku 5.5.
+    """
+    if modelo in MODELOS_SEM_FALLBACK:
+        return {}
+    return {"betas": [BETA_FALLBACK], "fallbacks": "default"}
 
 
 def texto_da_resposta(resposta):
