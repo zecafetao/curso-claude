@@ -228,6 +228,14 @@ def test_busca_por_palavras_no_acervo():
     assert (acertos["direta"], totais["direta"], acertos["parafraseada"], totais["parafraseada"]) == (16, 16, 4, 8)
 
 
+def test_conferencia_das_citacoes_do_agente_do_acervo():
+    import agente_acervo as aa
+    texto = ("A visitação de 2025 foi de 40,0% [report_pos_feira_2025.md › Funil da feira]. "
+             "Em 2024, 37,1% [report_pos_feira_2024.md › Funil da feira]. Meta de 45% [planejamento.md › Metas].")
+    devolvidas = {"report_pos_feira_2025.md › Funil da feira", "report_pos_feira_2024.md › Funil da feira"}
+    assert aa.conferir_citacoes(texto, devolvidas) == {"citacoes": 3, "fora_da_busca": ["planejamento.md › Metas"]}
+
+
 def test_fusao_de_listas():
     a = [{"arquivo": "x", "secao": "1"}, {"arquivo": "y", "secao": "1"}]
     b = [{"arquivo": "y", "secao": "1"}, {"arquivo": "z", "secao": "1"}]
