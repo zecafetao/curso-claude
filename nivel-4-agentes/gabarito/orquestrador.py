@@ -4,7 +4,8 @@ Solução de referência do módulo 4.7. As chamadas à API não foram executada
 As ferramentas de dados e a avaliação (verificar_numeros) foram executadas e testadas.
 
 Uso:
-    python orquestrador.py 2026-10 2026-09
+    python orquestrador.py 2026-10 2026-09        # uma execução de cada arranjo
+    python orquestrador.py 2026-10 2026-09 5      # cinco de cada, com as médias
 
 Os dois arranjos recebem o mesmo pedido e as mesmas ferramentas de dados:
 - agente único: um laço que consulta os dados e escreve os três achados;
@@ -16,6 +17,8 @@ e quanto custou.
 
 import json
 import sys
+import time
+from statistics import mean
 
 from anthropic import beta_tool
 
@@ -159,16 +162,43 @@ def avaliar(achados, mes, mes_anterior):
     return {"achados": len(achados), "numeros_verificados": verificados, "numeros_sem_fonte": sem_fonte}
 
 
+ARRANJOS = {"agente_unico": agente_unico, "orquestrador": orquestrador}
+
+
+def comparar(cliente, mes, mes_anterior, repeticoes=1, mostrar=print):
+    """Roda cada arranjo 'repeticoes' vezes e resume qualidade, custo e tempo de cada um.
+
+    Uma execução só não basta para comparar: o resultado de um agente varia de uma execução para outra.
+    """
+    resumo = {}
+    for nome, arranjo in ARRANJOS.items():
+        execucoes = []
+        for _ in range(repeticoes):
+            inicio = time.perf_counter()
+            achados, total = arranjo(cliente, mes, mes_anterior)
+            avaliacao = avaliar(achados, mes, mes_anterior)
+            execucoes.append(dict(avaliacao, custo=total["custo"], chamadas=total["chamadas"],
+                                  segundos=time.perf_counter() - inicio))
+            mostrar(f"{nome}: {avaliacao['achados']} achados, sem fonte {avaliacao['numeros_sem_fonte']}, "
+                    f"{total['chamadas']} chamadas, US$ {total['custo']:.4f}")
+            for achado in achados:
+                mostrar(f"  - {achado['titulo']}: {achado['fato']}")
+        resumo[nome] = {
+            "execucoes": repeticoes,
+            "com_tres_achados": sum(e["achados"] == 3 for e in execucoes),
+            "numeros_verificados": sum(e["numeros_verificados"] for e in execucoes),
+            "numeros_sem_fonte": sum(len(e["numeros_sem_fonte"]) for e in execucoes),
+            "chamadas_por_execucao": round(mean(e["chamadas"] for e in execucoes), 1),
+            "custo_medio_usd": round(mean(e["custo"] for e in execucoes), 4),
+            "segundos_por_execucao": round(mean(e["segundos"] for e in execucoes), 1),
+        }
+    return resumo
+
+
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Uso: python orquestrador.py 2026-10 2026-09")
+    if len(sys.argv) not in (3, 4):
+        print("Uso: python orquestrador.py 2026-10 2026-09 [repeticoes]")
         sys.exit(1)
-    mes, mes_anterior = sys.argv[1], sys.argv[2]
-    cliente = cu.criar_cliente()
-    for nome, arranjo in (("Agente único", agente_unico), ("Orquestrador", orquestrador)):
-        achados, total = arranjo(cliente, mes, mes_anterior)
-        avaliacao = avaliar(achados, mes, mes_anterior)
-        print(f"\n{nome}: {json.dumps(avaliacao, ensure_ascii=False)}")
-        print(f"  {cu.resumo_do_total(total)}")
-        for achado in achados:
-            print(f"  - {achado['titulo']}: {achado['fato']}")
+    repeticoes = int(sys.argv[3]) if len(sys.argv) == 4 else 1
+    resumo = comparar(cu.criar_cliente(), sys.argv[1], sys.argv[2], repeticoes)
+    print(json.dumps(resumo, ensure_ascii=False, indent=2))
