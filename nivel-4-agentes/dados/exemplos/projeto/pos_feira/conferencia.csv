@@ -1,0 +1,41 @@
+slide;elemento;valor;origem
+2;Credenciados (pessoas);560;funil_feira()
+2;Visitantes (pessoas);218;funil_feira()
+2;Visitação sobre credenciados;38,9%;funil_feira()
+2;Participantes do evento;44;funil_feira()
+3;gráfico funil_feira.png;valores na tabela de mesmo nome;funil_feira()
+4;D1 · Convite para credenciamento · Contatos;456;entrega_whatsapp()
+4;D1 · Convite para credenciamento · Receberam;435;entrega_whatsapp()
+4;D1 · Convite para credenciamento · Entrega;95,4%;entrega_whatsapp()
+4;D1 · Convite para credenciamento · Tentativas com erro;91;entrega_whatsapp()
+4;D2 · Programação e rodada de negócios · Contatos;456;entrega_whatsapp()
+4;D2 · Programação e rodada de negócios · Receberam;441;entrega_whatsapp()
+4;D2 · Programação e rodada de negócios · Entrega;96,7%;entrega_whatsapp()
+4;D2 · Programação e rodada de negócios · Tentativas com erro;76;entrega_whatsapp()
+4;D3 · Lembrete na véspera da feira · Contatos;456;entrega_whatsapp()
+4;D3 · Lembrete na véspera da feira · Receberam;429;entrega_whatsapp()
+4;D3 · Lembrete na véspera da feira · Entrega;94,1%;entrega_whatsapp()
+4;D3 · Lembrete na véspera da feira · Tentativas com erro;101;entrega_whatsapp()
+5;Recebeu ao menos uma mensagem · Pessoas;451;whatsapp_e_visitacao()
+5;Recebeu ao menos uma mensagem · Visitaram;166;whatsapp_e_visitacao()
+5;Recebeu ao menos uma mensagem · Taxa de visitação;36,8%;whatsapp_e_visitacao()
+5;Não recebeu · Pessoas;109;whatsapp_e_visitacao()
+5;Não recebeu · Visitaram;52;whatsapp_e_visitacao()
+5;Não recebeu · Taxa de visitação;47,7%;whatsapp_e_visitacao()
+6;Setembro de 2026 · Disparos;13;indicadores_email(2026-09) e (2026-10)
+6;Setembro de 2026 · Enviadas;64.307;indicadores_email(2026-09) e (2026-10)
+6;Setembro de 2026 · Entrega;97,9%;indicadores_email(2026-09) e (2026-10)
+6;Setembro de 2026 · Abertura;45,7%;indicadores_email(2026-09) e (2026-10)
+6;Setembro de 2026 · Clique;1,8%;indicadores_email(2026-09) e (2026-10)
+6;Outubro de 2026 · Disparos;14;indicadores_email(2026-09) e (2026-10)
+6;Outubro de 2026 · Enviadas;50.812;indicadores_email(2026-09) e (2026-10)
+6;Outubro de 2026 · Entrega;98,6%;indicadores_email(2026-09) e (2026-10)
+6;Outubro de 2026 · Abertura;52,6%;indicadores_email(2026-09) e (2026-10)
+6;Outubro de 2026 · Clique;2,4%;indicadores_email(2026-09) e (2026-10)
+7;leitura: Menos de quatro em cada dez visitaram;218;texto do modelo, conferido
+7;leitura: Menos de quatro em cada dez visitaram;560;texto do modelo, conferido
+7;leitura: Menos de quatro em cada dez visitaram;38,9;texto do modelo, conferido
+7;leitura: WhatsApp sem efeito medido;36,8;texto do modelo, conferido
+7;leitura: WhatsApp sem efeito medido;47,7;texto do modelo, conferido
+7;leitura: Lembrete com mais falhas;94,1;texto do modelo, conferido
+7;leitura: Lembrete com mais falhas;101;texto do modelo, conferido
