@@ -51,7 +51,12 @@ def configurar(cliente):
     ferramentas = [{
         "type": "agent_toolset_20260401",
         "default_config": {"enabled": True, "permission_policy": {"type": "auto"}},
-        "configs": [{"name": "web_search", "enabled": True}, {"name": "web_fetch", "enabled": True}],
+        "configs": [
+            # A lista de sites vale nos dois lugares: no ambiente (allowed_hosts) e em cada ferramenta.
+            {"name": "web_search", "enabled": True, "allowed_domains": SITES_PERMITIDOS,
+             "user_location": {"type": "approximate", "country": "BR"}},
+            {"name": "web_fetch", "enabled": True, "allowed_domains": SITES_PERMITIDOS},
+        ],
     }]
     if "agent_id" not in ids:
         agente = cliente.beta.agents.create(name="Estudo de mercado", model="claude-opus-5-5",

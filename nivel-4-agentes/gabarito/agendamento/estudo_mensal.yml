@@ -1,0 +1,27 @@
+# Roda o estudo de mercado no GitHub Actions todo dia 1, às 9h17 de Brasília, e guarda o estudo como artefato.
+# Material do módulo 4.5. Vai em .github/workflows/ do repositório. Requer o segredo ANTHROPIC_API_KEY.
+# O cron do GitHub usa o horário UTC: 12h17 UTC = 9h17 em Brasília. Só roda no branch padrão.
+name: Estudo de mercado mensal
+on:
+  schedule:
+    - cron: "17 12 1 * *"
+  workflow_dispatch:            # permite rodar à mão, pela aba Actions, para testar
+jobs:
+  estudo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install anthropic pandas
+      - run: python agente_mercado.py "indústria de embalagens" "região Sul"
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: estudo-de-mercado
+          path: saida_estudos/

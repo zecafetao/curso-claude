@@ -92,6 +92,37 @@ def conferir_estudo(secoes, fontes):
     return problemas
 
 
+def ler_estudo(texto):
+    """Separa as seções e a lista de fontes de um estudo em Markdown.
+
+    Serve para conferir estudos gravados sem a ferramenta de entrega, como os do Agent SDK e do
+    Managed Agents (módulo 4.5). As seções são os títulos "## "; as fontes, a lista numerada da seção Fontes.
+    """
+    secoes, fontes, atual, em_fontes = [], [], None, False
+    for linha in texto.splitlines():
+        if linha.startswith("## "):
+            titulo = linha[3:].strip()
+            em_fontes = titulo.lower() == "fontes"
+            atual = None if em_fontes else {"titulo": titulo, "texto": ""}
+            if atual is not None:
+                secoes.append(atual)
+        elif em_fontes:
+            item = re.match(r"^\s*\d+\.\s+(.*)$", linha)
+            if item:
+                endereco = re.search(r"(https?://\S+|interno:\S+)", item.group(1))
+                fontes.append({"titulo": item.group(1),
+                               "url": endereco.group(1).rstrip("`).,;") if endereco else ""})
+        elif atual is not None:
+            atual["texto"] += linha + "\n"
+    return secoes, fontes
+
+
+def conferir_arquivo(caminho):
+    """Aplica a conferência do estudo a um arquivo Markdown já gravado. Lista vazia: nenhum problema."""
+    secoes, fontes = ler_estudo(Path(caminho).read_text(encoding="utf-8"))
+    return conferir_estudo(secoes, fontes)
+
+
 def ferramenta_de_entrega(setor, regiao):
     """Cria a ferramenta que grava o estudo. Ela é o critério de parada do agente."""
     entregues = []

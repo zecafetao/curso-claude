@@ -185,6 +185,24 @@ def test_penetracao_calcula_so_com_fonte():
     assert tabela.loc["Máquinas e equipamentos", "situacao"].startswith("lacuna")
 
 
+def test_conferencia_de_estudo_gravado_em_arquivo(tmp_path, monkeypatch):
+    entregar, entregues = agente_mercado.ferramenta_de_entrega("teste", "sul")
+    monkeypatch.setattr(agente_mercado, "PASTA_SAIDA", tmp_path)
+    secoes = [{"titulo": t, "texto": f"Texto [{i}]."} for i, t in enumerate(["A", "B", "C", "D"], start=1)]
+    fontes = [{"titulo": "Base", "url": agente_mercado.FONTE_INTERNA}] + [
+        {"titulo": n, "url": f"https://{n}.example/x"} for n in ("b", "c", "d")]
+    assert json.loads(entregar.call({"titulo": "T", "secoes": secoes, "fontes": fontes}))["gravado"]
+    assert agente_mercado.conferir_arquivo(entregues[0]) == []
+
+
+def test_conferencia_do_estudo_real_do_agent_sdk():
+    exemplo = Path(__file__).parent.parent / "dados" / "exemplos" / "estudo_agent_sdk_execucao_real.md"
+    if not exemplo.exists():
+        exemplo = Path("dados_n4/exemplos/estudo_agent_sdk_execucao_real.md")
+    problemas = agente_mercado.conferir_arquivo(exemplo)
+    assert len(problemas) == 1 and problemas[0].startswith("A fonte [1] não tem endereço válido")
+
+
 # ---------- fontes grandes (4.6) ----------
 
 def test_fontes_grandes_nao_cabem_no_contexto_mas_as_ferramentas_resumem():
