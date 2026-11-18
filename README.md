@@ -12,7 +12,7 @@ Os exemplos e exercícios usam o trabalho de um analista de dados de CRM e marke
 | [Nível 2 — Usuário avançado](nivel-2-usuario-avancado/README.md) | 29 | Biblioteca de 10 prompts testados para dados e marketing | Pronto |
 | [Ponte — Python para dados](ponte-python/README.md) | 28 | Script que transforma uma base bruta em arquivo pronto para importação | Pronto |
 | [Nível 3 — Desenvolvedor (API)](nivel-3-desenvolvedor-api/README.md) | 26 | Serviço que padroniza bases com o Claude e relata rejeições e custo | Pronto. Chamadas à API conferidas em simulação |
-| Nível 4 — Agentes | 37 | Agente de relatórios: das exportações do CRM ao relatório mensal e ao report pós-feira. Bônus: agente de campanha | A produzir |
+| [Nível 4 — Agentes](nivel-4-agentes/README.md) | 37 | Agente de relatórios: das exportações do CRM ao relatório mensal e ao report pós-feira. Bônus: agente de campanha | Pronto. Agentes conferidos em simulação; aguarda revisão do aluno |
 | Nível 5 — Produção | 35 | Projeto final: o agente de relatórios em produção | A produzir |
 
 A ementa completa, com objetivo, conteúdo e exercício de cada módulo, está em [Ementa: Curso Completo de Claude](https://claude.ai/artifact/Rwj1rQMrJJyRVJBjrqp6HV).

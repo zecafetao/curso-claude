@@ -268,6 +268,22 @@ def test_skill_do_relatorio_no_claude_code_tem_o_mesmo_metodo():
     assert copia.read_text(encoding="utf-8") == original.read_text(encoding="utf-8")
 
 
+# ---------- bônus: verificador de e-mail ----------
+
+def test_verificador_de_email_do_bonus():
+    sys.path.insert(0, str(Path(__file__).parent / "bonus"))
+    import verificar_email as ve
+    assert round(ve.contraste("#767676", "#FFFFFF"), 2) == 4.54
+    html = ("<html><head><title>Assunto curto</title></head><body>"
+            "<div style=\"display:none\">Pré-cabeçalho diferente</div>"
+            "<table style=\"max-width:600px\"><tr><td style=\"background-color:#F18F01\">"
+            "<a href=\"x\" style=\"display:inline-block; color:#1F1F1F; font-family:Arial\">Ir</a></td></tr>"
+            "<tr><td><a href=\"y\">Descadastrar</a></td></tr></table></body></html>")
+    assert all(ok for _, ok, _ in ve.verificar_email(html, "Ir"))
+    reprovados = [i for i, ok, _ in ve.verificar_email(html.replace("<head>", "<head><style></style>"), "Ir") if not ok]
+    assert reprovados == [6]
+
+
 # ---------- hooks do Claude Code (4.4) ----------
 
 @pytest.mark.parametrize("entrada, codigo", [

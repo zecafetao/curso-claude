@@ -1,0 +1,13 @@
+# Pacotes do Nível 4. Instale no ambiente virtual: pip install -r requirements.txt
+anthropic>=2.8
+mcp>=2.3
+pandas
+numpy
+openpyxl
+matplotlib
+python-pptx
+pytest
+
+# Opcionais, instalados no módulo em que aparecem:
+# claude-agent-sdk     (módulo 4.5; traz o Claude Code embutido)
+# voyageai>=0.3.7      (módulo 4.8; busca por significado)
